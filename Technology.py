@@ -16,8 +16,9 @@ def readCSV(file, sep, encoding, error_bad_lines):
     return df
 
 def create_unique_list(dataframe, column, sort=False):
-    '''Returns a list of unique values in a specified column of dataframe.
-       Sorts alphabetically if sort=True (False as default).
+    '''
+    Returns a list of unique values in a specified column of dataframe.
+    Sorts alphabetically if sort=True (False as default).
     '''
     unique = dataframe[column].unique()
     if sort:
@@ -37,7 +38,7 @@ def query_trends(kwlist, timeframe='today 5-y', geo=''):
 
 def get_weight(kwlist, timeframe='today 5-y', geo=''):
     '''
-    Calls query_trends function, which returns a DataFrame of Google Trends data for a keyword
+    Calls query_trends function, which returns a DataFrame of Google Trends data for given keyword (list)
     Calculates weight value based on change in interest within time period
     Params: kwlist - Keyword parameter (list), timeframe - time period for trend data (string), geo - location (string)
     Returns a weight value
@@ -50,9 +51,15 @@ def get_weight(kwlist, timeframe='today 5-y', geo=''):
     else:
         y1 = df.iloc[1, 0]
         y2 = df.iloc[nrow - 1, 0]
-        weight = y2 - y1 / nrow
+        weight = (y2 - y1) / nrow
+
+        print('tech: ' + str(kwlist[0]) + ', y1: ' + str(y1) + ', y2: ' + str(y2) + ', nrow: ' + str(nrow) + ', weight: ' + str(weight))
 
     return weight
+
+#def dict_to_csv(dict, orient='index'):
+#    df = pd.DataFrame.from_dict(dict, orient=orient)
+#    print(df)
 
 set_working_directory(r'C:\Users\adebola.oshomoji\Documents\KEYRUS_Bootcamp_November\2017\20171030_erp_be_unzipped')
 df = readCSV('technology.csv', sep = ',', encoding='utf-16', error_bad_lines=False)
@@ -60,25 +67,7 @@ technology =  create_unique_list(df, 'Name', sort=True)
 
 pytrends = TrendReq(hl='en-US', tz=360)
 
-tech_weights = {element: get_weight([element]) for element in technology}
+tech_weights_dict = {element: get_weight([element]) for element in technology}
+#dict_to_csv(tech_weights_dict)
 
-print(tech_weights)
-
-#tech_interest = pd.DataFrame()
-
-#kw_list = technology[4:6]
-#pytrends.build_payload('test', timeframe='today 5-y') #
-#df = pytrends.interest_over_time() #
-#print(df)
-#print(technology[5])
-#print(len(technology) - 1)
-'''
-for tech in technology[0]:
-    kw_list = [tech]
-    pytrends.build_payload(kw_list, timeframe='today 5-y')
-    df = pytrends.interest_over_time()
-    df = df.drop('isPartial', axis=1)
-    tech_interest = pd.concat([tech_interest, df], axis=1)
-
-print(tech_interest)
-'''
+print(tech_weights_dict)
