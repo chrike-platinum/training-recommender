@@ -4,6 +4,7 @@ import requests
 import lxml
 from pytrends.request import TrendReq
 
+
 def set_working_directory(directory):
     '''Reads directory as a string argument and changes to desired location'''
     os.chdir(directory)
@@ -25,8 +26,8 @@ def create_unique_list(dataframe, column, sort=False):
 
 def query_trends(kwlist, timeframe='today 5-y', geo=''):
     '''
-    Returns Google trends interest over time data for specified time period and location.
-    kwlist: Key-word as a list
+    Returns DataFrame of Google trends interest over time for specified time period and location.
+    kwlist: Keyword as a list
     timeframe: e.g. "today 5-m" - Default = last 5 years ("today 5-y")
     geo: e.g. "US" - Default = World ('')
     '''
@@ -34,11 +35,24 @@ def query_trends(kwlist, timeframe='today 5-y', geo=''):
     df = pytrends.interest_over_time()
     return df
 
-def create_trend_dataframe(dataframe):
-    trends = pd.DataFrame()
-    empty = []
-    if len(df) == 0:
-        empty.append()
+def get_weight(kwlist, timeframe='today 5-y', geo=''):
+    '''
+    Calls query_trends function, which returns a DataFrame of Google Trends data for a keyword
+    Calculates weight value based on change in interest within time period
+    Params: kwlist - Keyword parameter (list), timeframe - time period for trend data (string), geo - location (string)
+    Returns a weight value
+    '''
+    df = query_trends(kwlist=kwlist, timeframe=timeframe, geo=geo)
+    nrow = df.shape[0]
+
+    if nrow == 0:
+        weight = 0
+    else:
+        y1 = df.iloc[1, 0]
+        y2 = df.iloc[nrow - 1, 0]
+        weight = y2 - y1 / nrow
+
+    return weight
 
 set_working_directory(r'C:\Users\adebola.oshomoji\Documents\KEYRUS_Bootcamp_November\2017\20171030_erp_be_unzipped')
 df = readCSV('technology.csv', sep = ',', encoding='utf-16', error_bad_lines=False)
@@ -46,13 +60,17 @@ technology =  create_unique_list(df, 'Name', sort=True)
 
 pytrends = TrendReq(hl='en-US', tz=360)
 
-tech_interest = pd.DataFrame()
+tech_weights = {element: get_weight([element]) for element in technology}
 
-kw_list = technology[4:6]
-pytrends.build_payload('test', timeframe='today 5-y') #
-df = pytrends.interest_over_time() #
-print(df)
-print(technology[5])
+print(tech_weights)
+
+#tech_interest = pd.DataFrame()
+
+#kw_list = technology[4:6]
+#pytrends.build_payload('test', timeframe='today 5-y') #
+#df = pytrends.interest_over_time() #
+#print(df)
+#print(technology[5])
 #print(len(technology) - 1)
 '''
 for tech in technology[0]:
