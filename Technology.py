@@ -57,6 +57,11 @@ def get_weight(kwlist, timeframe='today 5-y', geo=''):
 
     return weight
 
+def dict_to_dataframe(dict):
+    my_list = [(k, v) for k, v in dict.items()]
+    df = pd.DataFrame(my_list, columns=['Technology', 'Weight'])
+    return df
+
 #def dict_to_csv(dict, orient='index'):
 #    df = pd.DataFrame.from_dict(dict, orient=orient)
 #    print(df)
@@ -70,4 +75,6 @@ pytrends = TrendReq(hl='en-US', tz=360)
 tech_weights_dict = {element: get_weight([element]) for element in technology}
 #dict_to_csv(tech_weights_dict)
 
-print(tech_weights_dict)
+df = dict_to_dataframe(tech_weights_dict)
+print(df)
+df.to_csv(path_or_buf='Technology_Weights.csv', sep='')
