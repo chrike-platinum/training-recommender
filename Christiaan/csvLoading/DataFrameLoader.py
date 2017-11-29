@@ -1,8 +1,6 @@
 __author__ = 'christiaan'
 
-import pandas as pd
-from Christiaan import CSVLoader
-
+from Christiaan.csvLoading import CSVLoader
 
 
 def join(dfs,primDf,secDf,key):

@@ -3,6 +3,9 @@ import os
 import requests
 import lxml
 from pytrends.request import TrendReq
+import matplotlib.pyplot as plt
+import numpy as np
+
 
 
 def set_working_directory(directory):
@@ -36,7 +39,11 @@ def query_trends(kwlist, timeframe='today 5-y', geo=''):
     df = pytrends.interest_over_time()
     return df
 
-def get_weight(kwlist, timeframe='today 5-y', geo=''):
+def ceil(n):
+    res = int(n)
+    return res if res == n or n < 0 else res+1
+
+def get_weight(kwlist, timeframe='today 5-y', geo='BE'):
     '''
     Calls query_trends function, which returns a DataFrame of Google Trends data for given keyword (list)
     Calculates weight value based on change in interest within time period
@@ -49,11 +56,15 @@ def get_weight(kwlist, timeframe='today 5-y', geo=''):
     if nrow == 0:
         weight = 0
     else:
-        y1 = df.iloc[1, 0]
-        y2 = df.iloc[nrow - 1, 0]
-        weight = (y2 - y1) / nrow
-
+        y1 = np.mean([df.iloc[i, 0] for i in range(4)])
+        y2= np.mean([df.iloc[nrow-i, 0] for i in range(1,5)])
+        weight = (y2 - y1) / (nrow)
         print('tech: ' + str(kwlist[0]) + ', y1: ' + str(y1) + ', y2: ' + str(y2) + ', nrow: ' + str(nrow) + ', weight: ' + str(weight))
+
+
+    df.plot()
+    plt.title(weight)
+    plt.show()
 
     return weight
 
@@ -66,9 +77,9 @@ def dict_to_dataframe(dict):
 #    df = pd.DataFrame.from_dict(dict, orient=orient)
 #    print(df)
 
-set_working_directory(r'C:\Users\adebola.oshomoji\Documents\KEYRUS_Bootcamp_November\2017\20171030_erp_be_unzipped')
-df = readCSV('technology.csv', sep = ',', encoding='utf-16', error_bad_lines=False)
-technology =  create_unique_list(df, 'Name', sort=True)
+#set_working_directory(r'C:\Users\adebola.oshomoji\Documents\KEYRUS_Bootcamp_November\2017\20171030_erp_be_unzipped')
+#df = readCSV('technology.csv', sep = ',', encoding='utf-16', error_bad_lines=False)
+technology =  ['hadoop','microsoft','sas' ]#create_unique_list(df, 'Name', sort=True)
 
 pytrends = TrendReq(hl='en-US', tz=360)
 
@@ -77,4 +88,4 @@ tech_weights_dict = {element: get_weight([element]) for element in technology}
 
 df = dict_to_dataframe(tech_weights_dict)
 print(df)
-df.to_csv(path_or_buf='Technology_Weights.csv', sep='')
+df.to_csv(path_or_buf='Technology_Weights.csv', sep=',')
