@@ -1,7 +1,7 @@
 __author__ = 'christiaan'
 
 import pandas as pd
-from DataLoading.CSVLoader import load_CSVs
+from Christiaan import CSVLoader
 
 
 
@@ -32,7 +32,7 @@ def remove_key(df,key):
 
 #dfs = load_CSVs('/Users/christiaan/Desktop/2017/20171030_extract_erp_be/',3)
 
-dfs = load_CSVs('/Users/christiaan/Desktop/2017/delimitersChanges/',3)
+#dfs = CSVLoader.load_CSVs('/Users/christiaan/Desktop/2017/delimitersChanges/',3)
 
 
 filenames = ['businessbackground.csv', 'dim_businesssector.csv', 'dim_department.csv',
@@ -79,6 +79,9 @@ def getTechBackgroundDF():
 
 
 
+
+def getTableauData(fileName):
+ return CSVLoader.read_csv_tableau('/Users/christiaan/Desktop/'+str(fileName)+'.csv',str(fileName)+'.csv')
 
 
 

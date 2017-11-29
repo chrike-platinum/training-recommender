@@ -84,11 +84,13 @@ def replaceDelimiters(dir):
 
 
 
+
 print('start')
 df = read_csv_tableau('/Users/christiaan/Desktop/employees+levels+technologies.csv','employees+levels+technologies.csv')
 print(list(df))
 df=df[['Employee Number','Firstname','Lastname','Level1','Practice1','Suggested Daily Rate','Name','Name (dim technologycategories.csv)']]
 df=df.sort_values('Employee Number')
 df.to_csv('employeeData.csv',index=False)
+
 
 #replaceDelimiters('/Users/christiaan/Desktop/2017/new data/')
