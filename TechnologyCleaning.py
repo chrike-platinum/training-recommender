@@ -1,7 +1,5 @@
-import sys
-sys.path.append('C:\\Users\\adebola.oshomoji\\PycharmProjects\\case-keyrus\\Christiaan')
-
-from CSVLoader import read_csv_tableau
+from Christiaan.CSVLoader import read_csv_tableau
+from Christiaan.dataCleaning import dataCleaner
 import pandas as pd
 import os
 
@@ -21,19 +19,7 @@ df['Technology'] = df['Technology'].str.lower()
 departments = ['BI', 'BD&A']
 df_dep = df[df['Practice'].isin(departments)]
 
-# Split and take only first word of Technology
-def renameTechnology(technology):
-    split = technology.split(' ')
-    print(split)
-    #mic = ['ms', 'microsoft']
 
-    #if split[0] in mic:
-        #tech = split[1]
-    #else:
-        #tech = split[0]
-    #return tech
-
-df_dep['Technology'] = df_dep['Technology'].map(renameTechnology)
 
 #print(df_dep['Technology'])
 
