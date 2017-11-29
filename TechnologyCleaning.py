@@ -1,4 +1,4 @@
-from Christiaan.CSVLoader import read_csv_tableau
+from Christiaan.csvLoading.CSVLoader import read_csv_tableau
 from Christiaan.dataCleaning.dataCleaner import cleanTechColumn
 import pandas as pd
 import os
