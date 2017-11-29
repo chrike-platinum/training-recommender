@@ -54,10 +54,10 @@ def read_csv_tableau(filename,simplefileName):
                     break
             detector.close()
         print('Encoding detected: '+str(detector.result['encoding'])+' with confidence: '+str(detector.result['confidence'])*100+'%')
-        return pd.read_csv(filename,delimiter='\t',encoding=detector.result['encoding'])
+        return pd.read_csv(filename,delimiter=',',encoding=detector.result['encoding'])
 
     except:
-        return pd.read_csv(filename,delimiter='\t',encoding=detector.result['encoding'], error_bad_lines=False)
+        return pd.read_csv(filename,delimiter=',',encoding=detector.result['encoding'], error_bad_lines=False)
 
 
 def load_CSVs(dir,numberOfPools):
@@ -84,13 +84,11 @@ def replaceDelimiters(dir):
 
 
 
-
-print('start')
-df = read_csv_tableau('/Users/christiaan/Desktop/employees+levels+technologies.csv','employees+levels+technologies.csv')
-print(list(df))
-df=df[['Employee Number','Firstname','Lastname','Level1','Practice1','Suggested Daily Rate','Name','Name (dim technologycategories.csv)']]
-df=df.sort_values('Employee Number')
-df.to_csv('employeeData.csv',index=False)
-
+#print('start')
+#df = read_csv_tableau('/Users/christiaan/Desktop/employees+levels+technologies.csv','employees+levels+technologies.csv')
+#print(list(df))
+#df=df[['Employee Number','Firstname','Lastname','Level1','Practice1','Suggested Daily Rate','Name','Name (dim technologycategories.csv)']]
+#df=df.sort_values('Employee Number')
+#df.to_csv('employeeData.csv',index=False)
 
 #replaceDelimiters('/Users/christiaan/Desktop/2017/new data/')
