@@ -5,10 +5,13 @@ from Christiaan import DataFrameLoader
 def cleanTechWord(techWord):
     TechWordSplit = techWord.lower().replace('.',' ').replace('(',' ').replace(')',' ').replace('/',' ').split(' ')
     if TechWordSplit[0]=='microsoft' or TechWordSplit[0]=='ms':
-        if TechWordSplit[1]=='visual':
-            return TechWordSplit[0]+' '+TechWordSplit[1]+' (ms)'
+        if len(TechWordSplit) > 1:
+            if TechWordSplit[1]=='visual':
+                return TechWordSplit[0]+' '+TechWordSplit[1]
+            else:
+                return TechWordSplit[1]#+' (ms)'
         else:
-            return TechWordSplit[1]#+' (ms)'
+            return TechWordSplit[0]
     elif  TechWordSplit[0]=='bo' or TechWordSplit[0]=='business' and TechWordSplit[1]=='objects':
         return 'sap'#TechWordSplit[1]+' (sap)'
     elif  TechWordSplit[0]=='complete':
@@ -71,4 +74,4 @@ def getTechFromExperience():
         print((item, getListOfTechnologies(df, item, 'employeeNumber', 'Technology', 'TechnologyCategory')))
 
 
-getTechFromExperience()
+#getTechFromExperience()

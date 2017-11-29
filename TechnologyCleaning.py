@@ -1,5 +1,5 @@
 from Christiaan.CSVLoader import read_csv_tableau
-from Christiaan.dataCleaning import dataCleaner
+from Christiaan.dataCleaning.dataCleaner import cleanTechColumn
 import pandas as pd
 import os
 
@@ -13,13 +13,15 @@ df = df[['Employee Number', 'Firstname Firstname', 'Lastname Lastname', 'Level L
 df.columns =['Employee Number', 'Firstname', 'Lastname', 'Level', 'Practice', 'Suggested Daily Rate', 'Technology', 'Technology Category']
 df.sort_values('Employee Number', inplace=True)
 
-df['Technology'] = df['Technology'].str.lower()
+#df['Technology'] = df['Technology'].str.lower()
 
 # Filter by Department = BI and BD&A
 departments = ['BI', 'BD&A']
 df_dep = df[df['Practice'].isin(departments)]
 
+test = cleanTechColumn(df_dep, 'Technology')
 
+print(test.Technology)
 
 #print(df_dep['Technology'])
 
