@@ -40,9 +40,13 @@ def read_csv(filename,simplefileName):
 
 
 
-def read_csv_tableau(filename,simplefileName):
+def read_csv_tableau(filename,simplefileName,user='Ade'):
     '''converts a filename to a pandas dataframe
     TODO: Fix complete ExceptionHandlers'''
+
+    delimiter=','
+    if user=='chris':
+        delimiter='\t'
     print('reading: '+str(simplefileName))
     try:
         detector = UniversalDetector()
@@ -54,10 +58,12 @@ def read_csv_tableau(filename,simplefileName):
                     break
             detector.close()
         print('Encoding detected: '+str(detector.result['encoding'])+' with confidence: '+str(detector.result['confidence'])*100+'%')
-        return pd.read_csv(filename,delimiter='\t',encoding=detector.result['encoding'])
+        return pd.read_csv(filename,delimiter=delimiter,encoding=detector.result['encoding'])
 
     except:
-        return pd.read_csv(filename,delimiter='\t',encoding=detector.result['encoding'], error_bad_lines=False)
+        return pd.read_csv(filename,delimiter=delimiter,encoding=detector.result['encoding'], error_bad_lines=False)
+
+
 
 
 def load_CSVs(dir,numberOfPools):
