@@ -32,6 +32,8 @@ def cleanTechWord(techWord):
         return TechWordSplit[0]+' '+TechWordSplit[1]
     elif TechWordSplit[0]=='data':
         return TechWordSplit[0]+' '+TechWordSplit[1]
+    elif TechWordSplit[0]=='natural' and TechWordSplit[1]=='language':
+        return 'nlp'
     else:
         return TechWordSplit[0]
 

@@ -19,9 +19,16 @@ df.sort_values('Employee Number', inplace=True)
 departments = ['BI', 'BD&A']
 df_dep = df[df['Practice'].isin(departments)]
 
+a = [x for x in df_dep['Technology']]
+
 test = cleanTechColumn(df_dep, 'Technology')
 
-[print(i, j) for i, j in enumerate(df_dep['Technology'])]
+b = [x for x in df_dep['Technology']]
+
+ab = zip(a, b)
+[print(i) for i in ab]
+
+#[print(i, j) for i, j in enumerate(df_dep['Technology'])]
 
 #print(df_dep['Technology'])
 
