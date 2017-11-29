@@ -3,7 +3,7 @@ __author__ = 'christiaan'
 from Christiaan import DataFrameLoader
 
 def cleanTechWord(techWord):
-    TechWordSplit = techWord.lower().replace('.',' ').replace('(',' ').replace(')',' ').replace('/',' ').split(' ')
+    TechWordSplit = techWord.lower().replace('.',' ').replace('(',' ').replace(')',' ').replace('/',' ').replace(':', ' ').split(' ')
     if TechWordSplit[0]=='microsoft' or TechWordSplit[0]=='ms':
         if len(TechWordSplit) > 1:
             if TechWordSplit[1]=='visual':

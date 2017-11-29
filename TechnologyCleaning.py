@@ -21,7 +21,7 @@ df_dep = df[df['Practice'].isin(departments)]
 
 test = cleanTechColumn(df_dep, 'Technology')
 
-print(test.Technology)
+[print(i, j) for i, j in enumerate(df_dep['Technology'])]
 
 #print(df_dep['Technology'])
 
