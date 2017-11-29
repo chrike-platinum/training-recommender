@@ -9,8 +9,8 @@ filename = 'tableau_technology_export.csv'
 df = read_csv_tableau(filename, filename)
 
 #df = df[['Employee Number','Firstname','Lastname','Level1','Practice1','Suggested Daily Rate','Name','Name (dim technologycategories.csv)']]
-df = df[['Employee Number', 'Firstname Firstname', 'Lastname Lastname', 'Level Level', 'Practice Practice', 'Suggested Daily Rate', 'Name Name', 'Name Name (dim_technologycategories.csv)']]
-df.columns =['Employee Number', 'Firstname', 'Lastname', 'Level', 'Practice', 'Suggested Daily Rate', 'Technology', 'Technology Category']
+df = df[['Employee Number', 'Firstname Firstname', 'Lastname Lastname', 'Level Level', 'Practice Practice', 'Suggested Daily Rate', 'Name Name']]
+df.columns =['Employee Number', 'Firstname', 'Lastname', 'Level', 'Practice', 'Suggested Daily Rate', 'Technology']
 df.sort_values('Employee Number', inplace=True)
 
 #df['Technology'] = df['Technology'].str.lower()
@@ -19,14 +19,36 @@ df.sort_values('Employee Number', inplace=True)
 departments = ['BI', 'BD&A']
 df_dep = df[df['Practice'].isin(departments)]
 
-a = [x for x in df_dep['Technology']]
+#a = [x for x in df_dep['Technology']]
 
-test = cleanTechColumn(df_dep, 'Technology')
+# Clean Technology column values and drop duplicates
+df_dep = cleanTechColumn(df_dep, 'Technology')
+df_dep.drop_duplicates(inplace=True)
 
-b = [x for x in df_dep['Technology']]
+# Obtain list of Technologies for each employee
+emp_num = df_dep['Employee Number'].unique()
+emp_tech_list = [df_dep.loc[df_dep['Employee Number']==num, 'Technology'].values.tolist() for num in emp_num]
 
-ab = zip(a, b)
-[print(i) for i in ab]
+# Remove Technology column and unify rows for each employee
+df_dep = df_dep.drop('Technology', axis=1).drop_duplicates()
+
+# Convert df to list of lists (for each row)
+row_vals = df_dep.values.tolist()
+
+# Zip row values and Technologies
+emp_tech_tuples = list(zip(row_vals, emp_tech_list))
+
+print(emp_tech_tuples)
+
+
+
+
+#print(
+#df_dep.loc[df_dep['Employee Number']==6,'Technology'])
+#b = [x for x in df_dep['Technology']]
+
+#ab = zip(a, b)
+#[print(i) for i in ab]
 
 #[print(i, j) for i, j in enumerate(df_dep['Technology'])]
 
