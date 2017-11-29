@@ -1,9 +1,6 @@
 from Christiaan.csvLoading.CSVLoader import read_csv_tableau
 from Christiaan.dataCleaning.dataCleaner import cleanTechColumn
 import pandas as pd
-import os
-
-os.chdir(r'C:\Users\adebola.oshomoji\Documents\KEYRUS_Bootcamp_November\2017')
 
 filename = 'tableau_technology_export.csv'
 df = read_csv_tableau(filename, filename)
