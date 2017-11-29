@@ -81,7 +81,7 @@ def getTechBackgroundDF():
 
 
 def getTableauData(fileName):
- return CSVLoader.read_csv_tableau('/Users/christiaan/Desktop/'+str(fileName)+'.csv',str(fileName)+'.csv')
+ return CSVLoader.read_csv_tableau('/Users/christiaan/Desktop/'+str(fileName)+'.csv',str(fileName)+'.csv',user='chris')
 
 
 

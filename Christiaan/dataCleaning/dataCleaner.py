@@ -20,7 +20,7 @@ def cleanTechWord(techWord):
     elif  TechWordSplit[0]=='big':
         return TechWordSplit[0]+' '+TechWordSplit[1]
     elif TechWordSplit[0]=='oracle':
-        return TechWordSplit[1]#+' (oracle)'
+        return 'oracle'#TechWordSplit[1]#+' (oracle)'
     elif TechWordSplit[0]=='open':
         return TechWordSplit[0]+' '+TechWordSplit[1]
     elif TechWordSplit[0]=='power':
