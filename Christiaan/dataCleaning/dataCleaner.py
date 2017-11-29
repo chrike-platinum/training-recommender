@@ -28,6 +28,10 @@ def cleanTechWord(techWord):
         return TechWordSplit[0]+' '+TechWordSplit[1]
     elif TechWordSplit[0]=='power':
         return TechWordSplit[0]+' '+TechWordSplit[1]
+    elif TechWordSplit[0]=='business':
+        return TechWordSplit[0]+' '+TechWordSplit[1]
+    elif TechWordSplit[0]=='data':
+        return TechWordSplit[0]+' '+TechWordSplit[1]
     else:
         return TechWordSplit[0]
 
