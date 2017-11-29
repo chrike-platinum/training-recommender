@@ -1,0 +1,850 @@
+Employee Number,Firstname,Lastname,Level1,Practice1,Suggested Daily Rate,Name,Name (dim technologycategories.csv)
+6,Gianfranco,Gentile,Consultant,BI,450,C,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,Oracle,RDBMS
+6,Gianfranco,Gentile,Consultant,BI,450,Cobol,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,SAS 9.4,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,Business Objects,Reporting Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Enterprise Guide,Software
+6,Gianfranco,Gentile,Consultant,BI,450,SAS ETL,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,MS Visio,Office Softwares
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Advanced,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/Macro,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/Base,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SQL,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,JSP,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,Servlet,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,Kimball methodology,Methodologies
+6,Gianfranco,Gentile,Consultant,BI,450,UML,Methodologies
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Data Integration Studio 4.9,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,WebSphere,Software
+6,Gianfranco,Gentile,Consultant,BI,450,Java,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,TOAD,Software
+6,Gianfranco,Gentile,Consultant,BI,450,SELECT Component Architect,Software
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/Base,Software
+6,Gianfranco,Gentile,Consultant,BI,450,Data modeling,Methodologies
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/Base,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,UNIX HP,Operating Systems
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Data Surveyor for SAP,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Financial Management,Performance Management
+6,Gianfranco,Gentile,Consultant,BI,450,SAS WEB Report Studio,Reporting Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Data Integration Studio,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,Oracle SQL Developer,Software
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Enterprise BI Server,Performance Management
+6,Gianfranco,Gentile,Consultant,BI,450,Oracle 11g,RDBMS
+6,Gianfranco,Gentile,Consultant,BI,450,SAS 9,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,MS Office,Office Softwares
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/EIS,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,Agile,Methodologies
+6,Gianfranco,Gentile,Consultant,BI,450,Oracle PL/SQL,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Enterprise Guide,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,PowerDesigner,Software
+6,Gianfranco,Gentile,Consultant,BI,450,Oracle 10g,RDBMS
+6,Gianfranco,Gentile,Consultant,BI,450,Oracle Warehouse Builder,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,Dimensional Modeling,Methodologies
+6,Gianfranco,Gentile,Consultant,BI,450,SAS - Report writing,Reporting Tools
+6,Gianfranco,Gentile,Consultant,BI,450,MVS,Operating Systems
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/Macro,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,Mercury Quality Center,Software
+6,Gianfranco,Gentile,Consultant,BI,450,Oracle 12c,RDBMS
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Information Map Studio,Reporting Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/OLAP,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/AF,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,UNIX Solaris,Operating Systems
+6,Gianfranco,Gentile,Consultant,BI,450,VAX:VMS,Operating Systems
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/AppDev Studio,Programming Languages
+6,Gianfranco,Gentile,Consultant,BI,450,VTOM,Software
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/Access to SAP/R3,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS/Internet,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,OS 390,Operating Systems
+6,Gianfranco,Gentile,Consultant,BI,450,Data Warehousing,Methodologies
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Visual Analytics,Reporting Tools
+6,Gianfranco,Gentile,Consultant,BI,450,BO Designer,Reporting Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS,Datawarehousing Tools
+6,Gianfranco,Gentile,Consultant,BI,450,SAS Warehouse Administrator,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,Data modeling,Methodologies
+16,Ilke,Stabel,Consultant,BI,450,SAS 9,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,DHTML,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,SAS - BI,Reporting Tools
+16,Ilke,Stabel,Consultant,BI,450,XSL,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,XML,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,Informatica Power Center,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS 9,Software
+16,Ilke,Stabel,Consultant,BI,450,Windows NT/2000 Server,Operating Systems
+16,Ilke,Stabel,Consultant,BI,450,UNIX Solaris,Operating Systems
+16,Ilke,Stabel,Consultant,BI,450,BO WebIntelligence XI,Reporting Tools
+16,Ilke,Stabel,Consultant,BI,450,UNIX HP,Operating Systems
+16,Ilke,Stabel,Consultant,BI,450,BO XI,Software
+16,Ilke,Stabel,Consultant,BI,450,Servlet,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,SAS FM,Performance Management
+16,Ilke,Stabel,Consultant,BI,450,SAS Data Integration Studio,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,MS Visio,Office Softwares
+16,Ilke,Stabel,Consultant,BI,450,Oracle 9.i,RDBMS
+16,Ilke,Stabel,Consultant,BI,450,Windows NT/2000 Workstation,Operating Systems
+16,Ilke,Stabel,Consultant,BI,450,WSBCC,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,SAS/Access,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS/MDDB,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,Java (J2SE),Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,WebSphere,Software
+16,Ilke,Stabel,Consultant,BI,450,SAS/OLAP,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,OO Analysis,Methodologies
+16,Ilke,Stabel,Consultant,BI,450,MS SQL Server 2000,RDBMS
+16,Ilke,Stabel,Consultant,BI,450,SAS/Insight,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS Warehouse Administrator,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS/Assist,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS/Connect,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS FM,Reporting Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS/Motore,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,UML,Methodologies
+16,Ilke,Stabel,Consultant,BI,450,Microsoft SSIS 2005,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS/Macro,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,ASP,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,J2EE,Hardware
+16,Ilke,Stabel,Consultant,BI,450,Oracle,RDBMS
+16,Ilke,Stabel,Consultant,BI,450,MS Access,Office Softwares
+16,Ilke,Stabel,Consultant,BI,450,Java Script,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,Java,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,OO Modeling,Methodologies
+16,Ilke,Stabel,Consultant,BI,450,MicroStrategy,Reporting Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS/Internet,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS/EIS,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,SAS/Base,Datawarehousing Tools
+16,Ilke,Stabel,Consultant,BI,450,Informix,RDBMS
+16,Ilke,Stabel,Consultant,BI,450,JSP,Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,Java(J2EE),Programming Languages
+16,Ilke,Stabel,Consultant,BI,450,SAS/AF,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Functional analysis,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Ab Initio,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Data modeling,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Kimball methodology,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,SAS WEB Report Studio,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Cognos Workspace Advanced,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Netezza,Hardware
+18,Glenn,De Munck,Consultant,BI,450,VBA,Programming Languages
+18,Glenn,De Munck,Consultant,BI,450,SAS Data Integration Studio 4.21,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,SAS Data Integration Studio,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Data modeling,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Cognos Framework Manager,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Business Intelligence,Hardware
+18,Glenn,De Munck,Consultant,BI,450,ETL,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,BO Desktop Intelligence XI,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Turbo Pascal,Programming Languages
+18,Glenn,De Munck,Consultant,BI,450,Cognos TM1,Performance Management
+18,Glenn,De Munck,Consultant,BI,450,Kimball methodology,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,SAS OLAP Cube Studio,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Cognos Active reports,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Data modeling,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Kalido MDM,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,BO Designer,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Tibco,Hardware
+18,Glenn,De Munck,Consultant,BI,450,SAP R/3,ERP
+18,Glenn,De Munck,Consultant,BI,450,BO Reporter,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,SAS MDM,Hardware
+18,Glenn,De Munck,Consultant,BI,450,BO Designer,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Oracle,RDBMS
+18,Glenn,De Munck,Consultant,BI,450,Cognos Report Studio,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,BO Reporter,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,MS Access,Office Softwares
+18,Glenn,De Munck,Consultant,BI,450,Kalido DIW,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Business Intelligence,Hardware
+18,Glenn,De Munck,Consultant,BI,450,CRM,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Informatica Power Center,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,SAS Visual Analytics,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Business Intelligence,Hardware
+18,Glenn,De Munck,Consultant,BI,450,Business Intelligence,Hardware
+18,Glenn,De Munck,Consultant,BI,450,Data modeling,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,SAS FM,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Data Warehousing,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,SAS BI Dashboard,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,Data Warehousing,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Visual Basic,Programming Languages
+18,Glenn,De Munck,Consultant,BI,450,Data Warehousing,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Data Warehousing,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Data modeling,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,SAS Financial Management,Performance Management
+18,Glenn,De Munck,Consultant,BI,450,Quality Control,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Kimball methodology,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Dimensional Modeling,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Hyperion,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,SAS,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,SAS/Base,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Business Objects XI,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,SQL Server 2008 Business Intelligence,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,SQL,Programming Languages
+18,Glenn,De Munck,Consultant,BI,450,Business Analysis,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,IBM Datastage,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Transfer Pricing Systems,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Cobol,Programming Languages
+18,Glenn,De Munck,Consultant,BI,450,Audit,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,SQL Server Integration Services,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Informix,RDBMS
+18,Glenn,De Munck,Consultant,BI,450,Data Quality,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,Cognos,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Kimball methodology,Methodologies
+18,Glenn,De Munck,Consultant,BI,450,MS Project,Office Softwares
+18,Glenn,De Munck,Consultant,BI,450,Project Management (general),Methodologies
+18,Glenn,De Munck,Consultant,BI,450,SAS/EIS,Datawarehousing Tools
+18,Glenn,De Munck,Consultant,BI,450,Sybase,RDBMS
+18,Glenn,De Munck,Consultant,BI,450,BO Designer XI,Reporting Tools
+18,Glenn,De Munck,Consultant,BI,450,SAS FM,Performance Management
+20,Lorraine,Swiatek,Consultant,BI,450,SAS Enterprise Reporter,Reporting Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Teradata,RDBMS
+20,Lorraine,Swiatek,Consultant,BI,450,Business Objects,Reporting Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Scrum,Methodologies
+20,Lorraine,Swiatek,Consultant,BI,450,RAPID,Software
+20,Lorraine,Swiatek,Consultant,BI,450,Informatica,RDBMS
+20,Lorraine,Swiatek,Consultant,BI,450,PMBOK,Methodologies
+20,Lorraine,Swiatek,Consultant,BI,450,SAS/EIS,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Oracle 9i OLAP,Reporting Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Informix,RDBMS
+20,Lorraine,Swiatek,Consultant,BI,450,SAS/MDDB,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Tableau Software,Software
+20,Lorraine,Swiatek,Consultant,BI,450,QlikView,Reporting Tools
+20,Lorraine,Swiatek,Consultant,BI,450,UML,Methodologies
+20,Lorraine,Swiatek,Consultant,BI,450,Informix 4 GL,Programming Languages
+20,Lorraine,Swiatek,Consultant,BI,450,SQL Server Integration Services,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,SAS/AF,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,SQL Server,RDBMS
+20,Lorraine,Swiatek,Consultant,BI,450,Kimball methodology,Methodologies
+20,Lorraine,Swiatek,Consultant,BI,450,SAS/Base,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Oracle Data Modeler,Software
+20,Lorraine,Swiatek,Consultant,BI,450,TOAD,Software
+20,Lorraine,Swiatek,Consultant,BI,450,Centura,Programming Languages
+20,Lorraine,Swiatek,Consultant,BI,450,Oracle,RDBMS
+20,Lorraine,Swiatek,Consultant,BI,450,MS Project,Hardware
+20,Lorraine,Swiatek,Consultant,BI,450,SELECT Component Architect,Software
+20,Lorraine,Swiatek,Consultant,BI,450,Erwin,Software
+20,Lorraine,Swiatek,Consultant,BI,450,MicroStrategy,Reporting Tools
+20,Lorraine,Swiatek,Consultant,BI,450,SAS RMFI,Hardware
+20,Lorraine,Swiatek,Consultant,BI,450,Excel,Office Softwares
+20,Lorraine,Swiatek,Consultant,BI,450,MS Project,Office Softwares
+20,Lorraine,Swiatek,Consultant,BI,450,Unix,Operating Systems
+20,Lorraine,Swiatek,Consultant,BI,450,Oracle Warehouse Builder,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Peoplesoft GL,Hardware
+20,Lorraine,Swiatek,Consultant,BI,450,Ingres,RDBMS
+20,Lorraine,Swiatek,Consultant,BI,450,SAS,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,TM1,Software
+20,Lorraine,Swiatek,Consultant,BI,450,Cognos 10,Reporting Tools
+20,Lorraine,Swiatek,Consultant,BI,450,SAS/Access,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,UNIX Solaris,Operating Systems
+20,Lorraine,Swiatek,Consultant,BI,450,Cognos,Reporting Tools
+20,Lorraine,Swiatek,Consultant,BI,450,SQL,Programming Languages
+20,Lorraine,Swiatek,Consultant,BI,450,MS Visio,Office Softwares
+20,Lorraine,Swiatek,Consultant,BI,450,Informatica Power Center,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Metadata tool,Datawarehousing Tools
+20,Lorraine,Swiatek,Consultant,BI,450,Oracle PL/SQL,Programming Languages
+20,Lorraine,Swiatek,Consultant,BI,450,SAS Warehouse Administrator,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,Cognos Descision Stream,Hardware
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS ETL,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,MS Access,Office Softwares
+21,Jean-Christophe,Haffner,Consultant,BI,450,Erwin,Software
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS/Base,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,Business Objects,Reporting Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS/Connect,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,BO Designer,Reporting Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,"SAS (Base,Macro,SQL,AF)",Programming Languages
+21,Jean-Christophe,Haffner,Consultant,BI,450,Pascal,Programming Languages
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS/Macro,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS/Share,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,C++,Programming Languages
+21,Jean-Christophe,Haffner,Consultant,BI,450,"Windows OS (3.x, 9X, 2000, Me, XP)",Operating Systems
+21,Jean-Christophe,Haffner,Consultant,BI,450,UNIX HP,Operating Systems
+21,Jean-Christophe,Haffner,Consultant,BI,450,Excel,Office Softwares
+21,Jean-Christophe,Haffner,Consultant,BI,450,MS Visio,Office Softwares
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS Warehouse Administrator,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,Data Warehousing,Methodologies
+21,Jean-Christophe,Haffner,Consultant,BI,450,MVS,Operating Systems
+21,Jean-Christophe,Haffner,Consultant,BI,450,Oracle Data Intégrator,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,Kalido DIW,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,Oracle Business Intelligence Suite Enterprise Edit,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,Agile,Methodologies
+21,Jean-Christophe,Haffner,Consultant,BI,450,Congos ReportNet,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAP ISU,ERP
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAP R/3,ERP
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS FM,Software
+21,Jean-Christophe,Haffner,Consultant,BI,450,None,Operational Management
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAS Data Integration Studio,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,Scrum,Methodologies
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAP BW,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,SAP HANA,Datawarehousing Tools
+21,Jean-Christophe,Haffner,Consultant,BI,450,Kalido MDM,Datawarehousing Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,OS 2,Operating Systems
+29,Axel,Botton-Roulin,Expert,CPM,450,SAS Visual Analytics,Performance Management
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle BI EE,Reporting Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,RBSTi,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,dBase,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,Data modeling,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,UNIX Shell Script,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,Informix,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,Process Modeling,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,SAP Business By Design,ERP
+29,Axel,Botton-Roulin,Expert,CPM,450,HP OV - Performance,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,MySQL,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,SQL Server Integration Services,Datawarehousing Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,Tableau Software,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Hyperion EPM System,IT Service Management
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,SAP BPC,Performance Management
+29,Axel,Botton-Roulin,Expert,CPM,450,Kanban,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,UNIX HP,Operating Systems
+29,Axel,Botton-Roulin,Expert,CPM,450,DNS/DHCP,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Tagetik,Performance Management
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle PL/SQL,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,Kalido MDM,Datawarehousing Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,All Fusion,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Sendmail - SMTP,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Microsoft SQL Server 2012,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,Data Warehousing,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,Omniguard/ESM,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,TM1,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Promodag,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Microsoft Sql Server 2008,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,COPS,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Crystal Reports,Reporting Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,QlikView,Reporting Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,SQL Server,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle Discoverer,Reporting Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,UNIX Solaris,Operating Systems
+29,Axel,Botton-Roulin,Expert,CPM,450,SATAN,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Connect Direct,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Data Warehousing,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,UNIX DIGITAL,Operating Systems
+29,Axel,Botton-Roulin,Expert,CPM,450,Rexx,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,UNIX AIX,Operating Systems
+29,Axel,Botton-Roulin,Expert,CPM,450,DB2,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,Java Script,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,Kimball methodology,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,Business Objects,Reporting Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,Erwin,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,SAS/Base,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle BI Foundations,Reporting Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle Exadata,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,Informatica Power Center,Datawarehousing Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,Netezza,Hardware
+29,Axel,Botton-Roulin,Expert,CPM,450,"Windows OS (3.x, 9X, 2000, Me, XP)",Operating Systems
+29,Axel,Botton-Roulin,Expert,CPM,450,awk,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,C,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,SAS/ITSV,Datawarehousing Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,"Distel 5000, 4x00",Hardware
+29,Axel,Botton-Roulin,Expert,CPM,450,Java (J2SE),Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,Scrum,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,HP9000,Hardware
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle Endeca,Performance Management
+29,Axel,Botton-Roulin,Expert,CPM,450,SAS/Macro,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,PC,Hardware
+29,Axel,Botton-Roulin,Expert,CPM,450,DOS,Operating Systems
+29,Axel,Botton-Roulin,Expert,CPM,450,SAS/Base,Datawarehousing Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,JCL,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,Perl,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,CGI,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,HP OV - Service Desk,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Linux,Operating Systems
+29,Axel,Botton-Roulin,Expert,CPM,450,BO XI,Software
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle Applications,ERP
+29,Axel,Botton-Roulin,Expert,CPM,450,CPM,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,MS Access,Office Softwares
+29,Axel,Botton-Roulin,Expert,CPM,450,MS Office,Office Softwares
+29,Axel,Botton-Roulin,Expert,CPM,450,PostgreSQL,RDBMS
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle Financials,ERP
+29,Axel,Botton-Roulin,Expert,CPM,450,SQL,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,HTML,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle Forms,Programming Languages
+29,Axel,Botton-Roulin,Expert,CPM,450,Dimensional Modeling,Methodologies
+29,Axel,Botton-Roulin,Expert,CPM,450,Microsoft Excel,Reporting Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,SAS Data Integration Studio,Datawarehousing Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,Oracle Warehouse Builder,Datawarehousing Tools
+29,Axel,Botton-Roulin,Expert,CPM,450,None,Operational Management
+29,Axel,Botton-Roulin,Expert,CPM,450,MVS,Operating Systems
+34,Sandra,Geeraerts,Expert,BI,450,Windows NT/2000 Workstation,Operating Systems
+34,Sandra,Geeraerts,Expert,BI,450,Metadata tool,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,Oracle Warehouse Builder,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,MS Project,Office Softwares
+34,Sandra,Geeraerts,Expert,BI,450,OO Analysis,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,GANTT,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,Data Warehousing,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,SAS/MDDB,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,Mathematics,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,BO Reporter,Reporting Tools
+34,Sandra,Geeraerts,Expert,BI,450,Kimball methodology,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,SAS,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,Dimensional Modeling,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,VBA,Programming Languages
+34,Sandra,Geeraerts,Expert,BI,450,PowerDesigner,Software
+34,Sandra,Geeraerts,Expert,BI,450,SAS/STAT,Programming Languages
+34,Sandra,Geeraerts,Expert,BI,450,MS Data Tansformation Services,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,SQL Server,RDBMS
+34,Sandra,Geeraerts,Expert,BI,450,Business Objects,Reporting Tools
+34,Sandra,Geeraerts,Expert,BI,450,Java,Programming Languages
+34,Sandra,Geeraerts,Expert,BI,450,DB2,RDBMS
+34,Sandra,Geeraerts,Expert,BI,450,UML,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,DWH Architecture Design,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,Informix,RDBMS
+34,Sandra,Geeraerts,Expert,BI,450,MS OLAP Analysis Services,RDBMS
+34,Sandra,Geeraerts,Expert,BI,450,Data modeling,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,SAS,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,OS 390,Operating Systems
+34,Sandra,Geeraerts,Expert,BI,450,SAS/Internet,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,Business Analysis,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,SAS ETL,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,All Fusion,Software
+34,Sandra,Geeraerts,Expert,BI,450,SAS/AF,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,BO Data Integrator,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,SAS,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,MS SQL Server 2000,RDBMS
+34,Sandra,Geeraerts,Expert,BI,450,SAP R2-R3,RDBMS
+34,Sandra,Geeraerts,Expert,BI,450,MS Reporting Services,Reporting Tools
+34,Sandra,Geeraerts,Expert,BI,450,JSP,Programming Languages
+34,Sandra,Geeraerts,Expert,BI,450,SAS/Connect,Datawarehousing Tools
+34,Sandra,Geeraerts,Expert,BI,450,Servlet,Programming Languages
+34,Sandra,Geeraerts,Expert,BI,450,BO Designer,Reporting Tools
+34,Sandra,Geeraerts,Expert,BI,450,UNIX Solaris,Operating Systems
+34,Sandra,Geeraerts,Expert,BI,450,Process Modeling,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,HTML,Programming Languages
+34,Sandra,Geeraerts,Expert,BI,450,ETL,Software
+34,Sandra,Geeraerts,Expert,BI,450,Business Intelligence,Hardware
+34,Sandra,Geeraerts,Expert,BI,450,ABC,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,SAS - Data Mining,Reporting Tools
+34,Sandra,Geeraerts,Expert,BI,450,SAS Information Map Studio,Reporting Tools
+34,Sandra,Geeraerts,Expert,BI,450,"SAS (Base,Macro,SQL,AF)",Programming Languages
+34,Sandra,Geeraerts,Expert,BI,450,Oracle,RDBMS
+34,Sandra,Geeraerts,Expert,BI,450,SAS - Report writing,Reporting Tools
+34,Sandra,Geeraerts,Expert,BI,450,OO Modeling,Methodologies
+34,Sandra,Geeraerts,Expert,BI,450,SAS WEB Report Studio,Datawarehousing Tools
+37,Ayman,Sarhan,Expert,BI,450,BO Supervisor,Hardware
+37,Ayman,Sarhan,Expert,BI,450,SAP Business Objects 4.0,Reporting Tools
+37,Ayman,Sarhan,Expert,BI,450,SAS/Base,Datawarehousing Tools
+37,Ayman,Sarhan,Expert,BI,450,DHTML,Programming Languages
+37,Ayman,Sarhan,Expert,BI,450,BO Designer,Reporting Tools
+37,Ayman,Sarhan,Expert,BI,450,CGI,Programming Languages
+37,Ayman,Sarhan,Expert,BI,450,DB2,RDBMS
+37,Ayman,Sarhan,Expert,BI,450,SAS/Internet,Datawarehousing Tools
+37,Ayman,Sarhan,Expert,BI,450,SQL Server 2008 R2,RDBMS
+37,Ayman,Sarhan,Expert,BI,450,Business Objects,Reporting Tools
+37,Ayman,Sarhan,Expert,BI,450,VB.NET,Programming Languages
+37,Ayman,Sarhan,Expert,BI,450,JavaScript,Programming Languages
+37,Ayman,Sarhan,Expert,BI,450,BO Reporter 5.x,Reporting Tools
+37,Ayman,Sarhan,Expert,BI,450,BO Designer 5.x,Reporting Tools
+37,Ayman,Sarhan,Expert,BI,450,Oracle 9.i,RDBMS
+37,Ayman,Sarhan,Expert,BI,450,Java 8,Programming Languages
+37,Ayman,Sarhan,Expert,BI,450,Windows 2003,Operating Systems
+37,Ayman,Sarhan,Expert,BI,450,Business Objects XI,Reporting Tools
+37,Ayman,Sarhan,Expert,BI,450,ETL,Software
+37,Ayman,Sarhan,Expert,BI,450,Windows Server 2012,Operating Systems
+37,Ayman,Sarhan,Expert,BI,450,SQL Server DTS,RDBMS
+37,Ayman,Sarhan,Expert,BI,450,Windows Server 2008 R2,Operating Systems
+37,Ayman,Sarhan,Expert,BI,450,Java (J2SE),Programming Languages
+37,Ayman,Sarhan,Expert,BI,450,BO Xcelsius,Reporting Tools
+37,Ayman,Sarhan,Expert,BI,450,SAS/AF,Datawarehousing Tools
+37,Ayman,Sarhan,Expert,BI,450,UNIX Solaris,Operating Systems
+37,Ayman,Sarhan,Expert,BI,450,Sybase,RDBMS
+37,Ayman,Sarhan,Expert,BI,450,Visual Basic,Programming Languages
+37,Ayman,Sarhan,Expert,BI,450,Powershell,Hardware
+37,Ayman,Sarhan,Expert,BI,450,Oracle 12c,RDBMS
+37,Ayman,Sarhan,Expert,BI,450,SAS,Datawarehousing Tools
+37,Ayman,Sarhan,Expert,BI,450,Windows NT/2000 Server,Operating Systems
+37,Ayman,Sarhan,Expert,BI,450,Oracle,RDBMS
+37,Ayman,Sarhan,Expert,BI,450,SQL Server,RDBMS
+45,Simeon,Hayden,Expert,BI,450,SQL,RDBMS
+45,Simeon,Hayden,Expert,BI,450,Oracle SQL advanced,Datawarehousing Tools
+45,Simeon,Hayden,Expert,BI,450,SAS FM,Software
+45,Simeon,Hayden,Expert,BI,450,DWH general,Datawarehousing Tools
+45,Simeon,Hayden,Expert,BI,450,Business Objects,Reporting Tools
+45,Simeon,Hayden,Expert,BI,450,TM1,Software
+45,Simeon,Hayden,Expert,BI,450,SAS Advanced,Programming Languages
+45,Simeon,Hayden,Expert,BI,450,Data Warehousing,Methodologies
+45,Simeon,Hayden,Expert,BI,450,Data Warehousing,Methodologies
+45,Simeon,Hayden,Expert,BI,450,SAS SQL,Datawarehousing Tools
+45,Simeon,Hayden,Expert,BI,450,SAS/Base,Programming Languages
+45,Simeon,Hayden,Expert,BI,450,SAP Business Objects,Datawarehousing Tools
+45,Simeon,Hayden,Expert,BI,450,BO Advanced Reporter,Reporting Tools
+45,Simeon,Hayden,Expert,BI,450,Select,Methodologies
+45,Simeon,Hayden,Expert,BI,450,BO Designer 5.0,Datawarehousing Tools
+45,Simeon,Hayden,Expert,BI,450,Essbase,Datawarehousing Tools
+45,Simeon,Hayden,Expert,BI,450,Teradata,RDBMS
+45,Simeon,Hayden,Expert,BI,450,Oracle,RDBMS
+45,Simeon,Hayden,Expert,BI,450,ACORN,Software
+45,Simeon,Hayden,Expert,BI,450,SAS,Datawarehousing Tools
+45,Simeon,Hayden,Expert,BI,450,Cost-it,Software
+45,Simeon,Hayden,Expert,BI,450,SQL Server,RDBMS
+45,Simeon,Hayden,Expert,BI,450,Ms SQL server 7,RDBMS
+45,Simeon,Hayden,Expert,BI,450,Unix,Operating Systems
+45,Simeon,Hayden,Expert,BI,450,MS Access,Office Softwares
+45,Simeon,Hayden,Expert,BI,450,Access,Software
+45,Simeon,Hayden,Expert,BI,450,Excel,Office Softwares
+45,Simeon,Hayden,Expert,BI,450,Mainframe,Hardware
+45,Simeon,Hayden,Expert,BI,450,Business Objects,Reporting Tools
+45,Simeon,Hayden,Expert,BI,450,MVS,Operating Systems
+45,Simeon,Hayden,Expert,BI,450,JCL,Programming Languages
+45,Simeon,Hayden,Expert,BI,450,Ab Initio,Datawarehousing Tools
+45,Simeon,Hayden,Expert,BI,450,SAS,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Cognos Report Studio,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Internet,Hardware
+64,Ester,Alemany Rodriguez,Junior,BI,450,BO Reporter,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Oracle,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,Cobol,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,CONTROL-M Enterprise Manager version 6.4,IT Service Management
+64,Ester,Alemany Rodriguez,Junior,BI,450,Cognos Transformer,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,DOS,Operating Systems
+64,Ester,Alemany Rodriguez,Junior,BI,450,Assembler,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,OO Modeling,Methodologies
+64,Ester,Alemany Rodriguez,Junior,BI,450,Word Perfect,Office Softwares
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS/Base,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Scrum,Methodologies
+64,Ester,Alemany Rodriguez,Junior,BI,450,BO WebIntelligence XI,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,BO Data Integrator,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Informatica PowerExchange,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,IDMS,Hardware
+64,Ester,Alemany Rodriguez,Junior,BI,450,Telnet 3270 emulator,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,MS Access,Office Softwares
+64,Ester,Alemany Rodriguez,Junior,BI,450,Java,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,TOAD,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Cognos Framework Manager,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,BO Designer XI R1/R2M Universe Design,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS/Base,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS Data Integration Studio 4.9,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Microsoft SQL Server 2008 Reporting Services,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,PL/SQL Developer,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,SQL Server Reporting Services,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS/Macro,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,TOAD,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Aginity Workbench for Netezza 4.6,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS Data Integration Studio,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS Enterprise Guide,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Toad 8.6.1.0,Hardware
+64,Ester,Alemany Rodriguez,Junior,BI,450,Oracle PL/SQL,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,PowerDesigner,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Kanban,Methodologies
+64,Ester,Alemany Rodriguez,Junior,BI,450,Informatica Power Center 8/9,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS/Macro,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS/Base,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,JCL,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,VSAM files,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,Erwin,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,360 Bind,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Oracle Warehouse Builder,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Cognos Impromptu,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Cognos Powerplay,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Basic,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,Cognos,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS Advanced,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Kimball methodology,Methodologies
+64,Ester,Alemany Rodriguez,Junior,BI,450,UML,Methodologies
+64,Ester,Alemany Rodriguez,Junior,BI,450,Access,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,TSO/MVS,Hardware
+64,Ester,Alemany Rodriguez,Junior,BI,450,PL/SQL,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,Kalido DIW,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Oracle SQL Developer,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Central Management Console,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS - Report writing,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,BO Desktop Intelligence XI,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,RPG II,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,Z/OS V1R4,Operating Systems
+64,Ester,Alemany Rodriguez,Junior,BI,450,Oracle 9.i,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,SQL Server,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,DB2,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,BO Designer XI,Reporting Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Oracle 10g,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,Informatica PowerCenter 8,Datawarehousing Tools
+64,Ester,Alemany Rodriguez,Junior,BI,450,Pascal,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,Microsoft Sql Server 2008,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,UNIX Solaris,Operating Systems
+64,Ester,Alemany Rodriguez,Junior,BI,450,"Windows OS (3.x, 9X, 2000, Me, XP)",Operating Systems
+64,Ester,Alemany Rodriguez,Junior,BI,450,SQL Developer 2.1.0,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,SQL Server 2008 R2,RDBMS
+64,Ester,Alemany Rodriguez,Junior,BI,450,VBA,Programming Languages
+64,Ester,Alemany Rodriguez,Junior,BI,450,MS Office,Office Softwares
+64,Ester,Alemany Rodriguez,Junior,BI,450,SAS Advanced,Software
+64,Ester,Alemany Rodriguez,Junior,BI,450,Business View Manager,Reporting Tools
+92,Andrzej,Karkusinski,Manager,BI,450,SAS/Macro,Programming Languages
+92,Andrzej,Karkusinski,Manager,BI,450,SAS/SQL,Programming Languages
+92,Andrzej,Karkusinski,Manager,BI,450,SAS 9,Datawarehousing Tools
+92,Andrzej,Karkusinski,Manager,BI,450,Perl,Programming Languages
+92,Andrzej,Karkusinski,Manager,BI,450,SAS/Base,Programming Languages
+92,Andrzej,Karkusinski,Manager,BI,450,Access,Software
+97,Youssef,Achbany,Manager,BI,450,BO Reporter,Reporting Tools
+97,Youssef,Achbany,Manager,BI,450,BO WebIntelligence XI,Reporting Tools
+97,Youssef,Achbany,Manager,BI,450,Teradata SQL Assistant,RDBMS
+97,Youssef,Achbany,Manager,BI,450,BO Webintelligence,Reporting Tools
+97,Youssef,Achbany,Manager,BI,450,MS Access,Office Softwares
+97,Youssef,Achbany,Manager,BI,450,PowerDesigner,Software
+97,Youssef,Achbany,Manager,BI,450,BO Webintelligence 6.5,Reporting Tools
+97,Youssef,Achbany,Manager,BI,450,DB2,RDBMS
+97,Youssef,Achbany,Manager,BI,450,Informatica PowerCenter 8,Datawarehousing Tools
+97,Youssef,Achbany,Manager,BI,450,MS SQL Server 2005,RDBMS
+97,Youssef,Achbany,Manager,BI,450,Informatica Power Center,Datawarehousing Tools
+97,Youssef,Achbany,Manager,BI,450,SQL Server Integration Services,Datawarehousing Tools
+97,Youssef,Achbany,Manager,BI,450,Data Warehousing,Methodologies
+97,Youssef,Achbany,Manager,BI,450,MS Office,Office Softwares
+97,Youssef,Achbany,Manager,BI,450,Java Script,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,Excel,Office Softwares
+97,Youssef,Achbany,Manager,BI,450,VBA,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,Microsoft SSIS 2005,Datawarehousing Tools
+97,Youssef,Achbany,Manager,BI,450,SAS/Base,Datawarehousing Tools
+97,Youssef,Achbany,Manager,BI,450,ETL,Software
+97,Youssef,Achbany,Manager,BI,450,MS Project,Office Softwares
+97,Youssef,Achbany,Manager,BI,450,Erwin,Software
+97,Youssef,Achbany,Manager,BI,450,Oracle Warehouse Builder,Datawarehousing Tools
+97,Youssef,Achbany,Manager,BI,450,BO Designer XI,Reporting Tools
+97,Youssef,Achbany,Manager,BI,450,Apache (Webserver),Software
+97,Youssef,Achbany,Manager,BI,450,Java,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,SAS/Base,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,JSP,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,SAS/Macro,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,MS SQL Server 2000,RDBMS
+97,Youssef,Achbany,Manager,BI,450,SAS ABM,Performance Management
+97,Youssef,Achbany,Manager,BI,450,UML,Methodologies
+97,Youssef,Achbany,Manager,BI,450,BO Designer,Reporting Tools
+97,Youssef,Achbany,Manager,BI,450,Kimball methodology,Methodologies
+97,Youssef,Achbany,Manager,BI,450,VBA,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,BO Desktop Intelligence XI,Reporting Tools
+97,Youssef,Achbany,Manager,BI,450,Windows XP,Operating Systems
+97,Youssef,Achbany,Manager,BI,450,Dimensional Modeling,Methodologies
+97,Youssef,Achbany,Manager,BI,450,Essbase,Hardware
+97,Youssef,Achbany,Manager,BI,450,Cobol,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,ETL,Datawarehousing Tools
+97,Youssef,Achbany,Manager,BI,450,Oracle,RDBMS
+97,Youssef,Achbany,Manager,BI,450,SQL Server,RDBMS
+97,Youssef,Achbany,Manager,BI,450,SQL,Programming Languages
+97,Youssef,Achbany,Manager,BI,450,Dart (advertising tool),Hardware
+97,Youssef,Achbany,Manager,BI,450,BO Designer 6.5,Reporting Tools
+97,Youssef,Achbany,Manager,BI,450,Merise,Methodologies
+97,Youssef,Achbany,Manager,BI,450,MS Visio,Office Softwares
+97,Youssef,Achbany,Manager,BI,450,Data modeling,Methodologies
+97,Youssef,Achbany,Manager,BI,450,BO Reporter 6.5,Reporting Tools
+102,Albert,Grano Culleres,Manager,BI,450,Java Script,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,MS Visio,Office Softwares
+102,Albert,Grano Culleres,Manager,BI,450,TCP/IP,Hardware
+102,Albert,Grano Culleres,Manager,BI,450,LDAP,Hardware
+102,Albert,Grano Culleres,Manager,BI,450,Struts,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,UNIX Solaris,Operating Systems
+102,Albert,Grano Culleres,Manager,BI,450,Oracle,RDBMS
+102,Albert,Grano Culleres,Manager,BI,450,Linux,Operating Systems
+102,Albert,Grano Culleres,Manager,BI,450,Java,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,OO Modeling,Methodologies
+102,Albert,Grano Culleres,Manager,BI,450,HTML,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,OO Analysis,Methodologies
+102,Albert,Grano Culleres,Manager,BI,450,Tomcat,Software
+102,Albert,Grano Culleres,Manager,BI,450,Java,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,XSL,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,OO Programming,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,MS Office,Office Softwares
+102,Albert,Grano Culleres,Manager,BI,450,UML,Methodologies
+102,Albert,Grano Culleres,Manager,BI,450,OpenOffice,Office Softwares
+102,Albert,Grano Culleres,Manager,BI,450,MS Project,Office Softwares
+102,Albert,Grano Culleres,Manager,BI,450,Informix,RDBMS
+102,Albert,Grano Culleres,Manager,BI,450,Hibernate,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,XML,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,SQL,Programming Languages
+102,Albert,Grano Culleres,Manager,BI,450,Java,Programming Languages
+110,Ilja,Vandenbroeck,Senior,BI,450,"SAS (Base, SQL, Macro, Stat)",Programming Languages
+110,Ilja,Vandenbroeck,Senior,BI,450,SAS Data Integration Studio,Datawarehousing Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,Kimball methodology,Methodologies
+110,Ilja,Vandenbroeck,Senior,BI,450,Oracle Warehouse Builder,Datawarehousing Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,Oracle 11g,RDBMS
+110,Ilja,Vandenbroeck,Senior,BI,450,Unix,Operating Systems
+110,Ilja,Vandenbroeck,Senior,BI,450,MS SQL Server 2000,RDBMS
+110,Ilja,Vandenbroeck,Senior,BI,450,Windows NT/2000 Server,Operating Systems
+110,Ilja,Vandenbroeck,Senior,BI,450,Windows Server 2003,Operating Systems
+110,Ilja,Vandenbroeck,Senior,BI,450,BO Reporter,Reporting Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,OMB*Plus scripting,Programming Languages
+110,Ilja,Vandenbroeck,Senior,BI,450,PL/SQL,Programming Languages
+110,Ilja,Vandenbroeck,Senior,BI,450,Kalido MDM,Datawarehousing Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,Informatica PowerCenter 8,Datawarehousing Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,Informatica Power Center 8/9,Datawarehousing Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,BO Designer,Reporting Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,TSO/MVS,Hardware
+110,Ilja,Vandenbroeck,Senior,BI,450,Z/OS V1R4,Operating Systems
+110,Ilja,Vandenbroeck,Senior,BI,450,SAS Enterprise Guide,Software
+110,Ilja,Vandenbroeck,Senior,BI,450,SAS,Datawarehousing Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,Kalido DIW,Datawarehousing Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,SAS 9,Datawarehousing Tools
+110,Ilja,Vandenbroeck,Senior,BI,450,Oracle 11g,RDBMS
+110,Ilja,Vandenbroeck,Senior,BI,450,Metadata tool,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,XML,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,IIS - Webserver,Software
+135,Christophe,Lemmens,Senior 13,BI,450,UML,Methodologies
+135,Christophe,Lemmens,Senior 13,BI,450,SAS Data Integration Studio,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,MS Visio,Office Softwares
+135,Christophe,Lemmens,Senior 13,BI,450,Struts,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,Hibernate,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,Informatica Power Center,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Tomcat,Software
+135,Christophe,Lemmens,Senior 13,BI,450,Informix,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,Ab Initio,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,TM1,Software
+135,Christophe,Lemmens,Senior 13,BI,450,IBM Datastage 11,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,SAS/Macro,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,Erwin,Software
+135,Christophe,Lemmens,Senior 13,BI,450,BO Designer XI,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,C,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,MicroStrategy Desktop,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,IBM Datastage,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Teradata,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,Java Script,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,MicroStrategy Architect,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Oracle 10g,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,Java,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,MicroStrategy Web,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Oracle 11g,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,Informatica PowerCenter 8,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,JSP,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,MicroStrategy Narrowcast Server,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,MicroStrategy Intelligence Server,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Java(J2EE),Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,Cognos 10,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Mercury Quality Center,Software
+135,Christophe,Lemmens,Senior 13,BI,450,SQL,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,MySQL,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,WebSphere,Software
+135,Christophe,Lemmens,Senior 13,BI,450,Cognos 8,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,SAS/Base,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,SAS/Base,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,PHP,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,MS Office,Office Softwares
+135,Christophe,Lemmens,Senior 13,BI,450,SAS/Macro,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Informatica Powercenter 10,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,SAS Warehouse Administrator,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Oracle,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,QlikView,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Netezza,Hardware
+135,Christophe,Lemmens,Senior 13,BI,450,PVCS,Software
+135,Christophe,Lemmens,Senior 13,BI,450,BO Desktop Intelligence XI,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,HTML,Programming Languages
+135,Christophe,Lemmens,Senior 13,BI,450,Unix,Operating Systems
+135,Christophe,Lemmens,Senior 13,BI,450,MS SQL Server 2005,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,Microsoft Sql Server 2008,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,SQL Server Integration Services,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,SQL Server Analysis Services,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,"Windows OS (3.x, 9X, 2000, Me, XP)",Operating Systems
+135,Christophe,Lemmens,Senior 13,BI,450,MS Project,Office Softwares
+135,Christophe,Lemmens,Senior 13,BI,450,BO WebIntelligence XI,Reporting Tools
+135,Christophe,Lemmens,Senior 13,BI,450,MS SQL Server 2000,RDBMS
+135,Christophe,Lemmens,Senior 13,BI,450,Informatica Power Center 8/9,Datawarehousing Tools
+135,Christophe,Lemmens,Senior 13,BI,450,Kalido DIW,Datawarehousing Tools
+173,Nicolas,Camerman,5D,BI,450,IBM Datastage 11,Datawarehousing Tools
+173,Nicolas,Camerman,5D,BI,450,Cognos Transformer,Datawarehousing Tools
+173,Nicolas,Camerman,5D,BI,450,Cognos 8,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,Oracle PL/SQL,Programming Languages
+173,Nicolas,Camerman,5D,BI,450,Cognos Report Studio,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,Cognos Powerplay,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,UML,Methodologies
+173,Nicolas,Camerman,5D,BI,450,OO Modeling,Methodologies
+173,Nicolas,Camerman,5D,BI,450,Cognos Framework Manager,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,Cognos Transformer,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,Data Warehousing,Methodologies
+173,Nicolas,Camerman,5D,BI,450,Erwin,Software
+173,Nicolas,Camerman,5D,BI,450,MS Office,Office Softwares
+173,Nicolas,Camerman,5D,BI,450,BO Reporter,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,Cognos TM1,Performance Management
+173,Nicolas,Camerman,5D,BI,450,ASP,Programming Languages
+173,Nicolas,Camerman,5D,BI,450,HTML,Programming Languages
+173,Nicolas,Camerman,5D,BI,450,Rational Rose,Software
+173,Nicolas,Camerman,5D,BI,450,VB,Programming Languages
+173,Nicolas,Camerman,5D,BI,450,Oracle,RDBMS
+173,Nicolas,Camerman,5D,BI,450,Cognos Data Manager,Datawarehousing Tools
+173,Nicolas,Camerman,5D,BI,450,DreamWeaver,Software
+173,Nicolas,Camerman,5D,BI,450,SQL,Programming Languages
+173,Nicolas,Camerman,5D,BI,450,Cognos Framework Manager,Datawarehousing Tools
+173,Nicolas,Camerman,5D,BI,450,TOAD,Software
+173,Nicolas,Camerman,5D,BI,450,Cognos 10,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,Business Intelligence,Hardware
+173,Nicolas,Camerman,5D,BI,450,Cognos,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,BO Designer,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,Cognos,Datawarehousing Tools
+173,Nicolas,Camerman,5D,BI,450,Microsoft Sql Server 2008,RDBMS
+173,Nicolas,Camerman,5D,BI,450,Cognos ReportNet,Reporting Tools
+173,Nicolas,Camerman,5D,BI,450,SQL Server,RDBMS
+173,Nicolas,Camerman,5D,BI,450,DecisionStream,Datawarehousing Tools
+173,Nicolas,Camerman,5D,BI,450,Cognos Cube Designer,Datawarehousing Tools
+173,Nicolas,Camerman,5D,BI,450,Cognos Dynamic Query Analyzer,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS/Insight,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,MATLAB,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Java Script,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS 9 - EnterPrise Guide,Software
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS/Base,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Microsoft Azure,Software
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS EM,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,HTML,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Kalido DIW,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Cognos 10,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,MySQL,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS/STAT,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Kalido MDM,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Cognos TM1,Performance Management
+177,Arnaud,Deflorenne,6P,BD&A,450,"SAS (Base,Macro,SQL,AF)",Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Markov chains,Methodologies
+177,Arnaud,Deflorenne,6P,BD&A,450,OpenOffice,Office Softwares
+177,Arnaud,Deflorenne,6P,BD&A,450,Data modeling,Methodologies
+177,Arnaud,Deflorenne,6P,BD&A,450,SAP BW,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,Teradata,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,OO Analysis,Methodologies
+177,Arnaud,Deflorenne,6P,BD&A,450,Oracle 10g,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,R,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Credit Scoring,Methodologies
+177,Arnaud,Deflorenne,6P,BD&A,450,OO Modeling,Methodologies
+177,Arnaud,Deflorenne,6P,BD&A,450,Java,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,UML,Methodologies
+177,Arnaud,Deflorenne,6P,BD&A,450,Informatica PowerCenter 8,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS - Data Mining,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,MS Office,Office Softwares
+177,Arnaud,Deflorenne,6P,BD&A,450,Informatica Power Center,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Python,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Enterprise Guide,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Tibco,Hardware
+177,Arnaud,Deflorenne,6P,BD&A,450,Tableau,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,SQL,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Windows NT/2000 Workstation,Operating Systems
+177,Arnaud,Deflorenne,6P,BD&A,450,Microsoft Sql Server 2008,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS/Macro,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,MS Excel,Office Softwares
+177,Arnaud,Deflorenne,6P,BD&A,450,R/S-PLUS,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Cognos Query Studio,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Cognos Report Studio,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Jack,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,"SAS (Base, SQL, Macro, Graph, Stat)",Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Microsoft SSIS 2005,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,MS Visual Studio,Software
+177,Arnaud,Deflorenne,6P,BD&A,450,"SAS (Base, SQL, Macro, Stat)",Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS 9,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,WINcvs,Software
+177,Arnaud,Deflorenne,6P,BD&A,450,Hadoop,Software
+177,Arnaud,Deflorenne,6P,BD&A,450,MS SQL Server 2005,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,Netezza,Hardware
+177,Arnaud,Deflorenne,6P,BD&A,450,Cognos Controller,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS/SQL,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Access,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS/Macro,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS/Base,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,R Shiny,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Windows NT/2000 Server,Operating Systems
+177,Arnaud,Deflorenne,6P,BD&A,450,Windows 2003,Operating Systems
+177,Arnaud,Deflorenne,6P,BD&A,450,MongoDB,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS 8,Software
+177,Arnaud,Deflorenne,6P,BD&A,450,Visual Basic,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,None,Hardware
+177,Arnaud,Deflorenne,6P,BD&A,450,Qlik Sense,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Perl,Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Microsoft SQL Server 2005,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,Oracle 9.i,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,BO Designer,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,MS Sql Server 2008,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,BO Reporter,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Microsoft SSIS 2008,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,SQL Server 2008 Business Intelligence,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Business Objects XI,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,SQL Server Integration Services,Datawarehousing Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,HDInsight,RDBMS
+177,Arnaud,Deflorenne,6P,BD&A,450,"SAS (Base,Macro,SQL)",Programming Languages
+177,Arnaud,Deflorenne,6P,BD&A,450,Linux,Operating Systems
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS/MINER,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,None,Operational Management
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS 9,Software
+177,Arnaud,Deflorenne,6P,BD&A,450,Unix,Operating Systems
+177,Arnaud,Deflorenne,6P,BD&A,450,Cognos Powerplay,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,Cognos Descision Stream,Hardware
+177,Arnaud,Deflorenne,6P,BD&A,450,SAS Enterprise Miner,Software
+177,Arnaud,Deflorenne,6P,BD&A,450,AWS,Hardware
+177,Arnaud,Deflorenne,6P,BD&A,450,"Windows OS (3.x, 9X, 2000, Me, XP)",Operating Systems
+177,Arnaud,Deflorenne,6P,BD&A,450,Cognos 8,Reporting Tools
+177,Arnaud,Deflorenne,6P,BD&A,450,C,Programming Languages
