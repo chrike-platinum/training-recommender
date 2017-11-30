@@ -33,8 +33,7 @@ df_dep = df_dep.drop('Technology', axis=1).drop_duplicates()
 row_vals = df_dep.values.tolist()
 
 # Zip row values and Technologies
-emp_tech_tuples = list(zip(row_vals, emp_tech_list)
-                    
+emp_tech_tuples = list(zip(row_vals, emp_tech_list))
 
 print(emp_tech_tuples)
 

@@ -44,6 +44,7 @@ def ceil(n):
     return res if res == n or n < 0 else res+1
 
 def get_weight(kwlist, timeframe='today 5-y', geo='BE'):
+    print('calling API')
     '''
     Calls query_trends function, which returns a DataFrame of Google Trends data for given keyword (list)
     Calculates weight value based on change in interest within time period
@@ -61,10 +62,11 @@ def get_weight(kwlist, timeframe='today 5-y', geo='BE'):
         weight = (y2 - y1) / (nrow)
         print('tech: ' + str(kwlist[0]) + ', y1: ' + str(y1) + ', y2: ' + str(y2) + ', nrow: ' + str(nrow) + ', weight: ' + str(weight))
 
-
+    '''
     df.plot()
     plt.title(weight)
     plt.show()
+    '''
 
     return weight
 
@@ -79,13 +81,30 @@ def dict_to_dataframe(dict):
 
 #set_working_directory(r'C:\Users\adebola.oshomoji\Documents\KEYRUS_Bootcamp_November\2017\20171030_erp_be_unzipped')
 #df = readCSV('technology.csv', sep = ',', encoding='utf-16', error_bad_lines=False)
-technology =  ['hadoop','microsoft','sas' ]#create_unique_list(df, 'Name', sort=True)
+#technology =  ['hadoop','microsoft','sas' ]#create_unique_list(df, 'Name', sort=True)
 
 pytrends = TrendReq(hl='en-US', tz=360)
 
+'''
 tech_weights_dict = {element: get_weight([element]) for element in technology}
 #dict_to_csv(tech_weights_dict)
 
 df = dict_to_dataframe(tech_weights_dict)
 print(df)
-df.to_csv(path_or_buf='Technology_Weights.csv', sep=',')
+df.to_csv(path_or_buf='Technology_Weights_cache.csv', sep=',')
+'''
+
+def getTechWeight(tech):
+    try:
+        cachedWeightsdf = pd.read_csv('Technology_Weights_cache.csv')
+    except:
+        cachedWeightsdf=pd.DataFrame(columns=['Technology','Weight'])
+    if tech in cachedWeightsdf['Technology'].values:
+        print('in cache')
+        return cachedWeightsdf[cachedWeightsdf['Technology']==tech]['Weight'].values[0]
+    else:
+        weight = get_weight([tech])
+        cachedWeightsdf=cachedWeightsdf.append(pd.Series([tech, weight], index=['Technology','Weight']), ignore_index=True)
+        cachedWeightsdf.to_csv('Technology_Weights_cache.csv',index=False)
+
+
