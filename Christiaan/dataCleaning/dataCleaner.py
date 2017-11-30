@@ -26,6 +26,8 @@ def cleanTechWord(techWord):
         return 'oracle'#TechWordSplit[1]#+' (oracle)'
     elif TechWordSplit[0]=='open':
         return TechWordSplit[0]+' '+TechWordSplit[1]
+    elif TechWordSplit[0]=='google':
+        return TechWordSplit[0]+' '+TechWordSplit[1]
     elif TechWordSplit[0]=='power':
         return TechWordSplit[0]+' '+TechWordSplit[1]
     elif TechWordSplit[0]=='business':
@@ -80,4 +82,3 @@ def getTechFromExperience():
         print((item, getListOfTechnologies(df, item, 'employeeNumber', 'Technology', 'TechnologyCategory')))
 
 
-#getTechFromExperience()

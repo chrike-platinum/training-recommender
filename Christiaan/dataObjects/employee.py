@@ -1,5 +1,6 @@
 __author__ = 'christiaan'
 from Ade.Technology import getTechWeight
+from Christiaan.TechnologyALgo.costCalculator import calculateCost
 
 class EmployeeObject(object):
     def __init__(self,employeeID,Fname,Lname,Title,practice,suggestedCost,techList):
@@ -41,12 +42,28 @@ class EmployeeObject(object):
         return self.featureVector
 
     def setlistOfPossibleTechs(self,generalTechList):
-        expertList = self.mostSimilarExpert.getTechList() #todo delete from expertlist after
-        self.listOfPossibleTechs=list(set().union(expertList,generalTechList))
+        expertList = self.mostSimilarExpert.getTechList()
+
+        listPosTech = list(set().union(expertList,generalTechList))
+        #if '' in listPosTech:
+        #    listPosTech.remove('')
+        #    print('DETECTED-------------------------!!!!!!!!!!!!!!!!!!!!!!!!!!!!!')
+        self.listOfPossibleTechs=listPosTech
         return self
 
-    def updateVerboseTechList(self):
-        self.verboseTechList = [(tech,getTechWeight(tech))for tech in self.listOfPossibleTechs]#todo add cost
+    def normalizeWeights(self):
+        weightList = [item[1] for item in self.verboseTechList]
+        minW = min(weightList)
+        maxW = max(weightList)
+        return [(weight-minW)/(maxW-minW) for weight in weightList]
+
+
+    def updateVerboseTechList(self,dfCost):
+        self.verboseTechList = [(tech,getTechWeight(tech),calculateCost(tech,dfCost))for tech in self.listOfPossibleTechs]#todo add cost
+        normalizedWeightList = self.normalizeWeights()
+        self.verboseTechList = [(item[0],normalizedWeight,item[2]) for item,normalizedWeight in zip(self.verboseTechList,normalizedWeightList)]
+        return self
+
 
     def setFeatureVector(self,featureVector):
         self.featureVector=[1 if item in self.getTechList() else 0 for item in featureVector]
