@@ -52,6 +52,9 @@ def fixLevels(dataFrame):
             dataFrame.loc[np.logical_and(dataFrame.Firstname == f, dataFrame.Lastname == l),'Level'] = 'Director'
         elif f == 'Geoffrey' and l == 'Moerenhoudt':
             dataFrame.loc[np.logical_and(dataFrame.Firstname == f, dataFrame.Lastname == l),'Level'] = 'Consultant'
+
+    dataFrame.loc[np.logical_or(dataFrame.Level=='Senior 13', dataFrame.Level=='Senior 8'),'Level'] = 'Senior'
+
     return dataFrame
 
 def cleanTech(dataFrame, techColumnName):
@@ -73,5 +76,7 @@ df = cleanTech(df, 'Technology')
 
 # Write DataFrame to csv
 exportDF(df, 'EmployeeTechnologyData.csv')
+
+#print(df.Level.unique())
 
 

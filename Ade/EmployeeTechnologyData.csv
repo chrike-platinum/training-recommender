@@ -1,0 +1,2293 @@
+Employee Number,Firstname,Lastname,Level,Practice,Suggested Daily Rate,Technology
+6,Thierry,Lannoo,Expert,BI,450,unix
+6,Thierry,Lannoo,Expert,BI,450,sas
+6,Thierry,Lannoo,Expert,BI,450,sap
+6,Thierry,Lannoo,Expert,BI,450,oracle
+6,Thierry,Lannoo,Expert,BI,450,mercury
+6,Thierry,Lannoo,Expert,BI,450,vtom
+6,Thierry,Lannoo,Expert,BI,450,select
+6,Thierry,Lannoo,Expert,BI,450,powerdesigner
+6,Thierry,Lannoo,Expert,BI,450,toad
+6,Thierry,Lannoo,Expert,BI,450,websphere
+6,Thierry,Lannoo,Expert,BI,450,mvs
+6,Thierry,Lannoo,Expert,BI,450,os
+6,Thierry,Lannoo,Expert,BI,450,vax
+6,Thierry,Lannoo,Expert,BI,450,agile
+6,Thierry,Lannoo,Expert,BI,450,dimensional
+6,Thierry,Lannoo,Expert,BI,450,kimball
+6,Thierry,Lannoo,Expert,BI,450,data warehousing
+6,Thierry,Lannoo,Expert,BI,450,data modeling
+6,Thierry,Lannoo,Expert,BI,450,office
+6,Thierry,Lannoo,Expert,BI,450,visio
+6,Thierry,Lannoo,Expert,BI,450,c
+6,Thierry,Lannoo,Expert,BI,450,cobol
+6,Thierry,Lannoo,Expert,BI,450,uml
+6,Thierry,Lannoo,Expert,BI,450,java
+6,Thierry,Lannoo,Expert,BI,450,sql
+6,Thierry,Lannoo,Expert,BI,450,servlet
+6,Thierry,Lannoo,Expert,BI,450,jsp
+18,Johan,Van Nuffel,Senior,BI,450,sql
+18,Johan,Van Nuffel,Senior,BI,450,sap
+18,Johan,Van Nuffel,Senior,BI,450,sas
+18,Johan,Van Nuffel,Senior,BI,450,cognos
+18,Johan,Van Nuffel,Senior,BI,450,kalido
+18,Johan,Van Nuffel,Senior,BI,450,ibm
+18,Johan,Van Nuffel,Senior,BI,450,ab
+18,Johan,Van Nuffel,Senior,BI,450,etl
+18,Johan,Van Nuffel,Senior,BI,450,informatica
+18,Johan,Van Nuffel,Senior,BI,450,oracle
+18,Johan,Van Nuffel,Senior,BI,450,informix
+18,Johan,Van Nuffel,Senior,BI,450,sybase
+18,Johan,Van Nuffel,Senior,BI,450,hyperion
+18,Johan,Van Nuffel,Senior,BI,450,data warehousing
+18,Johan,Van Nuffel,Senior,BI,450,turbo
+18,Johan,Van Nuffel,Senior,BI,450,audit
+18,Johan,Van Nuffel,Senior,BI,450,data quality
+18,Johan,Van Nuffel,Senior,BI,450,dimensional
+18,Johan,Van Nuffel,Senior,BI,450,transfer
+18,Johan,Van Nuffel,Senior,BI,450,quality
+18,Johan,Van Nuffel,Senior,BI,450,project
+18,Johan,Van Nuffel,Senior,BI,450,business analysis
+18,Johan,Van Nuffel,Senior,BI,450,business intelligence
+18,Johan,Van Nuffel,Senior,BI,450,tibco
+18,Johan,Van Nuffel,Senior,BI,450,functional
+18,Johan,Van Nuffel,Senior,BI,450,data modeling
+18,Johan,Van Nuffel,Senior,BI,450,netezza
+18,Johan,Van Nuffel,Senior,BI,450,kimball
+18,Johan,Van Nuffel,Senior,BI,450,visual basic
+18,Johan,Van Nuffel,Senior,BI,450,vba
+18,Johan,Van Nuffel,Senior,BI,450,access
+18,Johan,Van Nuffel,Senior,BI,450,cobol
+18,Johan,Van Nuffel,Senior,BI,450,crm
+20,Pieter,Vandamme,Director,BI,450,sap
+20,Pieter,Vandamme,Director,BI,450,cognos
+20,Pieter,Vandamme,Director,BI,450,microstrategy
+20,Pieter,Vandamme,Director,BI,450,sas
+20,Pieter,Vandamme,Director,BI,450,metadata
+20,Pieter,Vandamme,Director,BI,450,informatica
+20,Pieter,Vandamme,Director,BI,450,oracle
+20,Pieter,Vandamme,Director,BI,450,informix
+20,Pieter,Vandamme,Director,BI,450,rapid
+20,Pieter,Vandamme,Director,BI,450,sql
+20,Pieter,Vandamme,Director,BI,450,teradata
+20,Pieter,Vandamme,Director,BI,450,erwin
+20,Pieter,Vandamme,Director,BI,450,tableau
+20,Pieter,Vandamme,Director,BI,450,select
+20,Pieter,Vandamme,Director,BI,450,tm1
+20,Pieter,Vandamme,Director,BI,450,toad
+20,Pieter,Vandamme,Director,BI,450,ingres
+20,Pieter,Vandamme,Director,BI,450,qlikview
+20,Pieter,Vandamme,Director,BI,450,project
+20,Pieter,Vandamme,Director,BI,450,peoplesoft
+20,Pieter,Vandamme,Director,BI,450,unix
+20,Pieter,Vandamme,Director,BI,450,uml
+20,Pieter,Vandamme,Director,BI,450,pmbok
+20,Pieter,Vandamme,Director,BI,450,kimball
+20,Pieter,Vandamme,Director,BI,450,scrum
+20,Pieter,Vandamme,Director,BI,450,excel
+20,Pieter,Vandamme,Director,BI,450,centura
+20,Pieter,Vandamme,Director,BI,450,visio
+29,Kris,Jacobs,Manager,CPM,450,oracle
+29,Kris,Jacobs,Manager,CPM,450,qlikview
+29,Kris,Jacobs,Manager,CPM,450,excel
+29,Kris,Jacobs,Manager,CPM,450,sas
+29,Kris,Jacobs,Manager,CPM,450,sql
+29,Kris,Jacobs,Manager,CPM,450,kalido
+29,Kris,Jacobs,Manager,CPM,450,informatica
+29,Kris,Jacobs,Manager,CPM,450,jcl
+29,Kris,Jacobs,Manager,CPM,450,awk
+29,Kris,Jacobs,Manager,CPM,450,sap
+29,Kris,Jacobs,Manager,CPM,450,crystal
+29,Kris,Jacobs,Manager,CPM,450,satan
+29,Kris,Jacobs,Manager,CPM,450,cops
+29,Kris,Jacobs,Manager,CPM,450,promodag
+29,Kris,Jacobs,Manager,CPM,450,rbsti
+29,Kris,Jacobs,Manager,CPM,450,tableau
+29,Kris,Jacobs,Manager,CPM,450,perl
+29,Kris,Jacobs,Manager,CPM,450,dbase
+29,Kris,Jacobs,Manager,CPM,450,db2
+29,Kris,Jacobs,Manager,CPM,450,postgresql
+29,Kris,Jacobs,Manager,CPM,450,mysql
+29,Kris,Jacobs,Manager,CPM,450,informix
+29,Kris,Jacobs,Manager,CPM,450,java
+29,Kris,Jacobs,Manager,CPM,450,cgi
+29,Kris,Jacobs,Manager,CPM,450,data modeling
+29,Kris,Jacobs,Manager,CPM,450,mvs
+29,Kris,Jacobs,Manager,CPM,450,windows
+29,Kris,Jacobs,Manager,CPM,450,unix
+29,Kris,Jacobs,Manager,CPM,450,os
+29,Kris,Jacobs,Manager,CPM,450,data warehousing
+29,Kris,Jacobs,Manager,CPM,450,dos
+29,Kris,Jacobs,Manager,CPM,450,distel
+29,Kris,Jacobs,Manager,CPM,450,hp9000
+29,Kris,Jacobs,Manager,CPM,450,pc
+29,Kris,Jacobs,Manager,CPM,450,netezza
+29,Kris,Jacobs,Manager,CPM,450,linux
+29,Kris,Jacobs,Manager,CPM,450,dimensional
+29,Kris,Jacobs,Manager,CPM,450,kanban
+29,Kris,Jacobs,Manager,CPM,450,process
+29,Kris,Jacobs,Manager,CPM,450,rexx
+29,Kris,Jacobs,Manager,CPM,450,html
+29,Kris,Jacobs,Manager,CPM,450,all
+29,Kris,Jacobs,Manager,CPM,450,access
+29,Kris,Jacobs,Manager,CPM,450,office
+29,Kris,Jacobs,Manager,CPM,450,cpm
+29,Kris,Jacobs,Manager,CPM,450,scrum
+29,Kris,Jacobs,Manager,CPM,450,kimball
+29,Kris,Jacobs,Manager,CPM,450,c
+29,Kris,Jacobs,Manager,CPM,450,tm1
+29,Kris,Jacobs,Manager,CPM,450,omniguard
+29,Kris,Jacobs,Manager,CPM,450,dns
+29,Kris,Jacobs,Manager,CPM,450,tagetik
+29,Kris,Jacobs,Manager,CPM,450,hyperion
+29,Kris,Jacobs,Manager,CPM,450,none
+29,Kris,Jacobs,Manager,CPM,450,erwin
+29,Kris,Jacobs,Manager,CPM,450,sendmail
+29,Kris,Jacobs,Manager,CPM,450,hp
+29,Kris,Jacobs,Manager,CPM,450,connect
+37,Steven,Van Waeyenberge,Manager,BI,450,sas
+37,Steven,Van Waeyenberge,Manager,BI,450,sap
+37,Steven,Van Waeyenberge,Manager,BI,450,dhtml
+37,Steven,Van Waeyenberge,Manager,BI,450,windows
+37,Steven,Van Waeyenberge,Manager,BI,450,visual basic
+37,Steven,Van Waeyenberge,Manager,BI,450,vb
+37,Steven,Van Waeyenberge,Manager,BI,450,java
+37,Steven,Van Waeyenberge,Manager,BI,450,javascript
+37,Steven,Van Waeyenberge,Manager,BI,450,db2
+37,Steven,Van Waeyenberge,Manager,BI,450,unix
+37,Steven,Van Waeyenberge,Manager,BI,450,powershell
+37,Steven,Van Waeyenberge,Manager,BI,450,cgi
+37,Steven,Van Waeyenberge,Manager,BI,450,oracle
+37,Steven,Van Waeyenberge,Manager,BI,450,sql
+37,Steven,Van Waeyenberge,Manager,BI,450,sybase
+37,Steven,Van Waeyenberge,Manager,BI,450,etl
+40,Mustapha,Khalfaoui,Manager,BI,450,data warehousing
+40,Mustapha,Khalfaoui,Manager,BI,450,project
+40,Mustapha,Khalfaoui,Manager,BI,450,windows
+40,Mustapha,Khalfaoui,Manager,BI,450,unix
+40,Mustapha,Khalfaoui,Manager,BI,450,tso
+40,Mustapha,Khalfaoui,Manager,BI,450,office
+40,Mustapha,Khalfaoui,Manager,BI,450,none
+40,Mustapha,Khalfaoui,Manager,BI,450,sas
+40,Mustapha,Khalfaoui,Manager,BI,450,linux
+40,Mustapha,Khalfaoui,Manager,BI,450,oracle
+40,Mustapha,Khalfaoui,Manager,BI,450,informatica
+40,Mustapha,Khalfaoui,Manager,BI,450,visio
+40,Mustapha,Khalfaoui,Manager,BI,450,sql
+40,Mustapha,Khalfaoui,Manager,BI,450,sap
+40,Mustapha,Khalfaoui,Manager,BI,450,cognos
+40,Mustapha,Khalfaoui,Manager,BI,450,olap
+40,Mustapha,Khalfaoui,Manager,BI,450,enterprise
+45,Françoise,Grandjean,Expert,BI,450,sas
+45,Françoise,Grandjean,Expert,BI,450,sap
+45,Françoise,Grandjean,Expert,BI,450,sql
+45,Françoise,Grandjean,Expert,BI,450,teradata
+45,Françoise,Grandjean,Expert,BI,450,oracle
+45,Françoise,Grandjean,Expert,BI,450,cost-it
+45,Françoise,Grandjean,Expert,BI,450,acorn
+45,Françoise,Grandjean,Expert,BI,450,access
+45,Françoise,Grandjean,Expert,BI,450,data warehousing
+45,Françoise,Grandjean,Expert,BI,450,essbase
+45,Françoise,Grandjean,Expert,BI,450,dwh
+45,Françoise,Grandjean,Expert,BI,450,ab
+45,Françoise,Grandjean,Expert,BI,450,jcl
+45,Françoise,Grandjean,Expert,BI,450,excel
+45,Françoise,Grandjean,Expert,BI,450,unix
+45,Françoise,Grandjean,Expert,BI,450,mvs
+45,Françoise,Grandjean,Expert,BI,450,mainframe
+45,Françoise,Grandjean,Expert,BI,450,tm1
+45,Françoise,Grandjean,Expert,BI,450,select
+49,Erwin,Vanham,Manager,BI,450,oracle
+49,Erwin,Vanham,Manager,BI,450,sas
+49,Erwin,Vanham,Manager,BI,450,visio
+49,Erwin,Vanham,Manager,BI,450,access
+49,Erwin,Vanham,Manager,BI,450,kimball
+49,Erwin,Vanham,Manager,BI,450,agile
+49,Erwin,Vanham,Manager,BI,450,windows
+49,Erwin,Vanham,Manager,BI,450,mvs
+49,Erwin,Vanham,Manager,BI,450,unix
+49,Erwin,Vanham,Manager,BI,450,project
+49,Erwin,Vanham,Manager,BI,450,liquent
+49,Erwin,Vanham,Manager,BI,450,sql
+49,Erwin,Vanham,Manager,BI,450,sybase
+49,Erwin,Vanham,Manager,BI,450,erwin
+49,Erwin,Vanham,Manager,BI,450,mega
+49,Erwin,Vanham,Manager,BI,450,confluence
+49,Erwin,Vanham,Manager,BI,450,wincvs
+49,Erwin,Vanham,Manager,BI,450,db2
+49,Erwin,Vanham,Manager,BI,450,jira
+49,Erwin,Vanham,Manager,BI,450,hadoop
+49,Erwin,Vanham,Manager,BI,450,toad
+49,Erwin,Vanham,Manager,BI,450,pvcs
+49,Erwin,Vanham,Manager,BI,450,jcl
+49,Erwin,Vanham,Manager,BI,450,mercury
+64,Francis,Spelmans,Senior,BI,450,scrum
+64,Francis,Spelmans,Senior,BI,450,sas
+64,Francis,Spelmans,Senior,BI,450,sap
+64,Francis,Spelmans,Senior,BI,450,aginity
+64,Francis,Spelmans,Senior,BI,450,informatica
+64,Francis,Spelmans,Senior,BI,450,cognos
+64,Francis,Spelmans,Senior,BI,450,kalido
+64,Francis,Spelmans,Senior,BI,450,oracle
+64,Francis,Spelmans,Senior,BI,450,idms
+64,Francis,Spelmans,Senior,BI,450,jcl
+64,Francis,Spelmans,Senior,BI,450,vba
+64,Francis,Spelmans,Senior,BI,450,pl
+64,Francis,Spelmans,Senior,BI,450,windows
+64,Francis,Spelmans,Senior,BI,450,unix
+64,Francis,Spelmans,Senior,BI,450,z
+64,Francis,Spelmans,Senior,BI,450,oo
+64,Francis,Spelmans,Senior,BI,450,uml
+64,Francis,Spelmans,Senior,BI,450,kanban
+64,Francis,Spelmans,Senior,BI,450,kimball
+64,Francis,Spelmans,Senior,BI,450,office
+64,Francis,Spelmans,Senior,BI,450,access
+64,Francis,Spelmans,Senior,BI,450,assembler
+64,Francis,Spelmans,Senior,BI,450,basic
+64,Francis,Spelmans,Senior,BI,450,cobol
+64,Francis,Spelmans,Senior,BI,450,java
+64,Francis,Spelmans,Senior,BI,450,pascal
+64,Francis,Spelmans,Senior,BI,450,rpg
+64,Francis,Spelmans,Senior,BI,450,word
+64,Francis,Spelmans,Senior,BI,450,dos
+64,Francis,Spelmans,Senior,BI,450,360
+64,Francis,Spelmans,Senior,BI,450,telnet
+64,Francis,Spelmans,Senior,BI,450,toad
+64,Francis,Spelmans,Senior,BI,450,erwin
+64,Francis,Spelmans,Senior,BI,450,powerdesigner
+64,Francis,Spelmans,Senior,BI,450,control-m
+64,Francis,Spelmans,Senior,BI,450,internet
+64,Francis,Spelmans,Senior,BI,450,sql
+64,Francis,Spelmans,Senior,BI,450,business view
+64,Francis,Spelmans,Senior,BI,450,central
+64,Francis,Spelmans,Senior,BI,450,db2
+64,Francis,Spelmans,Senior,BI,450,vsam
+64,Francis,Spelmans,Senior,BI,450,tso
+92,Michael,Lawns,Expert,BI,450,sas
+92,Michael,Lawns,Expert,BI,450,perl
+92,Michael,Lawns,Expert,BI,450,access
+102,Dirk,Dom,Expert,BI,450,struts
+102,Dirk,Dom,Expert,BI,450,tomcat
+102,Dirk,Dom,Expert,BI,450,oracle
+102,Dirk,Dom,Expert,BI,450,informix
+102,Dirk,Dom,Expert,BI,450,java
+102,Dirk,Dom,Expert,BI,450,hibernate
+102,Dirk,Dom,Expert,BI,450,html
+102,Dirk,Dom,Expert,BI,450,xsl
+102,Dirk,Dom,Expert,BI,450,sql
+102,Dirk,Dom,Expert,BI,450,xml
+102,Dirk,Dom,Expert,BI,450,office
+102,Dirk,Dom,Expert,BI,450,ldap
+102,Dirk,Dom,Expert,BI,450,tcp
+102,Dirk,Dom,Expert,BI,450,linux
+102,Dirk,Dom,Expert,BI,450,unix
+102,Dirk,Dom,Expert,BI,450,oo
+102,Dirk,Dom,Expert,BI,450,uml
+102,Dirk,Dom,Expert,BI,450,project
+102,Dirk,Dom,Expert,BI,450,openoffice
+102,Dirk,Dom,Expert,BI,450,visio
+110,Kristof,Truyts,Expert,BI,450,kalido
+110,Kristof,Truyts,Expert,BI,450,sap
+110,Kristof,Truyts,Expert,BI,450,sas
+110,Kristof,Truyts,Expert,BI,450,metadata
+110,Kristof,Truyts,Expert,BI,450,oracle
+110,Kristof,Truyts,Expert,BI,450,sql
+110,Kristof,Truyts,Expert,BI,450,windows
+110,Kristof,Truyts,Expert,BI,450,tso
+110,Kristof,Truyts,Expert,BI,450,informatica
+110,Kristof,Truyts,Expert,BI,450,omb*plus
+110,Kristof,Truyts,Expert,BI,450,pl
+110,Kristof,Truyts,Expert,BI,450,kimball
+110,Kristof,Truyts,Expert,BI,450,unix
+110,Kristof,Truyts,Expert,BI,450,z
+135,Olivier,Lhoneux,Manager,BI,450,java
+135,Olivier,Lhoneux,Manager,BI,450,sas
+135,Olivier,Lhoneux,Manager,BI,450,hibernate
+135,Olivier,Lhoneux,Manager,BI,450,ibm
+135,Olivier,Lhoneux,Manager,BI,450,informatica
+135,Olivier,Lhoneux,Manager,BI,450,ab
+135,Olivier,Lhoneux,Manager,BI,450,xml
+135,Olivier,Lhoneux,Manager,BI,450,struts
+135,Olivier,Lhoneux,Manager,BI,450,informix
+135,Olivier,Lhoneux,Manager,BI,450,php
+135,Olivier,Lhoneux,Manager,BI,450,jsp
+135,Olivier,Lhoneux,Manager,BI,450,html
+135,Olivier,Lhoneux,Manager,BI,450,c
+135,Olivier,Lhoneux,Manager,BI,450,visio
+135,Olivier,Lhoneux,Manager,BI,450,project
+135,Olivier,Lhoneux,Manager,BI,450,office
+135,Olivier,Lhoneux,Manager,BI,450,uml
+135,Olivier,Lhoneux,Manager,BI,450,windows
+135,Olivier,Lhoneux,Manager,BI,450,unix
+135,Olivier,Lhoneux,Manager,BI,450,sql
+135,Olivier,Lhoneux,Manager,BI,450,erwin
+135,Olivier,Lhoneux,Manager,BI,450,tm1
+135,Olivier,Lhoneux,Manager,BI,450,tomcat
+135,Olivier,Lhoneux,Manager,BI,450,mercury
+135,Olivier,Lhoneux,Manager,BI,450,iis
+135,Olivier,Lhoneux,Manager,BI,450,netezza
+135,Olivier,Lhoneux,Manager,BI,450,oracle
+135,Olivier,Lhoneux,Manager,BI,450,teradata
+135,Olivier,Lhoneux,Manager,BI,450,mysql
+135,Olivier,Lhoneux,Manager,BI,450,microstrategy
+135,Olivier,Lhoneux,Manager,BI,450,sap
+135,Olivier,Lhoneux,Manager,BI,450,cognos
+135,Olivier,Lhoneux,Manager,BI,450,qlikview
+135,Olivier,Lhoneux,Manager,BI,450,kalido
+135,Olivier,Lhoneux,Manager,BI,450,pvcs
+135,Olivier,Lhoneux,Manager,BI,450,websphere
+173,Matthias,De Vriese,Expert,BI,450,sql
+173,Matthias,De Vriese,Expert,BI,450,cognos
+173,Matthias,De Vriese,Expert,BI,450,sap
+173,Matthias,De Vriese,Expert,BI,450,oracle
+173,Matthias,De Vriese,Expert,BI,450,dreamweaver
+173,Matthias,De Vriese,Expert,BI,450,erwin
+173,Matthias,De Vriese,Expert,BI,450,rational
+173,Matthias,De Vriese,Expert,BI,450,toad
+173,Matthias,De Vriese,Expert,BI,450,business intelligence
+173,Matthias,De Vriese,Expert,BI,450,oo
+173,Matthias,De Vriese,Expert,BI,450,uml
+173,Matthias,De Vriese,Expert,BI,450,ibm
+173,Matthias,De Vriese,Expert,BI,450,office
+173,Matthias,De Vriese,Expert,BI,450,asp
+173,Matthias,De Vriese,Expert,BI,450,html
+173,Matthias,De Vriese,Expert,BI,450,data warehousing
+173,Matthias,De Vriese,Expert,BI,450,decisionstream
+173,Matthias,De Vriese,Expert,BI,450,vb
+177,Morad,Masnaoui,Manager,BD&A,450,oo
+177,Morad,Masnaoui,Manager,BD&A,450,credit
+177,Morad,Masnaoui,Manager,BD&A,450,markov
+177,Morad,Masnaoui,Manager,BD&A,450,office
+177,Morad,Masnaoui,Manager,BD&A,450,openoffice
+177,Morad,Masnaoui,Manager,BD&A,450,html
+177,Morad,Masnaoui,Manager,BD&A,450,c
+177,Morad,Masnaoui,Manager,BD&A,450,java
+177,Morad,Masnaoui,Manager,BD&A,450,data modeling
+177,Morad,Masnaoui,Manager,BD&A,450,cognos
+177,Morad,Masnaoui,Manager,BD&A,450,excel
+177,Morad,Masnaoui,Manager,BD&A,450,uml
+177,Morad,Masnaoui,Manager,BD&A,450,sql
+177,Morad,Masnaoui,Manager,BD&A,450,windows
+177,Morad,Masnaoui,Manager,BD&A,450,unix
+177,Morad,Masnaoui,Manager,BD&A,450,linux
+177,Morad,Masnaoui,Manager,BD&A,450,netezza
+177,Morad,Masnaoui,Manager,BD&A,450,aws
+177,Morad,Masnaoui,Manager,BD&A,450,none
+177,Morad,Masnaoui,Manager,BD&A,450,tibco
+177,Morad,Masnaoui,Manager,BD&A,450,hadoop
+177,Morad,Masnaoui,Manager,BD&A,450,sas
+177,Morad,Masnaoui,Manager,BD&A,450,kalido
+177,Morad,Masnaoui,Manager,BD&A,450,ssis
+177,Morad,Masnaoui,Manager,BD&A,450,qlik
+177,Morad,Masnaoui,Manager,BD&A,450,sap
+177,Morad,Masnaoui,Manager,BD&A,450,r
+177,Morad,Masnaoui,Manager,BD&A,450,tableau
+177,Morad,Masnaoui,Manager,BD&A,450,informatica
+177,Morad,Masnaoui,Manager,BD&A,450,visual basic
+177,Morad,Masnaoui,Manager,BD&A,450,jack
+177,Morad,Masnaoui,Manager,BD&A,450,python
+177,Morad,Masnaoui,Manager,BD&A,450,matlab
+177,Morad,Masnaoui,Manager,BD&A,450,perl
+177,Morad,Masnaoui,Manager,BD&A,450,azure
+177,Morad,Masnaoui,Manager,BD&A,450,enterprise
+177,Morad,Masnaoui,Manager,BD&A,450,ms visual
+177,Morad,Masnaoui,Manager,BD&A,450,oracle
+177,Morad,Masnaoui,Manager,BD&A,450,wincvs
+177,Morad,Masnaoui,Manager,BD&A,450,mongodb
+177,Morad,Masnaoui,Manager,BD&A,450,hdinsight
+177,Morad,Masnaoui,Manager,BD&A,450,access
+177,Morad,Masnaoui,Manager,BD&A,450,teradata
+177,Morad,Masnaoui,Manager,BD&A,450,mysql
+226,Philip,Allegaert,Director,BD&A,450,prince2
+226,Philip,Allegaert,Director,BD&A,450,kimball
+226,Philip,Allegaert,Director,BD&A,450,dimensional
+226,Philip,Allegaert,Director,BD&A,450,data modeling
+226,Philip,Allegaert,Director,BD&A,450,project
+226,Philip,Allegaert,Director,BD&A,450,dwh
+226,Philip,Allegaert,Director,BD&A,450,access
+226,Philip,Allegaert,Director,BD&A,450,data warehousing
+226,Philip,Allegaert,Director,BD&A,450,cognos
+226,Philip,Allegaert,Director,BD&A,450,ssis
+226,Philip,Allegaert,Director,BD&A,450,data
+226,Philip,Allegaert,Director,BD&A,450,oracle
+226,Philip,Allegaert,Director,BD&A,450,congos
+226,Philip,Allegaert,Director,BD&A,450,sql
+226,Philip,Allegaert,Director,BD&A,450,informatica
+226,Philip,Allegaert,Director,BD&A,450,scrum
+226,Philip,Allegaert,Director,BD&A,450,sap
+228,Olivier,Hens,Expert,BI,450,cognos
+228,Olivier,Hens,Expert,BI,450,sap
+228,Olivier,Hens,Expert,BI,450,excel
+228,Olivier,Hens,Expert,BI,450,sql
+228,Olivier,Hens,Expert,BI,450,mysql
+228,Olivier,Hens,Expert,BI,450,oracle
+228,Olivier,Hens,Expert,BI,450,access
+228,Olivier,Hens,Expert,BI,450,java
+228,Olivier,Hens,Expert,BI,450,linux
+228,Olivier,Hens,Expert,BI,450,windows
+228,Olivier,Hens,Expert,BI,450,office
+228,Olivier,Hens,Expert,BI,450,asp
+228,Olivier,Hens,Expert,BI,450,c++
+228,Olivier,Hens,Expert,BI,450,html
+228,Olivier,Hens,Expert,BI,450,php
+228,Olivier,Hens,Expert,BI,450,visual basic
+228,Olivier,Hens,Expert,BI,450,dreamweaver
+228,Olivier,Hens,Expert,BI,450,sas
+228,Olivier,Hens,Expert,BI,450,dwh
+228,Olivier,Hens,Expert,BI,450,jsp
+228,Olivier,Hens,Expert,BI,450,flash
+228,Olivier,Hens,Expert,BI,450,lotus
+228,Olivier,Hens,Expert,BI,450,dns
+228,Olivier,Hens,Expert,BI,450,photo
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,z
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,sap
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,informatica
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,ibm
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,centura
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,windows
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,visual basic
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,excel
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,oo
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,project
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,data modeling
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,unix
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,visio
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,word
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,crystal
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,informix
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,quality
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,oracle
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,toad
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,jira
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,powerbuilder
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,sql
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,teradata
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,access
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,team
+231,Carlos Eduardo,Teixeira Viana,Senior,BI,450,dwh
+251,Joachim,Baert,Manager,BI,450,linq
+251,Joachim,Baert,Manager,BI,450,tableau
+251,Joachim,Baert,Manager,BI,450,sap
+251,Joachim,Baert,Manager,BI,450,cognos
+251,Joachim,Baert,Manager,BI,450,sql
+251,Joachim,Baert,Manager,BI,450,azure
+251,Joachim,Baert,Manager,BI,450,teradata
+251,Joachim,Baert,Manager,BI,450,sharepoint
+251,Joachim,Baert,Manager,BI,450,access
+251,Joachim,Baert,Manager,BI,450,tm1
+251,Joachim,Baert,Manager,BI,450,etl
+251,Joachim,Baert,Manager,BI,450,ms visual
+251,Joachim,Baert,Manager,BI,450,dynamics
+251,Joachim,Baert,Manager,BI,450,axapta
+251,Joachim,Baert,Manager,BI,450,bpcs
+251,Joachim,Baert,Manager,BI,450,oracle
+251,Joachim,Baert,Manager,BI,450,asp
+251,Joachim,Baert,Manager,BI,450,vb
+251,Joachim,Baert,Manager,BI,450,java
+251,Joachim,Baert,Manager,BI,450,qlik
+251,Joachim,Baert,Manager,BI,450,
+251,Joachim,Baert,Manager,BI,450,functional
+251,Joachim,Baert,Manager,BI,450,kimball
+251,Joachim,Baert,Manager,BI,450,data warehousing
+251,Joachim,Baert,Manager,BI,450,dimensional
+251,Joachim,Baert,Manager,BI,450,prototyping
+251,Joachim,Baert,Manager,BI,450,agile
+251,Joachim,Baert,Manager,BI,450,data modeling
+251,Joachim,Baert,Manager,BI,450,c++
+251,Joachim,Baert,Manager,BI,450,oo
+251,Joachim,Baert,Manager,BI,450,dwh
+251,Joachim,Baert,Manager,BI,450,informatica
+251,Joachim,Baert,Manager,BI,450,ab
+251,Joachim,Baert,Manager,BI,450,ssis
+251,Joachim,Baert,Manager,BI,450,hadoop
+275,Carl,Sablon,Manager,CPM,450,sas
+275,Carl,Sablon,Manager,CPM,450,sap
+275,Carl,Sablon,Manager,CPM,450,kxen
+275,Carl,Sablon,Manager,CPM,450,data
+275,Carl,Sablon,Manager,CPM,450,jcl
+275,Carl,Sablon,Manager,CPM,450,crm
+275,Carl,Sablon,Manager,CPM,450,project
+275,Carl,Sablon,Manager,CPM,450,essbase
+275,Carl,Sablon,Manager,CPM,450,excel
+275,Carl,Sablon,Manager,CPM,450,access
+275,Carl,Sablon,Manager,CPM,450,sql
+275,Carl,Sablon,Manager,CPM,450,html
+275,Carl,Sablon,Manager,CPM,450,syncsort
+278,Peter,Poppe,Manager,BI,450,sql
+278,Peter,Poppe,Manager,BI,450,ssis
+278,Peter,Poppe,Manager,BI,450,ssas
+278,Peter,Poppe,Manager,BI,450,cognos
+278,Peter,Poppe,Manager,BI,450,sas
+278,Peter,Poppe,Manager,BI,450,ibm
+278,Peter,Poppe,Manager,BI,450,sap
+278,Peter,Poppe,Manager,BI,450,scrum
+278,Peter,Poppe,Manager,BI,450,data warehousing
+278,Peter,Poppe,Manager,BI,450,business analysis
+278,Peter,Poppe,Manager,BI,450,bods
+278,Peter,Poppe,Manager,BI,450,qlik
+278,Peter,Poppe,Manager,BI,450,qlikview
+278,Peter,Poppe,Manager,BI,450,microstrategy
+278,Peter,Poppe,Manager,BI,450,microsoft
+278,Peter,Poppe,Manager,BI,450,olap
+278,Peter,Poppe,Manager,BI,450,oracle
+287,Michel,Santos,Senior,BI,450,sap
+287,Michel,Santos,Senior,BI,450,cognos
+287,Michel,Santos,Senior,BI,450,nprinting
+287,Michel,Santos,Senior,BI,450,oracle
+287,Michel,Santos,Senior,BI,450,qlikview
+287,Michel,Santos,Senior,BI,450,geoqlik
+287,Michel,Santos,Senior,BI,450,iway
+287,Michel,Santos,Senior,BI,450,ssrs
+287,Michel,Santos,Senior,BI,450,sas
+287,Michel,Santos,Senior,BI,450,sql
+287,Michel,Santos,Senior,BI,450,ssis
+287,Michel,Santos,Senior,BI,450,asp
+287,Michel,Santos,Senior,BI,450,java
+287,Michel,Santos,Senior,BI,450,data warehousing
+287,Michel,Santos,Senior,BI,450,windows
+287,Michel,Santos,Senior,BI,450,uml
+287,Michel,Santos,Senior,BI,450,itil
+287,Michel,Santos,Senior,BI,450,crm
+287,Michel,Santos,Senior,BI,450,office
+287,Michel,Santos,Senior,BI,450,openoffice
+287,Michel,Santos,Senior,BI,450,novell
+287,Michel,Santos,Senior,BI,450,c
+287,Michel,Santos,Senior,BI,450,pl
+287,Michel,Santos,Senior,BI,450,vb
+287,Michel,Santos,Senior,BI,450,exchange
+287,Michel,Santos,Senior,BI,450,citrix
+287,Michel,Santos,Senior,BI,450,html
+288,Ilja,Vandenbroeck,Senior,BI,450,office
+288,Ilja,Vandenbroeck,Senior,BI,450,sas
+288,Ilja,Vandenbroeck,Senior,BI,450,sql
+288,Ilja,Vandenbroeck,Senior,BI,450,sharepoint
+288,Ilja,Vandenbroeck,Senior,BI,450,windows
+288,Ilja,Vandenbroeck,Senior,BI,450,linux
+288,Ilja,Vandenbroeck,Senior,BI,450,lotus
+288,Ilja,Vandenbroeck,Senior,BI,450,sap
+288,Ilja,Vandenbroeck,Senior,BI,450,informatica
+288,Ilja,Vandenbroeck,Senior,BI,450,db2
+288,Ilja,Vandenbroeck,Senior,BI,450,oracle
+288,Ilja,Vandenbroeck,Senior,BI,450,teradata
+288,Ilja,Vandenbroeck,Senior,BI,450,photo
+288,Ilja,Vandenbroeck,Senior,BI,450,businnes
+288,Ilja,Vandenbroeck,Senior,BI,450,norton
+288,Ilja,Vandenbroeck,Senior,BI,450,adobe
+288,Ilja,Vandenbroeck,Senior,BI,450,mercury
+288,Ilja,Vandenbroeck,Senior,BI,450,hadoop
+288,Ilja,Vandenbroeck,Senior,BI,450,hp
+288,Ilja,Vandenbroeck,Senior,BI,450,microstrategy
+288,Ilja,Vandenbroeck,Senior,BI,450,qlikview
+288,Ilja,Vandenbroeck,Senior,BI,450,actuate
+288,Ilja,Vandenbroeck,Senior,BI,450,tableau
+288,Ilja,Vandenbroeck,Senior,BI,450,cognos
+288,Ilja,Vandenbroeck,Senior,BI,450,unix
+314,Axel,Botton-Roulin,Expert,BI,450,teradata
+314,Axel,Botton-Roulin,Expert,BI,450,sap
+314,Axel,Botton-Roulin,Expert,BI,450,cognos
+314,Axel,Botton-Roulin,Expert,BI,450,businessobjects
+314,Axel,Botton-Roulin,Expert,BI,450,oracle
+314,Axel,Botton-Roulin,Expert,BI,450,sql
+314,Axel,Botton-Roulin,Expert,BI,450,dwh
+314,Axel,Botton-Roulin,Expert,BI,450,windows
+314,Axel,Botton-Roulin,Expert,BI,450,office
+314,Axel,Botton-Roulin,Expert,BI,450,project
+314,Axel,Botton-Roulin,Expert,BI,450,informatica
+314,Axel,Botton-Roulin,Expert,BI,450,kalido
+314,Axel,Botton-Roulin,Expert,BI,450,data warehousing
+314,Axel,Botton-Roulin,Expert,BI,450,postgresql
+314,Axel,Botton-Roulin,Expert,BI,450,kimball
+319,David,Schaepdrijver,Expert,CPM,450,oo
+319,David,Schaepdrijver,Expert,CPM,450,sas
+319,David,Schaepdrijver,Expert,CPM,450,oracle
+319,David,Schaepdrijver,Expert,CPM,450,mysql
+319,David,Schaepdrijver,Expert,CPM,450,dataflux
+319,David,Schaepdrijver,Expert,CPM,450,asp
+319,David,Schaepdrijver,Expert,CPM,450,vba
+319,David,Schaepdrijver,Expert,CPM,450,php
+319,David,Schaepdrijver,Expert,CPM,450,java
+319,David,Schaepdrijver,Expert,CPM,450,c#
+319,David,Schaepdrijver,Expert,CPM,450,data modeling
+319,David,Schaepdrijver,Expert,CPM,450,javascript
+336,Arnaud,Pècheux,Expert,CPM,450,jira
+336,Arnaud,Pècheux,Expert,CPM,450,cosmos
+336,Arnaud,Pècheux,Expert,CPM,450,opalis
+336,Arnaud,Pècheux,Expert,CPM,450,cognos
+336,Arnaud,Pècheux,Expert,CPM,450,dos
+336,Arnaud,Pècheux,Expert,CPM,450,excel
+336,Arnaud,Pècheux,Expert,CPM,450,project
+336,Arnaud,Pècheux,Expert,CPM,450,powerpoint
+336,Arnaud,Pècheux,Expert,CPM,450,office
+336,Arnaud,Pècheux,Expert,CPM,450,vba
+336,Arnaud,Pècheux,Expert,CPM,450,toad
+336,Arnaud,Pècheux,Expert,CPM,450,abs
+336,Arnaud,Pècheux,Expert,CPM,450,oracle
+336,Arnaud,Pècheux,Expert,CPM,450,hyperion
+336,Arnaud,Pècheux,Expert,CPM,450,access
+336,Arnaud,Pècheux,Expert,CPM,450,confluence
+336,Arnaud,Pècheux,Expert,CPM,450,sql
+336,Arnaud,Pècheux,Expert,CPM,450,tm1
+336,Arnaud,Pècheux,Expert,CPM,450,webex
+336,Arnaud,Pècheux,Expert,CPM,450,mtab
+336,Arnaud,Pècheux,Expert,CPM,450,newreg
+336,Arnaud,Pècheux,Expert,CPM,450,cisco
+344,Benoit,Thirionet,Senior,BD&A,450,sas
+344,Benoit,Thirionet,Senior,BD&A,450,mysql
+344,Benoit,Thirionet,Senior,BD&A,450,sql
+344,Benoit,Thirionet,Senior,BD&A,450,siebel
+344,Benoit,Thirionet,Senior,BD&A,450,data warehousing
+344,Benoit,Thirionet,Senior,BD&A,450,campaign
+344,Benoit,Thirionet,Senior,BD&A,450,oracle
+344,Benoit,Thirionet,Senior,BD&A,450,mathematics
+344,Benoit,Thirionet,Senior,BD&A,450,basic
+344,Benoit,Thirionet,Senior,BD&A,450,times
+344,Benoit,Thirionet,Senior,BD&A,450,access
+344,Benoit,Thirionet,Senior,BD&A,450,scrum
+344,Benoit,Thirionet,Senior,BD&A,450,jira
+344,Benoit,Thirionet,Senior,BD&A,450,hadoop
+344,Benoit,Thirionet,Senior,BD&A,450,statistical
+344,Benoit,Thirionet,Senior,BD&A,450,alteryx
+344,Benoit,Thirionet,Senior,BD&A,450,arcview
+344,Benoit,Thirionet,Senior,BD&A,450,office
+344,Benoit,Thirionet,Senior,BD&A,450,openoffice
+344,Benoit,Thirionet,Senior,BD&A,450,sap
+344,Benoit,Thirionet,Senior,BD&A,450,cognos
+344,Benoit,Thirionet,Senior,BD&A,450,tableau
+344,Benoit,Thirionet,Senior,BD&A,450,r
+344,Benoit,Thirionet,Senior,BD&A,450,qlik
+344,Benoit,Thirionet,Senior,BD&A,450,excel
+344,Benoit,Thirionet,Senior,BD&A,450,etl
+344,Benoit,Thirionet,Senior,BD&A,450,microstrategy
+344,Benoit,Thirionet,Senior,BD&A,450,python
+344,Benoit,Thirionet,Senior,BD&A,450,spark
+344,Benoit,Thirionet,Senior,BD&A,450,xml
+344,Benoit,Thirionet,Senior,BD&A,450,visual basic
+344,Benoit,Thirionet,Senior,BD&A,450,vba
+344,Benoit,Thirionet,Senior,BD&A,450,perl
+344,Benoit,Thirionet,Senior,BD&A,450,html
+344,Benoit,Thirionet,Senior,BD&A,450,matlab
+344,Benoit,Thirionet,Senior,BD&A,450,rays
+351,Jonas,Verlodt,Manager,BI,450,windows
+351,Jonas,Verlodt,Manager,BI,450,essbase
+351,Jonas,Verlodt,Manager,BI,450,sap
+351,Jonas,Verlodt,Manager,BI,450,oracle
+351,Jonas,Verlodt,Manager,BI,450,xml
+351,Jonas,Verlodt,Manager,BI,450,sql
+351,Jonas,Verlodt,Manager,BI,450,oo
+351,Jonas,Verlodt,Manager,BI,450,lisp
+351,Jonas,Verlodt,Manager,BI,450,java
+351,Jonas,Verlodt,Manager,BI,450,html
+351,Jonas,Verlodt,Manager,BI,450,c++
+351,Jonas,Verlodt,Manager,BI,450,unix
+351,Jonas,Verlodt,Manager,BI,450,assembler
+351,Jonas,Verlodt,Manager,BI,450,visio
+351,Jonas,Verlodt,Manager,BI,450,office
+351,Jonas,Verlodt,Manager,BI,450,big data
+351,Jonas,Verlodt,Manager,BI,450,scrum
+351,Jonas,Verlodt,Manager,BI,450,kimball
+351,Jonas,Verlodt,Manager,BI,450,dimensional
+351,Jonas,Verlodt,Manager,BI,450,itil
+351,Jonas,Verlodt,Manager,BI,450,data modeling
+351,Jonas,Verlodt,Manager,BI,450,latex
+351,Jonas,Verlodt,Manager,BI,450,informatica
+351,Jonas,Verlodt,Manager,BI,450,sharepoint
+351,Jonas,Verlodt,Manager,BI,450,linux
+351,Jonas,Verlodt,Manager,BI,450,cognos
+351,Jonas,Verlodt,Manager,BI,450,toad
+351,Jonas,Verlodt,Manager,BI,450,dns
+351,Jonas,Verlodt,Manager,BI,450,ultraedit
+351,Jonas,Verlodt,Manager,BI,450,qdesigner
+351,Jonas,Verlodt,Manager,BI,450,mysql
+351,Jonas,Verlodt,Manager,BI,450,applix
+351,Jonas,Verlodt,Manager,BI,450,hp
+359,Geoffrey,Dobbelaere,Manager,BI,450,vb
+359,Geoffrey,Dobbelaere,Manager,BI,450,c#
+359,Geoffrey,Dobbelaere,Manager,BI,450,cloud
+359,Geoffrey,Dobbelaere,Manager,BI,450,data modeling
+359,Geoffrey,Dobbelaere,Manager,BI,450,dimensional
+359,Geoffrey,Dobbelaere,Manager,BI,450,xml
+359,Geoffrey,Dobbelaere,Manager,BI,450,none
+359,Geoffrey,Dobbelaere,Manager,BI,450,sql
+359,Geoffrey,Dobbelaere,Manager,BI,450,db2
+359,Geoffrey,Dobbelaere,Manager,BI,450,cognos
+359,Geoffrey,Dobbelaere,Manager,BI,450,infragistics
+359,Geoffrey,Dobbelaere,Manager,BI,450,oracle
+359,Geoffrey,Dobbelaere,Manager,BI,450,sap
+359,Geoffrey,Dobbelaere,Manager,BI,450,asp
+359,Geoffrey,Dobbelaere,Manager,BI,450,ssis
+359,Geoffrey,Dobbelaere,Manager,BI,450,qlikview
+359,Geoffrey,Dobbelaere,Manager,BI,450,ssrs
+359,Geoffrey,Dobbelaere,Manager,BI,450,ssas
+359,Geoffrey,Dobbelaere,Manager,BI,450,data
+382,Stig,Serneels,Senior,BI,450,erwin
+382,Stig,Serneels,Senior,BI,450,sap
+382,Stig,Serneels,Senior,BI,450,oracle
+382,Stig,Serneels,Senior,BI,450,eclipse
+382,Stig,Serneels,Senior,BI,450,ms visual
+382,Stig,Serneels,Senior,BI,450,etl
+382,Stig,Serneels,Senior,BI,450,vmware
+382,Stig,Serneels,Senior,BI,450,pl
+382,Stig,Serneels,Senior,BI,450,access
+382,Stig,Serneels,Senior,BI,450,datastage
+382,Stig,Serneels,Senior,BI,450,css
+382,Stig,Serneels,Senior,BI,450,sas
+382,Stig,Serneels,Senior,BI,450,ajax
+382,Stig,Serneels,Senior,BI,450,vb
+382,Stig,Serneels,Senior,BI,450,oo
+382,Stig,Serneels,Senior,BI,450,jsp
+382,Stig,Serneels,Senior,BI,450,java
+382,Stig,Serneels,Senior,BI,450,html
+382,Stig,Serneels,Senior,BI,450,c++
+382,Stig,Serneels,Senior,BI,450,asp
+382,Stig,Serneels,Senior,BI,450,excel
+382,Stig,Serneels,Senior,BI,450,office
+382,Stig,Serneels,Senior,BI,450,word
+382,Stig,Serneels,Senior,BI,450,crm
+382,Stig,Serneels,Senior,BI,450,kimball
+382,Stig,Serneels,Senior,BI,450,itil
+382,Stig,Serneels,Senior,BI,450,uml
+382,Stig,Serneels,Senior,BI,450,windows
+382,Stig,Serneels,Senior,BI,450,linux
+382,Stig,Serneels,Senior,BI,450,spss
+382,Stig,Serneels,Senior,BI,450,visio
+382,Stig,Serneels,Senior,BI,450,cognos
+382,Stig,Serneels,Senior,BI,450,sql
+382,Stig,Serneels,Senior,BI,450,informatica
+382,Stig,Serneels,Senior,BI,450,qlikview
+382,Stig,Serneels,Senior,BI,450,adobe
+382,Stig,Serneels,Senior,BI,450,kalido
+394,Vincent,Payrat,Expert,BI,450,sap
+394,Vincent,Payrat,Expert,BI,450,oracle
+394,Vincent,Payrat,Expert,BI,450,qlikview
+394,Vincent,Payrat,Expert,BI,450,crystal
+394,Vincent,Payrat,Expert,BI,450,sql
+394,Vincent,Payrat,Expert,BI,450,mysql
+394,Vincent,Payrat,Expert,BI,450,postgresql
+394,Vincent,Payrat,Expert,BI,450,access
+394,Vincent,Payrat,Expert,BI,450,eclipse
+394,Vincent,Payrat,Expert,BI,450,cognos
+394,Vincent,Payrat,Expert,BI,450,360
+394,Vincent,Payrat,Expert,BI,450,java
+394,Vincent,Payrat,Expert,BI,450,pl
+394,Vincent,Payrat,Expert,BI,450,xml
+394,Vincent,Payrat,Expert,BI,450,vba
+394,Vincent,Payrat,Expert,BI,450,php
+394,Vincent,Payrat,Expert,BI,450,semarchy
+394,Vincent,Payrat,Expert,BI,450,r
+394,Vincent,Payrat,Expert,BI,450,data mining
+394,Vincent,Payrat,Expert,BI,450,oo
+394,Vincent,Payrat,Expert,BI,450,quality
+394,Vincent,Payrat,Expert,BI,450,mainframe
+394,Vincent,Payrat,Expert,BI,450,bpm
+394,Vincent,Payrat,Expert,BI,450,python
+394,Vincent,Payrat,Expert,BI,450,uml
+394,Vincent,Payrat,Expert,BI,450,matlab
+394,Vincent,Payrat,Expert,BI,450,osa
+394,Vincent,Payrat,Expert,BI,450,businessobjects
+394,Vincent,Payrat,Expert,BI,450,ebiexperts
+394,Vincent,Payrat,Expert,BI,450,kalido
+394,Vincent,Payrat,Expert,BI,450,informatica
+399,Sophie,Delva,Expert,BI,450,abs
+399,Sophie,Delva,Expert,BI,450,office
+399,Sophie,Delva,Expert,BI,450,cognos
+399,Sophie,Delva,Expert,BI,450,multi-dimensional
+399,Sophie,Delva,Expert,BI,450,bsp
+399,Sophie,Delva,Expert,BI,450,spss
+399,Sophie,Delva,Expert,BI,450,sql
+399,Sophie,Delva,Expert,BI,450,erwin
+405,Dorian,Massage,Senior,BI,450,sql
+405,Dorian,Massage,Senior,BI,450,visio
+405,Dorian,Massage,Senior,BI,450,pentaho
+405,Dorian,Massage,Senior,BI,450,cognos
+405,Dorian,Massage,Senior,BI,450,informatica
+405,Dorian,Massage,Senior,BI,450,sap
+405,Dorian,Massage,Senior,BI,450,quilliup
+405,Dorian,Massage,Senior,BI,450,asp
+405,Dorian,Massage,Senior,BI,450,ssis
+405,Dorian,Massage,Senior,BI,450,oracle
+405,Dorian,Massage,Senior,BI,450,redgate
+405,Dorian,Massage,Senior,BI,450,t-sql
+405,Dorian,Massage,Senior,BI,450,aws
+405,Dorian,Massage,Senior,BI,450,qlikview
+405,Dorian,Massage,Senior,BI,450,office
+405,Dorian,Massage,Senior,BI,450,power
+405,Dorian,Massage,Senior,BI,450,powershell
+405,Dorian,Massage,Senior,BI,450,windows
+405,Dorian,Massage,Senior,BI,450,html
+405,Dorian,Massage,Senior,BI,450,java
+405,Dorian,Massage,Senior,BI,450,jsp
+405,Dorian,Massage,Senior,BI,450,php
+405,Dorian,Massage,Senior,BI,450,vba
+405,Dorian,Massage,Senior,BI,450,visual basic
+405,Dorian,Massage,Senior,BI,450,xml
+405,Dorian,Massage,Senior,BI,450,javascript
+405,Dorian,Massage,Senior,BI,450,sas
+405,Dorian,Massage,Senior,BI,450,jquery
+405,Dorian,Massage,Senior,BI,450,css
+405,Dorian,Massage,Senior,BI,450,pl
+405,Dorian,Massage,Senior,BI,450,ajax
+405,Dorian,Massage,Senior,BI,450,c++
+405,Dorian,Massage,Senior,BI,450,c#
+405,Dorian,Massage,Senior,BI,450,c
+405,Dorian,Massage,Senior,BI,450,excel
+405,Dorian,Massage,Senior,BI,450,red
+405,Dorian,Massage,Senior,BI,450,uml
+405,Dorian,Massage,Senior,BI,450,data vault
+405,Dorian,Massage,Senior,BI,450,linux
+405,Dorian,Massage,Senior,BI,450,etl
+405,Dorian,Massage,Senior,BI,450,data warehousing
+405,Dorian,Massage,Senior,BI,450,kimball
+405,Dorian,Massage,Senior,BI,450,scrum
+405,Dorian,Massage,Senior,BI,450,access
+405,Dorian,Massage,Senior,BI,450,word
+405,Dorian,Massage,Senior,BI,450,project
+405,Dorian,Massage,Senior,BI,450,powerpoint
+405,Dorian,Massage,Senior,BI,450,itil
+405,Dorian,Massage,Senior,BI,450,mysql
+405,Dorian,Massage,Senior,BI,450,jira
+405,Dorian,Massage,Senior,BI,450,eclipse
+405,Dorian,Massage,Senior,BI,450,dynamics
+405,Dorian,Massage,Senior,BI,450,360
+405,Dorian,Massage,Senior,BI,450,apache
+405,Dorian,Massage,Senior,BI,450,docker
+405,Dorian,Massage,Senior,BI,450,enterprise
+405,Dorian,Massage,Senior,BI,450,gradle
+405,Dorian,Massage,Senior,BI,450,intellij
+405,Dorian,Massage,Senior,BI,450,sonarqube
+405,Dorian,Massage,Senior,BI,450,vi
+405,Dorian,Massage,Senior,BI,450,artifactory
+405,Dorian,Massage,Senior,BI,450,vmware
+405,Dorian,Massage,Senior,BI,450,netbeans
+405,Dorian,Massage,Senior,BI,450,consul
+405,Dorian,Massage,Senior,BI,450,jenkins
+405,Dorian,Massage,Senior,BI,450,visual paradigm
+418,David,Gonçalves,Expert,BI,450,architecture
+418,David,Gonçalves,Expert,BI,450,data modeling
+418,David,Gonçalves,Expert,BI,450,dwh
+418,David,Gonçalves,Expert,BI,450,sql
+418,David,Gonçalves,Expert,BI,450,mainframe
+418,David,Gonçalves,Expert,BI,450,windows
+418,David,Gonçalves,Expert,BI,450,data warehousing
+418,David,Gonçalves,Expert,BI,450,business analysis
+418,David,Gonçalves,Expert,BI,450,dimensional
+418,David,Gonçalves,Expert,BI,450,oracle
+418,David,Gonçalves,Expert,BI,450,pl
+418,David,Gonçalves,Expert,BI,450,sap
+418,David,Gonçalves,Expert,BI,450,qlikview
+418,David,Gonçalves,Expert,BI,450,crystal
+418,David,Gonçalves,Expert,BI,450,bex
+418,David,Gonçalves,Expert,BI,450,qlik
+418,David,Gonçalves,Expert,BI,450,db2
+418,David,Gonçalves,Expert,BI,450,powerdesigner
+418,David,Gonçalves,Expert,BI,450,owb
+418,David,Gonçalves,Expert,BI,450,technical
+418,David,Gonçalves,Expert,BI,450,etl
+418,David,Gonçalves,Expert,BI,450,excel
+422,Saskia,Verschorre,Expert,BI,450,sap
+422,Saskia,Verschorre,Expert,BI,450,sql
+422,Saskia,Verschorre,Expert,BI,450,oracle
+422,Saskia,Verschorre,Expert,BI,450,business data
+422,Saskia,Verschorre,Expert,BI,450,power
+422,Saskia,Verschorre,Expert,BI,450,crystal
+422,Saskia,Verschorre,Expert,BI,450,informatica
+422,Saskia,Verschorre,Expert,BI,450,software
+422,Saskia,Verschorre,Expert,BI,450,ssis
+422,Saskia,Verschorre,Expert,BI,450,ssas
+422,Saskia,Verschorre,Expert,BI,450,ssrs
+422,Saskia,Verschorre,Expert,BI,450,ibm
+422,Saskia,Verschorre,Expert,BI,450,data modeling
+422,Saskia,Verschorre,Expert,BI,450,etl
+422,Saskia,Verschorre,Expert,BI,450,office
+422,Saskia,Verschorre,Expert,BI,450,functional
+422,Saskia,Verschorre,Expert,BI,450,scrum
+422,Saskia,Verschorre,Expert,BI,450,kimball
+422,Saskia,Verschorre,Expert,BI,450,data warehousing
+422,Saskia,Verschorre,Expert,BI,450,technical
+422,Saskia,Verschorre,Expert,BI,450,dimensional
+422,Saskia,Verschorre,Expert,BI,450,project
+422,Saskia,Verschorre,Expert,BI,450,t-sql
+422,Saskia,Verschorre,Expert,BI,450,business analysis
+428,Declan,Dempsey,Senior,BI,450,sap
+428,Declan,Dempsey,Senior,BI,450,cognos
+428,Declan,Dempsey,Senior,BI,450,central
+428,Declan,Dempsey,Senior,BI,450,sybase
+428,Declan,Dempsey,Senior,BI,450,oracle
+428,Declan,Dempsey,Senior,BI,450,sql
+428,Declan,Dempsey,Senior,BI,450,windows
+428,Declan,Dempsey,Senior,BI,450,ibm
+428,Declan,Dempsey,Senior,BI,450,unix
+428,Declan,Dempsey,Senior,BI,450,agile
+428,Declan,Dempsey,Senior,BI,450,kanban
+428,Declan,Dempsey,Senior,BI,450,vba
+428,Declan,Dempsey,Senior,BI,450,xsl
+428,Declan,Dempsey,Senior,BI,450,informatica
+428,Declan,Dempsey,Senior,BI,450,mysql
+428,Declan,Dempsey,Senior,BI,450,kalido
+428,Declan,Dempsey,Senior,BI,450,showcase
+428,Declan,Dempsey,Senior,BI,450,businessobjects
+428,Declan,Dempsey,Senior,BI,450,informix
+428,Declan,Dempsey,Senior,BI,450,powerdesigner
+428,Declan,Dempsey,Senior,BI,450,jira
+428,Declan,Dempsey,Senior,BI,450,toad
+428,Declan,Dempsey,Senior,BI,450,quality
+467,Mathieu,Pas,Senior,BI,450,mercury
+467,Mathieu,Pas,Senior,BI,450,mysql
+467,Mathieu,Pas,Senior,BI,450,oracle
+467,Mathieu,Pas,Senior,BI,450,informatica
+467,Mathieu,Pas,Senior,BI,450,sql
+467,Mathieu,Pas,Senior,BI,450,css
+467,Mathieu,Pas,Senior,BI,450,etl
+467,Mathieu,Pas,Senior,BI,450,pl
+467,Mathieu,Pas,Senior,BI,450,control-m
+467,Mathieu,Pas,Senior,BI,450,jquery
+467,Mathieu,Pas,Senior,BI,450,php
+467,Mathieu,Pas,Senior,BI,450,java
+467,Mathieu,Pas,Senior,BI,450,toad
+467,Mathieu,Pas,Senior,BI,450,hp
+467,Mathieu,Pas,Senior,BI,450,scrum
+467,Mathieu,Pas,Senior,BI,450,sap
+467,Mathieu,Pas,Senior,BI,450,html
+467,Mathieu,Pas,Senior,BI,450,unix
+469,Glenn,De Munck,Consultant,CPM,450,sas
+469,Glenn,De Munck,Consultant,CPM,450,xampp
+469,Glenn,De Munck,Consultant,CPM,450,joomla
+469,Glenn,De Munck,Consultant,CPM,450,drupal
+469,Glenn,De Munck,Consultant,CPM,450,excel
+469,Glenn,De Munck,Consultant,CPM,450,sql
+469,Glenn,De Munck,Consultant,CPM,450,vb
+469,Glenn,De Munck,Consultant,CPM,450,ajax
+469,Glenn,De Munck,Consultant,CPM,450,asp
+469,Glenn,De Munck,Consultant,CPM,450,pl
+469,Glenn,De Munck,Consultant,CPM,450,sap
+469,Glenn,De Munck,Consultant,CPM,450,cognos
+469,Glenn,De Munck,Consultant,CPM,450,access
+469,Glenn,De Munck,Consultant,CPM,450,oracle
+469,Glenn,De Munck,Consultant,CPM,450,mysql
+469,Glenn,De Munck,Consultant,CPM,450,cisco
+469,Glenn,De Munck,Consultant,CPM,450,enterprise
+469,Glenn,De Munck,Consultant,CPM,450,qlikview
+469,Glenn,De Munck,Consultant,CPM,450,php
+469,Glenn,De Munck,Consultant,CPM,450,jquery
+469,Glenn,De Munck,Consultant,CPM,450,oo
+469,Glenn,De Munck,Consultant,CPM,450,java
+469,Glenn,De Munck,Consultant,CPM,450,html
+469,Glenn,De Munck,Consultant,CPM,450,c
+469,Glenn,De Munck,Consultant,CPM,450,office
+469,Glenn,De Munck,Consultant,CPM,450,kimball
+469,Glenn,De Munck,Consultant,CPM,450,data warehousing
+469,Glenn,De Munck,Consultant,CPM,450,itil
+469,Glenn,De Munck,Consultant,CPM,450,uml
+469,Glenn,De Munck,Consultant,CPM,450,windows
+469,Glenn,De Munck,Consultant,CPM,450,xml
+469,Glenn,De Munck,Consultant,CPM,450,linux
+469,Glenn,De Munck,Consultant,CPM,450,css
+470,Ilke,Stabel,Consultant,BI,450,citrix
+470,Ilke,Stabel,Consultant,BI,450,sharepoint
+470,Ilke,Stabel,Consultant,BI,450,olap
+470,Ilke,Stabel,Consultant,BI,450,outlook
+470,Ilke,Stabel,Consultant,BI,450,crm
+470,Ilke,Stabel,Consultant,BI,450,netezza
+470,Ilke,Stabel,Consultant,BI,450,unix
+470,Ilke,Stabel,Consultant,BI,450,linux
+470,Ilke,Stabel,Consultant,BI,450,windows
+470,Ilke,Stabel,Consultant,BI,450,sas
+470,Ilke,Stabel,Consultant,BI,450,eclipse
+470,Ilke,Stabel,Consultant,BI,450,sql
+470,Ilke,Stabel,Consultant,BI,450,asp
+470,Ilke,Stabel,Consultant,BI,450,ms visual
+470,Ilke,Stabel,Consultant,BI,450,css
+470,Ilke,Stabel,Consultant,BI,450,ajax
+470,Ilke,Stabel,Consultant,BI,450,pl
+470,Ilke,Stabel,Consultant,BI,450,jquery
+470,Ilke,Stabel,Consultant,BI,450,visual basic
+470,Ilke,Stabel,Consultant,BI,450,php
+470,Ilke,Stabel,Consultant,BI,450,oracle
+470,Ilke,Stabel,Consultant,BI,450,oo
+470,Ilke,Stabel,Consultant,BI,450,drupal
+470,Ilke,Stabel,Consultant,BI,450,vtom
+470,Ilke,Stabel,Consultant,BI,450,cisco
+470,Ilke,Stabel,Consultant,BI,450,mysql
+470,Ilke,Stabel,Consultant,BI,450,visual paradigm
+470,Ilke,Stabel,Consultant,BI,450,access
+470,Ilke,Stabel,Consultant,BI,450,erwin
+470,Ilke,Stabel,Consultant,BI,450,visual studio
+470,Ilke,Stabel,Consultant,BI,450,sap
+470,Ilke,Stabel,Consultant,BI,450,java
+470,Ilke,Stabel,Consultant,BI,450,c
+470,Ilke,Stabel,Consultant,BI,450,html
+470,Ilke,Stabel,Consultant,BI,450,uml
+470,Ilke,Stabel,Consultant,BI,450,itil
+470,Ilke,Stabel,Consultant,BI,450,data warehousing
+470,Ilke,Stabel,Consultant,BI,450,scrum
+470,Ilke,Stabel,Consultant,BI,450,javascript
+470,Ilke,Stabel,Consultant,BI,450,
+470,Ilke,Stabel,Consultant,BI,450,kimball
+476,Sylvie,Degraeve,Senior,BI,450,contract
+476,Sylvie,Degraeve,Senior,BI,450,cognos
+476,Sylvie,Degraeve,Senior,BI,450,sas
+476,Sylvie,Degraeve,Senior,BI,450,project
+476,Sylvie,Degraeve,Senior,BI,450,prince2
+476,Sylvie,Degraeve,Senior,BI,450,process
+476,Sylvie,Degraeve,Senior,BI,450,lean-six
+476,Sylvie,Degraeve,Senior,BI,450,change
+476,Sylvie,Degraeve,Senior,BI,450,salesforce
+477,Sandra,Geeraerts,Expert,BI,450,kimball
+477,Sandra,Geeraerts,Expert,BI,450,logixml
+477,Sandra,Geeraerts,Expert,BI,450,cognos
+477,Sandra,Geeraerts,Expert,BI,450,oracle
+477,Sandra,Geeraerts,Expert,BI,450,sap
+477,Sandra,Geeraerts,Expert,BI,450,kalido
+477,Sandra,Geeraerts,Expert,BI,450,toad
+477,Sandra,Geeraerts,Expert,BI,450,pl
+477,Sandra,Geeraerts,Expert,BI,450,excel
+477,Sandra,Geeraerts,Expert,BI,450,office
+477,Sandra,Geeraerts,Expert,BI,450,access
+477,Sandra,Geeraerts,Expert,BI,450,mainframe
+477,Sandra,Geeraerts,Expert,BI,450,dimensional
+477,Sandra,Geeraerts,Expert,BI,450,data quality
+477,Sandra,Geeraerts,Expert,BI,450,sas
+478,Dany,Meuldermans,Manager,BI,450,access
+478,Dany,Meuldermans,Manager,BI,450,sas
+478,Dany,Meuldermans,Manager,BI,450,sql
+478,Dany,Meuldermans,Manager,BI,450,oracle
+478,Dany,Meuldermans,Manager,BI,450,cognos
+478,Dany,Meuldermans,Manager,BI,450,itil
+478,Dany,Meuldermans,Manager,BI,450,project
+478,Dany,Meuldermans,Manager,BI,450,pmbok
+478,Dany,Meuldermans,Manager,BI,450,pl
+478,Dany,Meuldermans,Manager,BI,450,informatica
+478,Dany,Meuldermans,Manager,BI,450,ssrs
+478,Dany,Meuldermans,Manager,BI,450,toad
+478,Dany,Meuldermans,Manager,BI,450,sap
+478,Dany,Meuldermans,Manager,BI,450,businessobjects
+478,Dany,Meuldermans,Manager,BI,450,qlikview
+478,Dany,Meuldermans,Manager,BI,450,microstrategy
+478,Dany,Meuldermans,Manager,BI,450,crystal
+478,Dany,Meuldermans,Manager,BI,450,bteq
+478,Dany,Meuldermans,Manager,BI,450,teradata
+478,Dany,Meuldermans,Manager,BI,450,quilliup
+480,Bart,Cousin,Expert,BI,450,sql
+480,Bart,Cousin,Expert,BI,450,java
+480,Bart,Cousin,Expert,BI,450,php
+480,Bart,Cousin,Expert,BI,450,html
+480,Bart,Cousin,Expert,BI,450,c++
+480,Bart,Cousin,Expert,BI,450,crm
+480,Bart,Cousin,Expert,BI,450,prince2
+480,Bart,Cousin,Expert,BI,450,dimensional
+480,Bart,Cousin,Expert,BI,450,business data
+480,Bart,Cousin,Expert,BI,450,business analysis
+480,Bart,Cousin,Expert,BI,450,windows
+480,Bart,Cousin,Expert,BI,450,unix
+480,Bart,Cousin,Expert,BI,450,oracle
+480,Bart,Cousin,Expert,BI,450,powerdesigner
+480,Bart,Cousin,Expert,BI,450,semarchy
+480,Bart,Cousin,Expert,BI,450,sap
+480,Bart,Cousin,Expert,BI,450,cognos
+480,Bart,Cousin,Expert,BI,450,etl
+480,Bart,Cousin,Expert,BI,450,informatica
+480,Bart,Cousin,Expert,BI,450,none
+480,Bart,Cousin,Expert,BI,450,marketing
+480,Bart,Cousin,Expert,BI,450,mysql
+480,Bart,Cousin,Expert,BI,450,kalido
+513,Ilham,El Brouji,Senior,BI,450,sap
+513,Ilham,El Brouji,Senior,BI,450,cognos
+513,Ilham,El Brouji,Senior,BI,450,ibm
+513,Ilham,El Brouji,Senior,BI,450,oracle
+513,Ilham,El Brouji,Senior,BI,450,power
+513,Ilham,El Brouji,Senior,BI,450,talend
+513,Ilham,El Brouji,Senior,BI,450,prelytis
+513,Ilham,El Brouji,Senior,BI,450,mysql
+513,Ilham,El Brouji,Senior,BI,450,ftp
+513,Ilham,El Brouji,Senior,BI,450,etl
+513,Ilham,El Brouji,Senior,BI,450,eclipse
+513,Ilham,El Brouji,Senior,BI,450,toad
+513,Ilham,El Brouji,Senior,BI,450,pl
+513,Ilham,El Brouji,Senior,BI,450,websphere
+513,Ilham,El Brouji,Senior,BI,450,visual studio
+513,Ilham,El Brouji,Senior,BI,450,access
+513,Ilham,El Brouji,Senior,BI,450,sql
+513,Ilham,El Brouji,Senior,BI,450,voice
+513,Ilham,El Brouji,Senior,BI,450,python
+513,Ilham,El Brouji,Senior,BI,450,java
+513,Ilham,El Brouji,Senior,BI,450,latex
+513,Ilham,El Brouji,Senior,BI,450,linux
+513,Ilham,El Brouji,Senior,BI,450,windows
+513,Ilham,El Brouji,Senior,BI,450,dos
+513,Ilham,El Brouji,Senior,BI,450,data modeling
+513,Ilham,El Brouji,Senior,BI,450,data warehousing
+513,Ilham,El Brouji,Senior,BI,450,multi-dimensional
+513,Ilham,El Brouji,Senior,BI,450,data quality
+513,Ilham,El Brouji,Senior,BI,450,kimball
+513,Ilham,El Brouji,Senior,BI,450,struts
+513,Ilham,El Brouji,Senior,BI,450,data vault
+513,Ilham,El Brouji,Senior,BI,450,jsp
+513,Ilham,El Brouji,Senior,BI,450,perl
+513,Ilham,El Brouji,Senior,BI,450,php
+513,Ilham,El Brouji,Senior,BI,450,xml
+513,Ilham,El Brouji,Senior,BI,450,beanshell
+513,Ilham,El Brouji,Senior,BI,450,asp
+513,Ilham,El Brouji,Senior,BI,450,c++
+513,Ilham,El Brouji,Senior,BI,450,html
+515,Frederik,De Win,Consultant,BI,450,sql
+515,Frederik,De Win,Consultant,BI,450,access
+515,Frederik,De Win,Consultant,BI,450,oracle
+515,Frederik,De Win,Consultant,BI,450,office
+515,Frederik,De Win,Consultant,BI,450,visual studio
+515,Frederik,De Win,Consultant,BI,450,semarchy
+515,Frederik,De Win,Consultant,BI,450,active
+515,Frederik,De Win,Consultant,BI,450,vmware
+515,Frederik,De Win,Consultant,BI,450,cognos
+515,Frederik,De Win,Consultant,BI,450,notepad
+515,Frederik,De Win,Consultant,BI,450,css
+515,Frederik,De Win,Consultant,BI,450,ibm
+515,Frederik,De Win,Consultant,BI,450,html
+518,Alice,Florival,Senior,KM,450,project
+518,Alice,Florival,Senior,KM,450,functional
+518,Alice,Florival,Senior,KM,450,bpm
+518,Alice,Florival,Senior,KM,450,business analysis
+518,Alice,Florival,Senior,KM,450,change
+545,Serge,De Coster,Manager,CPM,450,java
+545,Serge,De Coster,Manager,CPM,450,business analysis
+545,Serge,De Coster,Manager,CPM,450,functional
+545,Serge,De Coster,Manager,CPM,450,cpm
+545,Serge,De Coster,Manager,CPM,450,hyperion
+545,Serge,De Coster,Manager,CPM,450,entreprise
+545,Serge,De Coster,Manager,CPM,450,cognos
+545,Serge,De Coster,Manager,CPM,450,sap
+545,Serge,De Coster,Manager,CPM,450,fs90
+545,Serge,De Coster,Manager,CPM,450,navision
+545,Serge,De Coster,Manager,CPM,450,office
+545,Serge,De Coster,Manager,CPM,450,exact
+545,Serge,De Coster,Manager,CPM,450,tm1
+545,Serge,De Coster,Manager,CPM,450,excel
+545,Serge,De Coster,Manager,CPM,450,vba
+545,Serge,De Coster,Manager,CPM,450,access
+550,Michael,Rogiers,Manager,KM,450,cognos
+550,Michael,Rogiers,Manager,KM,450,dwh
+550,Michael,Rogiers,Manager,KM,450,sap
+550,Michael,Rogiers,Manager,KM,450,prince2
+550,Michael,Rogiers,Manager,KM,450,crm
+550,Michael,Rogiers,Manager,KM,450,word
+550,Michael,Rogiers,Manager,KM,450,powerpoint
+550,Michael,Rogiers,Manager,KM,450,sql
+550,Michael,Rogiers,Manager,KM,450,oracle
+550,Michael,Rogiers,Manager,KM,450,access
+550,Michael,Rogiers,Manager,KM,450,tm1
+562,Jelle,Van der Linden,Consultant,BI,450,agile
+562,Jelle,Van der Linden,Consultant,BI,450,project
+562,Jelle,Van der Linden,Consultant,BI,450,sas
+562,Jelle,Van der Linden,Consultant,BI,450,kimball
+562,Jelle,Van der Linden,Consultant,BI,450,data vault
+562,Jelle,Van der Linden,Consultant,BI,450,data warehousing
+562,Jelle,Van der Linden,Consultant,BI,450,windows
+562,Jelle,Van der Linden,Consultant,BI,450,ssis
+562,Jelle,Van der Linden,Consultant,BI,450,linux
+562,Jelle,Van der Linden,Consultant,BI,450,sap
+562,Jelle,Van der Linden,Consultant,BI,450,office
+562,Jelle,Van der Linden,Consultant,BI,450,
+562,Jelle,Van der Linden,Consultant,BI,450,java
+562,Jelle,Van der Linden,Consultant,BI,450,c
+562,Jelle,Van der Linden,Consultant,BI,450,c#
+562,Jelle,Van der Linden,Consultant,BI,450,html
+562,Jelle,Van der Linden,Consultant,BI,450,informatica
+562,Jelle,Van der Linden,Consultant,BI,450,oracle
+562,Jelle,Van der Linden,Consultant,BI,450,jsp
+562,Jelle,Van der Linden,Consultant,BI,450,oo
+562,Jelle,Van der Linden,Consultant,BI,450,servlet
+562,Jelle,Van der Linden,Consultant,BI,450,sql
+562,Jelle,Van der Linden,Consultant,BI,450,css
+562,Jelle,Van der Linden,Consultant,BI,450,t-sql
+562,Jelle,Van der Linden,Consultant,BI,450,vb
+562,Jelle,Van der Linden,Consultant,BI,450,pl
+562,Jelle,Van der Linden,Consultant,BI,450,asp
+562,Jelle,Van der Linden,Consultant,BI,450,xml
+562,Jelle,Van der Linden,Consultant,BI,450,itil
+562,Jelle,Van der Linden,Consultant,BI,450,none
+562,Jelle,Van der Linden,Consultant,BI,450,eclipse
+562,Jelle,Van der Linden,Consultant,BI,450,ms visual
+562,Jelle,Van der Linden,Consultant,BI,450,etl
+562,Jelle,Van der Linden,Consultant,BI,450,drupal
+562,Jelle,Van der Linden,Consultant,BI,450,tableau
+562,Jelle,Van der Linden,Consultant,BI,450,flash
+562,Jelle,Van der Linden,Consultant,BI,450,access
+562,Jelle,Van der Linden,Consultant,BI,450,adobe
+562,Jelle,Van der Linden,Consultant,BI,450,javascript
+562,Jelle,Van der Linden,Consultant,BI,450,cognos
+562,Jelle,Van der Linden,Consultant,BI,450,db2
+562,Jelle,Van der Linden,Consultant,BI,450,cisco
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,excel
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,google
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,office
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,access
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,bpm
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,oo
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,itil
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,sas
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,c
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,r
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,eclipse
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,adobe
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,notepad
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,sql
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,spss
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,mysql
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,oracle
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,tableau
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,python
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,vb
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,css
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,spring
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,java
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,javascript
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,xml
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,html
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,gantt
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,scrum
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,php
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,windows
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,rup
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,architecture
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,data modeling
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,agile
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,project
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,process
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,prince2
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,business data
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,uml
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,ios
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,android
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,linux
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,costar
+563,Geoffrey,Moerenhoudt,Consultant,BD&A,450,cobit
+564,Simke,Nys,Consultant,BI,450,sas
+564,Simke,Nys,Consultant,BI,450,css
+564,Simke,Nys,Consultant,BI,450,python
+564,Simke,Nys,Consultant,BI,450,c++
+564,Simke,Nys,Consultant,BI,450,html
+564,Simke,Nys,Consultant,BI,450,java
+564,Simke,Nys,Consultant,BI,450,vba
+564,Simke,Nys,Consultant,BI,450,engagor
+564,Simke,Nys,Consultant,BI,450,hootsuite
+564,Simke,Nys,Consultant,BI,450,spss
+564,Simke,Nys,Consultant,BI,450,mainframe
+564,Simke,Nys,Consultant,BI,450,linux
+564,Simke,Nys,Consultant,BI,450,windows
+564,Simke,Nys,Consultant,BI,450,uml
+564,Simke,Nys,Consultant,BI,450,office
+564,Simke,Nys,Consultant,BI,450,access
+564,Simke,Nys,Consultant,BI,450,word
+564,Simke,Nys,Consultant,BI,450,powerpoint
+564,Simke,Nys,Consultant,BI,450,excel
+564,Simke,Nys,Consultant,BI,450,php
+564,Simke,Nys,Consultant,BI,450,none
+564,Simke,Nys,Consultant,BI,450,eclipse
+564,Simke,Nys,Consultant,BI,450,visual paradigm
+564,Simke,Nys,Consultant,BI,450,netbeans
+564,Simke,Nys,Consultant,BI,450,apache
+564,Simke,Nys,Consultant,BI,450,oracle
+564,Simke,Nys,Consultant,BI,450,mysql
+564,Simke,Nys,Consultant,BI,450,sql
+564,Simke,Nys,Consultant,BI,450,sap
+564,Simke,Nys,Consultant,BI,450,asp
+564,Simke,Nys,Consultant,BI,450,brandwatch
+564,Simke,Nys,Consultant,BI,450,ajax
+564,Simke,Nys,Consultant,BI,450,vb
+564,Simke,Nys,Consultant,BI,450,pl
+564,Simke,Nys,Consultant,BI,450,jquery
+564,Simke,Nys,Consultant,BI,450,javascript
+564,Simke,Nys,Consultant,BI,450,jsp
+566,Jean-Francois,Gigot,Director,KM,450,office
+566,Jean-Francois,Gigot,Director,KM,450,cognos
+566,Jean-Francois,Gigot,Director,KM,450,sap
+566,Jean-Francois,Gigot,Director,KM,450,frontpage
+566,Jean-Francois,Gigot,Director,KM,450,visual basic
+566,Jean-Francois,Gigot,Director,KM,450,sql
+566,Jean-Francois,Gigot,Director,KM,450,cobol
+566,Jean-Francois,Gigot,Director,KM,450,assembler
+566,Jean-Francois,Gigot,Director,KM,450,html
+566,Jean-Francois,Gigot,Director,KM,450,outlook
+566,Jean-Francois,Gigot,Director,KM,450,lean-six
+566,Jean-Francois,Gigot,Director,KM,450,data modeling
+566,Jean-Francois,Gigot,Director,KM,450,clarity
+566,Jean-Francois,Gigot,Director,KM,450,prince2
+566,Jean-Francois,Gigot,Director,KM,450,access
+566,Jean-Francois,Gigot,Director,KM,450,lotus
+566,Jean-Francois,Gigot,Director,KM,450,project
+580,Michiel,Kamp,Manager,BI,450,oracle
+580,Michiel,Kamp,Manager,BI,450,sql
+580,Michiel,Kamp,Manager,BI,450,erwin
+580,Michiel,Kamp,Manager,BI,450,ab
+580,Michiel,Kamp,Manager,BI,450,semarchy
+580,Michiel,Kamp,Manager,BI,450,cognos
+580,Michiel,Kamp,Manager,BI,450,toad
+580,Michiel,Kamp,Manager,BI,450,congos
+580,Michiel,Kamp,Manager,BI,450,kalido
+580,Michiel,Kamp,Manager,BI,450,business analysis
+580,Michiel,Kamp,Manager,BI,450,data modeling
+580,Michiel,Kamp,Manager,BI,450,qlikview
+580,Michiel,Kamp,Manager,BI,450,itil
+580,Michiel,Kamp,Manager,BI,450,quality
+580,Michiel,Kamp,Manager,BI,450,dimensional
+580,Michiel,Kamp,Manager,BI,450,kimball
+580,Michiel,Kamp,Manager,BI,450,prince2
+580,Michiel,Kamp,Manager,BI,450,scrum
+580,Michiel,Kamp,Manager,BI,450,office
+580,Michiel,Kamp,Manager,BI,450,visio
+587,Elie,Jesuran,Consultant,BD&A,450,c++
+587,Elie,Jesuran,Consultant,BD&A,450,rays
+587,Elie,Jesuran,Consultant,BD&A,450,python
+587,Elie,Jesuran,Consultant,BD&A,450,matlab
+587,Elie,Jesuran,Consultant,BD&A,450,c
+587,Elie,Jesuran,Consultant,BD&A,450,r-hadoop
+587,Elie,Jesuran,Consultant,BD&A,450,httrack
+587,Elie,Jesuran,Consultant,BD&A,450,r
+587,Elie,Jesuran,Consultant,BD&A,450,spark
+587,Elie,Jesuran,Consultant,BD&A,450,sas
+587,Elie,Jesuran,Consultant,BD&A,450,java
+587,Elie,Jesuran,Consultant,BD&A,450,agile
+587,Elie,Jesuran,Consultant,BD&A,450,linux
+587,Elie,Jesuran,Consultant,BD&A,450,machine learning
+595,Cédric,Antoine,Senior,KM,450,sdl
+614,Michel,Kluyskens,Senior,BI,450,tableau
+614,Michel,Kluyskens,Senior,BI,450,sql
+614,Michel,Kluyskens,Senior,BI,450,teradata
+614,Michel,Kluyskens,Senior,BI,450,oracle
+614,Michel,Kluyskens,Senior,BI,450,informatica
+614,Michel,Kluyskens,Senior,BI,450,qlik
+614,Michel,Kluyskens,Senior,BI,450,cognos
+614,Michel,Kluyskens,Senior,BI,450,office
+614,Michel,Kluyskens,Senior,BI,450,pl
+614,Michel,Kluyskens,Senior,BI,450,visio
+614,Michel,Kluyskens,Senior,BI,450,data modeling
+614,Michel,Kluyskens,Senior,BI,450,vba
+615,Claudia,Jimenez,Manager,KM,450,sap
+615,Claudia,Jimenez,Manager,KM,450,change
+615,Claudia,Jimenez,Manager,KM,450,sas
+618,Axel,Derycke,Manager,CPM,450,sap
+618,Axel,Derycke,Manager,CPM,450,hyperion
+618,Axel,Derycke,Manager,CPM,450,sas
+620,Jelle,Van Eyck,Consultant,BD&A,450,google
+620,Jelle,Van Eyck,Consultant,BD&A,450,android
+620,Jelle,Van Eyck,Consultant,BD&A,450,latex
+620,Jelle,Van Eyck,Consultant,BD&A,450,big data
+620,Jelle,Van Eyck,Consultant,BD&A,450,ajax
+620,Jelle,Van Eyck,Consultant,BD&A,450,spark
+620,Jelle,Van Eyck,Consultant,BD&A,450,java
+620,Jelle,Van Eyck,Consultant,BD&A,450,javascript
+620,Jelle,Van Eyck,Consultant,BD&A,450,data mining
+620,Jelle,Van Eyck,Consultant,BD&A,450,postgresql
+620,Jelle,Van Eyck,Consultant,BD&A,450,office
+620,Jelle,Van Eyck,Consultant,BD&A,450,c
+620,Jelle,Van Eyck,Consultant,BD&A,450,mongodb
+620,Jelle,Van Eyck,Consultant,BD&A,450,r
+620,Jelle,Van Eyck,Consultant,BD&A,450,c#
+620,Jelle,Van Eyck,Consultant,BD&A,450,c++
+620,Jelle,Van Eyck,Consultant,BD&A,450,hadoop
+620,Jelle,Van Eyck,Consultant,BD&A,450,html
+620,Jelle,Van Eyck,Consultant,BD&A,450,oo
+620,Jelle,Van Eyck,Consultant,BD&A,450,mac
+620,Jelle,Van Eyck,Consultant,BD&A,450,python
+620,Jelle,Van Eyck,Consultant,BD&A,450,hive
+620,Jelle,Van Eyck,Consultant,BD&A,450,sql
+620,Jelle,Van Eyck,Consultant,BD&A,450,nosql
+620,Jelle,Van Eyck,Consultant,BD&A,450,mysql
+620,Jelle,Van Eyck,Consultant,BD&A,450,tableau
+620,Jelle,Van Eyck,Consultant,BD&A,450,prolog
+620,Jelle,Van Eyck,Consultant,BD&A,450,sas
+620,Jelle,Van Eyck,Consultant,BD&A,450,perl
+620,Jelle,Van Eyck,Consultant,BD&A,450,scala
+620,Jelle,Van Eyck,Consultant,BD&A,450,impala
+620,Jelle,Van Eyck,Consultant,BD&A,450,netezza
+620,Jelle,Van Eyck,Consultant,BD&A,450,linux
+620,Jelle,Van Eyck,Consultant,BD&A,450,matlab
+620,Jelle,Van Eyck,Consultant,BD&A,450,pig
+620,Jelle,Van Eyck,Consultant,BD&A,450,machine learning
+620,Jelle,Van Eyck,Consultant,BD&A,450,php
+621,Quentin,Estievenart,Junior,BD&A,450,alteryx
+621,Quentin,Estievenart,Junior,BD&A,450,sql
+621,Quentin,Estievenart,Junior,BD&A,450,latex
+621,Quentin,Estievenart,Junior,BD&A,450,postgresql
+621,Quentin,Estievenart,Junior,BD&A,450,mysql
+621,Quentin,Estievenart,Junior,BD&A,450,tableau
+621,Quentin,Estievenart,Junior,BD&A,450,sas
+621,Quentin,Estievenart,Junior,BD&A,450,data mining
+621,Quentin,Estievenart,Junior,BD&A,450,python
+621,Quentin,Estievenart,Junior,BD&A,450,spark
+621,Quentin,Estievenart,Junior,BD&A,450,oracle
+621,Quentin,Estievenart,Junior,BD&A,450,r
+621,Quentin,Estievenart,Junior,BD&A,450,office
+621,Quentin,Estievenart,Junior,BD&A,450,weka
+622,Samy,Azaz,Junior,BD&A,450,postgresql
+622,Samy,Azaz,Junior,BD&A,450,sql
+622,Samy,Azaz,Junior,BD&A,450,hive
+622,Samy,Azaz,Junior,BD&A,450,mongodb
+622,Samy,Azaz,Junior,BD&A,450,hadoop
+622,Samy,Azaz,Junior,BD&A,450,machine learning
+622,Samy,Azaz,Junior,BD&A,450,windows
+622,Samy,Azaz,Junior,BD&A,450,r
+622,Samy,Azaz,Junior,BD&A,450,times
+622,Samy,Azaz,Junior,BD&A,450,power
+622,Samy,Azaz,Junior,BD&A,450,agile
+622,Samy,Azaz,Junior,BD&A,450,word
+622,Samy,Azaz,Junior,BD&A,450,latex
+622,Samy,Azaz,Junior,BD&A,450,aws
+622,Samy,Azaz,Junior,BD&A,450,powerpoint
+622,Samy,Azaz,Junior,BD&A,450,python
+622,Samy,Azaz,Junior,BD&A,450,mathematica
+622,Samy,Azaz,Junior,BD&A,450,tableau
+622,Samy,Azaz,Junior,BD&A,450,shiny
+622,Samy,Azaz,Junior,BD&A,450,alteryx
+622,Samy,Azaz,Junior,BD&A,450,excel
+622,Samy,Azaz,Junior,BD&A,450,linux
+623,Stef,Peeters,Consultant,BD&A,450,r
+623,Stef,Peeters,Consultant,BD&A,450,impala
+623,Stef,Peeters,Consultant,BD&A,450,linux
+623,Stef,Peeters,Consultant,BD&A,450,windows
+623,Stef,Peeters,Consultant,BD&A,450,excel
+623,Stef,Peeters,Consultant,BD&A,450,word
+623,Stef,Peeters,Consultant,BD&A,450,latex
+623,Stef,Peeters,Consultant,BD&A,450,c++
+623,Stef,Peeters,Consultant,BD&A,450,html
+623,Stef,Peeters,Consultant,BD&A,450,php
+623,Stef,Peeters,Consultant,BD&A,450,sql
+623,Stef,Peeters,Consultant,BD&A,450,javascript
+623,Stef,Peeters,Consultant,BD&A,450,java
+623,Stef,Peeters,Consultant,BD&A,450,machine learning
+623,Stef,Peeters,Consultant,BD&A,450,hadoop
+623,Stef,Peeters,Consultant,BD&A,450,pig
+623,Stef,Peeters,Consultant,BD&A,450,hive
+623,Stef,Peeters,Consultant,BD&A,450,none
+623,Stef,Peeters,Consultant,BD&A,450,python
+623,Stef,Peeters,Consultant,BD&A,450,maple
+623,Stef,Peeters,Consultant,BD&A,450,web
+623,Stef,Peeters,Consultant,BD&A,450,spark
+623,Stef,Peeters,Consultant,BD&A,450,photo
+623,Stef,Peeters,Consultant,BD&A,450,mysql
+623,Stef,Peeters,Consultant,BD&A,450,matlab
+623,Stef,Peeters,Consultant,BD&A,450,tableau
+632,Daniel,Terci,Manager,KM,450,excel
+632,Daniel,Terci,Manager,KM,450,word
+632,Daniel,Terci,Manager,KM,450,publisher
+632,Daniel,Terci,Manager,KM,450,outlook
+632,Daniel,Terci,Manager,KM,450,powerpoint
+632,Daniel,Terci,Manager,KM,450,cognos
+632,Daniel,Terci,Manager,KM,450,qlik
+632,Daniel,Terci,Manager,KM,450,access
+632,Daniel,Terci,Manager,KM,450,coral
+632,Daniel,Terci,Manager,KM,450,adobe
+632,Daniel,Terci,Manager,KM,450,tm1
+632,Daniel,Terci,Manager,KM,450,project
+632,Daniel,Terci,Manager,KM,450,visio
+638,Alfred,Van Slagmolen,Senior,CPM,450,hyperion
+638,Alfred,Van Slagmolen,Senior,CPM,450,cognos
+638,Alfred,Van Slagmolen,Senior,CPM,450,sap
+638,Alfred,Van Slagmolen,Senior,CPM,450,tm1
+638,Alfred,Van Slagmolen,Senior,CPM,450,vba
+638,Alfred,Van Slagmolen,Senior,CPM,450,visual basic
+638,Alfred,Van Slagmolen,Senior,CPM,450,excel
+638,Alfred,Van Slagmolen,Senior,CPM,450,office
+638,Alfred,Van Slagmolen,Senior,CPM,450,powerpoint
+638,Alfred,Van Slagmolen,Senior,CPM,450,word
+640,Dirk,Brys,Expert,BI,450,cognos
+640,Dirk,Brys,Expert,BI,450,db2
+640,Dirk,Brys,Expert,BI,450,oracle
+640,Dirk,Brys,Expert,BI,450,sql
+640,Dirk,Brys,Expert,BI,450,c++
+640,Dirk,Brys,Expert,BI,450,sybase
+640,Dirk,Brys,Expert,BI,450,teradata
+640,Dirk,Brys,Expert,BI,450,tm1
+640,Dirk,Brys,Expert,BI,450,osisoft
+640,Dirk,Brys,Expert,BI,450,ejb
+640,Dirk,Brys,Expert,BI,450,pl
+640,Dirk,Brys,Expert,BI,450,information
+640,Dirk,Brys,Expert,BI,450,pipeline
+640,Dirk,Brys,Expert,BI,450,sap
+640,Dirk,Brys,Expert,BI,450,vb
+640,Dirk,Brys,Expert,BI,450,aion
+640,Dirk,Brys,Expert,BI,450,java
+640,Dirk,Brys,Expert,BI,450,corba
+640,Dirk,Brys,Expert,BI,450,gamp
+640,Dirk,Brys,Expert,BI,450,csv
+640,Dirk,Brys,Expert,BI,450,uml
+640,Dirk,Brys,Expert,BI,450,oo
+640,Dirk,Brys,Expert,BI,450,netezza
+640,Dirk,Brys,Expert,BI,450,bsp
+640,Dirk,Brys,Expert,BI,450,stbox
+640,Dirk,Brys,Expert,BI,450,sas
+640,Dirk,Brys,Expert,BI,450,informatica
+640,Dirk,Brys,Expert,BI,450,ibm
+640,Dirk,Brys,Expert,BI,450,change
+640,Dirk,Brys,Expert,BI,450,etl
+640,Dirk,Brys,Expert,BI,450,tmap
+640,Dirk,Brys,Expert,BI,450,good
+640,Dirk,Brys,Expert,BI,450,agile
+640,Dirk,Brys,Expert,BI,450,com+
+640,Dirk,Brys,Expert,BI,450,smalltalk
+640,Dirk,Brys,Expert,BI,450,opc
+640,Dirk,Brys,Expert,BI,450,xsl
+640,Dirk,Brys,Expert,BI,450,xml
+640,Dirk,Brys,Expert,BI,450,
+640,Dirk,Brys,Expert,BI,450,cpm
+640,Dirk,Brys,Expert,BI,450,scrum
+640,Dirk,Brys,Expert,BI,450,data warehousing
+640,Dirk,Brys,Expert,BI,450,dimensional
+640,Dirk,Brys,Expert,BI,450,quality
+640,Dirk,Brys,Expert,BI,450,businessobjects
+642,Lise,Braeckman,Consultant,BD&A,450,tableau
+642,Lise,Braeckman,Consultant,BD&A,450,data warehousing
+642,Lise,Braeckman,Consultant,BD&A,450,kimball
+642,Lise,Braeckman,Consultant,BD&A,450,scrum
+642,Lise,Braeckman,Consultant,BD&A,450,office
+642,Lise,Braeckman,Consultant,BD&A,450,excel
+642,Lise,Braeckman,Consultant,BD&A,450,sql
+642,Lise,Braeckman,Consultant,BD&A,450,vba
+642,Lise,Braeckman,Consultant,BD&A,450,sas
+642,Lise,Braeckman,Consultant,BD&A,450,python
+642,Lise,Braeckman,Consultant,BD&A,450,r
+642,Lise,Braeckman,Consultant,BD&A,450,spss
+642,Lise,Braeckman,Consultant,BD&A,450,oracle
+642,Lise,Braeckman,Consultant,BD&A,450,dataflux
+642,Lise,Braeckman,Consultant,BD&A,450,xlstat
+644,Edouard,Escoyez,Senior,BI,450,sap
+644,Edouard,Escoyez,Senior,BI,450,cognos
+644,Edouard,Escoyez,Senior,BI,450,peoplesoft
+644,Edouard,Escoyez,Senior,BI,450,chronogestor
+644,Edouard,Escoyez,Senior,BI,450,finarch
+644,Edouard,Escoyez,Senior,BI,450,siebel
+644,Edouard,Escoyez,Senior,BI,450,sas
+644,Edouard,Escoyez,Senior,BI,450,vb
+644,Edouard,Escoyez,Senior,BI,450,bex
+644,Edouard,Escoyez,Senior,BI,450,ssrs
+648,Erwin,Lauwerysen,Senior,BI,450,cognos
+648,Erwin,Lauwerysen,Senior,BI,450,ibm
+648,Erwin,Lauwerysen,Senior,BI,450,oracle
+648,Erwin,Lauwerysen,Senior,BI,450,informix
+648,Erwin,Lauwerysen,Senior,BI,450,toad
+648,Erwin,Lauwerysen,Senior,BI,450,sap
+648,Erwin,Lauwerysen,Senior,BI,450,sql
+648,Erwin,Lauwerysen,Senior,BI,450,hadoop
+648,Erwin,Lauwerysen,Senior,BI,450,hp
+648,Erwin,Lauwerysen,Senior,BI,450,unix
+648,Erwin,Lauwerysen,Senior,BI,450,linux
+648,Erwin,Lauwerysen,Senior,BI,450,data vault
+648,Erwin,Lauwerysen,Senior,BI,450,business data
+648,Erwin,Lauwerysen,Senior,BI,450,data warehousing
+648,Erwin,Lauwerysen,Senior,BI,450,office
+648,Erwin,Lauwerysen,Senior,BI,450,java
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,java
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,machine learning
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,scala
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,google
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,jupyter
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,rays
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,elasticsearch
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,aws
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,leap
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,amazon
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,linux
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,mac
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,android
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,latex
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,windows
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,uml
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,data management
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,agile
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,big data
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,office
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,word
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,powerpoint
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,openoffice
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,excel
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,c++
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,html
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,nodejs
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,keyrus
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,python
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,matlab
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,spark
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,oo
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,alteryx
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,none
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,r
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,javascript
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,eeglab
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,alchemy
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,mysql
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,tableau
+650,Jorge,Garcia Ximenez,Junior,BD&A,450,eclipse
+652,Karel,Vanhulle,Consultant,BI,450,sap
+652,Karel,Vanhulle,Consultant,BI,450,cognos
+652,Karel,Vanhulle,Consultant,BI,450,toad
+652,Karel,Vanhulle,Consultant,BI,450,excel
+652,Karel,Vanhulle,Consultant,BI,450,powerpoint
+652,Karel,Vanhulle,Consultant,BI,450,word
+652,Karel,Vanhulle,Consultant,BI,450,office
+652,Karel,Vanhulle,Consultant,BI,450,data management
+652,Karel,Vanhulle,Consultant,BI,450,business data
+652,Karel,Vanhulle,Consultant,BI,450,sql
+652,Karel,Vanhulle,Consultant,BI,450,business analysis
+652,Karel,Vanhulle,Consultant,BI,450,qlik
+658,Youssef,Chilah,Consultant,BI,450,html
+658,Youssef,Chilah,Consultant,BI,450,cognos
+658,Youssef,Chilah,Consultant,BI,450,sql
+658,Youssef,Chilah,Consultant,BI,450,oracle
+658,Youssef,Chilah,Consultant,BI,450,various
+658,Youssef,Chilah,Consultant,BI,450,sharepoint
+658,Youssef,Chilah,Consultant,BI,450,powerview
+658,Youssef,Chilah,Consultant,BI,450,excel
+658,Youssef,Chilah,Consultant,BI,450,abs
+658,Youssef,Chilah,Consultant,BI,450,scrum
+658,Youssef,Chilah,Consultant,BI,450,agile
+658,Youssef,Chilah,Consultant,BI,450,java
+658,Youssef,Chilah,Consultant,BI,450,css
+658,Youssef,Chilah,Consultant,BI,450,powerpivot
+658,Youssef,Chilah,Consultant,BI,450,c#
+658,Youssef,Chilah,Consultant,BI,450,asp
+662,David,Vander Borght,Expert,BI,450,azure
+662,David,Vander Borght,Expert,BI,450,bi
+662,David,Vander Borght,Expert,BI,450,c++
+662,David,Vander Borght,Expert,BI,450,teradata
+662,David,Vander Borght,Expert,BI,450,qlik
+662,David,Vander Borght,Expert,BI,450,powerdesigner
+662,David,Vander Borght,Expert,BI,450,sql
+662,David,Vander Borght,Expert,BI,450,oracle
+662,David,Vander Borght,Expert,BI,450,tm1
+662,David,Vander Borght,Expert,BI,450,informix
+662,David,Vander Borght,Expert,BI,450,db2
+662,David,Vander Borght,Expert,BI,450,hadoop
+662,David,Vander Borght,Expert,BI,450,sap
+662,David,Vander Borght,Expert,BI,450,microstrategy
+662,David,Vander Borght,Expert,BI,450,sas
+662,David,Vander Borght,Expert,BI,450,businessobjects
+662,David,Vander Borght,Expert,BI,450,noad
+662,David,Vander Borght,Expert,BI,450,uml
+662,David,Vander Borght,Expert,BI,450,agile
+662,David,Vander Borght,Expert,BI,450,asp
+662,David,Vander Borght,Expert,BI,450,visual basic
+662,David,Vander Borght,Expert,BI,450,jsf
+662,David,Vander Borght,Expert,BI,450,informatica
+671,Koen,Dils,Director,CPM,450,sas
+671,Koen,Dils,Director,CPM,450,hyperion
+671,Koen,Dils,Director,CPM,450,kalido
+671,Koen,Dils,Director,CPM,450,ssis
+671,Koen,Dils,Director,CPM,450,cognos
+671,Koen,Dils,Director,CPM,450,none
+671,Koen,Dils,Director,CPM,450,tagetik
+671,Koen,Dils,Director,CPM,450,sql
+671,Koen,Dils,Director,CPM,450,bpm
+671,Koen,Dils,Director,CPM,450,office
+671,Koen,Dils,Director,CPM,450,adp
+671,Koen,Dils,Director,CPM,450,defining
+671,Koen,Dils,Director,CPM,450,project
+671,Koen,Dils,Director,CPM,450,business analysis
+671,Koen,Dils,Director,CPM,450,functional
+671,Koen,Dils,Director,CPM,450,financial
+671,Koen,Dils,Director,CPM,450,audit
+675,Thomas,Walkiers,Junior,BD&A,450,linux
+675,Thomas,Walkiers,Junior,BD&A,450,javascript
+675,Thomas,Walkiers,Junior,BD&A,450,ampl
+675,Thomas,Walkiers,Junior,BD&A,450,sql
+675,Thomas,Walkiers,Junior,BD&A,450,java
+675,Thomas,Walkiers,Junior,BD&A,450,d3
+675,Thomas,Walkiers,Junior,BD&A,450,html
+675,Thomas,Walkiers,Junior,BD&A,450,excel
+675,Thomas,Walkiers,Junior,BD&A,450,operations
+675,Thomas,Walkiers,Junior,BD&A,450,markov
+675,Thomas,Walkiers,Junior,BD&A,450,word
+675,Thomas,Walkiers,Junior,BD&A,450,latex
+675,Thomas,Walkiers,Junior,BD&A,450,powerpoint
+675,Thomas,Walkiers,Junior,BD&A,450,spark
+675,Thomas,Walkiers,Junior,BD&A,450,windows
+675,Thomas,Walkiers,Junior,BD&A,450,python
+675,Thomas,Walkiers,Junior,BD&A,450,adobe
+675,Thomas,Walkiers,Junior,BD&A,450,hadoop
+675,Thomas,Walkiers,Junior,BD&A,450,shiny
+675,Thomas,Walkiers,Junior,BD&A,450,web
+675,Thomas,Walkiers,Junior,BD&A,450,cad
+675,Thomas,Walkiers,Junior,BD&A,450,mongodb
+675,Thomas,Walkiers,Junior,BD&A,450,nosql
+675,Thomas,Walkiers,Junior,BD&A,450,hive
+675,Thomas,Walkiers,Junior,BD&A,450,machine learning
+675,Thomas,Walkiers,Junior,BD&A,450,qlikview
+675,Thomas,Walkiers,Junior,BD&A,450,tableau
+675,Thomas,Walkiers,Junior,BD&A,450,office
+675,Thomas,Walkiers,Junior,BD&A,450,css
+675,Thomas,Walkiers,Junior,BD&A,450,matlab
+675,Thomas,Walkiers,Junior,BD&A,450,r
+676,Christopher,Genachte,Senior,KM,450,sqlite
+676,Christopher,Genachte,Senior,KM,450,qlikview
+676,Christopher,Genachte,Senior,KM,450,vba
+676,Christopher,Genachte,Senior,KM,450,php
+676,Christopher,Genachte,Senior,KM,450,java
+676,Christopher,Genachte,Senior,KM,450,html
+676,Christopher,Genachte,Senior,KM,450,c
+676,Christopher,Genachte,Senior,KM,450,office
+676,Christopher,Genachte,Senior,KM,450,uml
+676,Christopher,Genachte,Senior,KM,450,mysql
+677,Thibaut,Dort,Senior,KM,450,vba
+677,Thibaut,Dort,Senior,KM,450,matlab
+677,Thibaut,Dort,Senior,KM,450,stata
+680,Youssef,Achbany,Manager,KM,450,vmware
+680,Youssef,Achbany,Manager,KM,450,finarch
+680,Youssef,Achbany,Manager,KM,450,oracle
+680,Youssef,Achbany,Manager,KM,450,sas
+680,Youssef,Achbany,Manager,KM,450,matlab
+680,Youssef,Achbany,Manager,KM,450,visual basic
+680,Youssef,Achbany,Manager,KM,450,sql
+680,Youssef,Achbany,Manager,KM,450,java
+680,Youssef,Achbany,Manager,KM,450,cobol
+680,Youssef,Achbany,Manager,KM,450,c++
+680,Youssef,Achbany,Manager,KM,450,c#
+680,Youssef,Achbany,Manager,KM,450,c
+680,Youssef,Achbany,Manager,KM,450,visio
+680,Youssef,Achbany,Manager,KM,450,murex
+680,Youssef,Achbany,Manager,KM,450,sap
+680,Youssef,Achbany,Manager,KM,450,uml
+680,Youssef,Achbany,Manager,KM,450,thaler
+680,Youssef,Achbany,Manager,KM,450,aris
+680,Youssef,Achbany,Manager,KM,450,bodi
+680,Youssef,Achbany,Manager,KM,450,dexia
+680,Youssef,Achbany,Manager,KM,450,paribas
+680,Youssef,Achbany,Manager,KM,450,visual studio
+680,Youssef,Achbany,Manager,KM,450,linux
+680,Youssef,Achbany,Manager,KM,450,rational
+680,Youssef,Achbany,Manager,KM,450,ibm
+680,Youssef,Achbany,Manager,KM,450,windows
+680,Youssef,Achbany,Manager,KM,450,project
+680,Youssef,Achbany,Manager,KM,450,prince2
+680,Youssef,Achbany,Manager,KM,450,unix
+685,Arnaud,Deflorenne,Partner,KM,450,prince2
+685,Arnaud,Deflorenne,Partner,KM,450,agile
+685,Arnaud,Deflorenne,Partner,KM,450,uml
+685,Arnaud,Deflorenne,Partner,KM,450,excel
+685,Arnaud,Deflorenne,Partner,KM,450,c
+685,Arnaud,Deflorenne,Partner,KM,450,project
+685,Arnaud,Deflorenne,Partner,KM,450,powerpoint
+685,Arnaud,Deflorenne,Partner,KM,450,unix
+685,Arnaud,Deflorenne,Partner,KM,450,c++
+685,Arnaud,Deflorenne,Partner,KM,450,java
+685,Arnaud,Deflorenne,Partner,KM,450,sql
+685,Arnaud,Deflorenne,Partner,KM,450,visual basic
+685,Arnaud,Deflorenne,Partner,KM,450,cognos
+685,Arnaud,Deflorenne,Partner,KM,450,qlikview
+685,Arnaud,Deflorenne,Partner,KM,450,jira
+685,Arnaud,Deflorenne,Partner,KM,450,word
+685,Arnaud,Deflorenne,Partner,KM,450,linux
+685,Arnaud,Deflorenne,Partner,KM,450,access
+688,Adrien,Delsemme,Manager,KM,450,sap
+688,Adrien,Delsemme,Manager,KM,450,albis
+688,Adrien,Delsemme,Manager,KM,450,aris
+688,Adrien,Delsemme,Manager,KM,450,excel
+688,Adrien,Delsemme,Manager,KM,450,word
+688,Adrien,Delsemme,Manager,KM,450,powerpoint
+688,Adrien,Delsemme,Manager,KM,450,visio
+688,Adrien,Delsemme,Manager,KM,450,access
+688,Adrien,Delsemme,Manager,KM,450,oracle
+698,Paul,Jonlet,Senior,KM,450,access
+698,Paul,Jonlet,Senior,KM,450,data warehousing
+698,Paul,Jonlet,Senior,KM,450,excel
+698,Paul,Jonlet,Senior,KM,450,word
+698,Paul,Jonlet,Senior,KM,450,powerpoint
+698,Paul,Jonlet,Senior,KM,450,cobol
+698,Paul,Jonlet,Senior,KM,450,opics
+698,Paul,Jonlet,Senior,KM,450,sql
+703,Céline,Vanhopplijnus,Senior,KM,450,access
+703,Céline,Vanhopplijnus,Senior,KM,450,sql
+703,Céline,Vanhopplijnus,Senior,KM,450,java
+703,Céline,Vanhopplijnus,Senior,KM,450,office
+703,Céline,Vanhopplijnus,Senior,KM,450,lean-six
+703,Céline,Vanhopplijnus,Senior,KM,450,sap
+703,Céline,Vanhopplijnus,Senior,KM,450,windows
+713,Tom,Van den Bergh,Manager,BI,450,data
+713,Tom,Van den Bergh,Manager,BI,450,ibm
+713,Tom,Van den Bergh,Manager,BI,450,sap
+713,Tom,Van den Bergh,Manager,BI,450,rpg
+713,Tom,Van den Bergh,Manager,BI,450,offshore
+713,Tom,Van den Bergh,Manager,BI,450,functional
+713,Tom,Van den Bergh,Manager,BI,450,data warehousing
+713,Tom,Van den Bergh,Manager,BI,450,technical
+713,Tom,Van den Bergh,Manager,BI,450,dimensional
+713,Tom,Van den Bergh,Manager,BI,450,agile
+713,Tom,Van den Bergh,Manager,BI,450,defining
+713,Tom,Van den Bergh,Manager,BI,450,data modeling
+713,Tom,Van den Bergh,Manager,BI,450,business analysis
+713,Tom,Van den Bergh,Manager,BI,450,etl
+713,Tom,Van den Bergh,Manager,BI,450,project
+713,Tom,Van den Bergh,Manager,BI,450,dwh
+713,Tom,Van den Bergh,Manager,BI,450,lotus
+713,Tom,Van den Bergh,Manager,BI,450,cognos
+713,Tom,Van den Bergh,Manager,BI,450,sql
+723,Anne,De Vos,Manager,BI,450,business data
+723,Anne,De Vos,Manager,BI,450,soa
+723,Anne,De Vos,Manager,BI,450,data modeling
+723,Anne,De Vos,Manager,BI,450,business analysis
+723,Anne,De Vos,Manager,BI,450,hadoop
+723,Anne,De Vos,Manager,BI,450,project
+723,Anne,De Vos,Manager,BI,450,defining
+723,Anne,De Vos,Manager,BI,450,oracle
+723,Anne,De Vos,Manager,BI,450,uml
+723,Anne,De Vos,Manager,BI,450,informatica
+723,Anne,De Vos,Manager,BI,450,qlik
+723,Anne,De Vos,Manager,BI,450,sap
+723,Anne,De Vos,Manager,BI,450,spotfire
+723,Anne,De Vos,Manager,BI,450,cognos
+723,Anne,De Vos,Manager,BI,450,sybase
+723,Anne,De Vos,Manager,BI,450,sql
+723,Anne,De Vos,Manager,BI,450,c++
+723,Anne,De Vos,Manager,BI,450,navision
+723,Anne,De Vos,Manager,BI,450,agile
+723,Anne,De Vos,Manager,BI,450,iis
+723,Anne,De Vos,Manager,BI,450,azure
+723,Anne,De Vos,Manager,BI,450,asp
+723,Anne,De Vos,Manager,BI,450,google
+723,Anne,De Vos,Manager,BI,450,credit
+723,Anne,De Vos,Manager,BI,450,pmbok
+723,Anne,De Vos,Manager,BI,450,itil
+728,Yvan,Hoefman,Expert,CPM,450,dynamics
+728,Yvan,Hoefman,Expert,CPM,450,exact
+728,Yvan,Hoefman,Expert,CPM,450,project
+728,Yvan,Hoefman,Expert,CPM,450,changepoint
+728,Yvan,Hoefman,Expert,CPM,450,tagetik
+728,Yvan,Hoefman,Expert,CPM,450,cognos
+728,Yvan,Hoefman,Expert,CPM,450,access
+728,Yvan,Hoefman,Expert,CPM,450,sql
+728,Yvan,Hoefman,Expert,CPM,450,hyperion
+728,Yvan,Hoefman,Expert,CPM,450,excel
+728,Yvan,Hoefman,Expert,CPM,450,power
+728,Yvan,Hoefman,Expert,CPM,450,data modeling
+728,Yvan,Hoefman,Expert,CPM,450,cpm
+728,Yvan,Hoefman,Expert,CPM,450,budgeting
+728,Yvan,Hoefman,Expert,CPM,450,kimball
+728,Yvan,Hoefman,Expert,CPM,450,data warehousing
+728,Yvan,Hoefman,Expert,CPM,450,coda
+729,Marc,Pirson,Senior,KM,450,itil
+729,Marc,Pirson,Senior,KM,450,lean-six
+729,Marc,Pirson,Senior,KM,450,soa
+730,Kamil,Pochodaj,Manager,BI,450,xml
+730,Kamil,Pochodaj,Manager,BI,450,cpm
+730,Kamil,Pochodaj,Manager,BI,450,big data
+730,Kamil,Pochodaj,Manager,BI,450,budgeting
+730,Kamil,Pochodaj,Manager,BI,450,office
+730,Kamil,Pochodaj,Manager,BI,450,sql
+730,Kamil,Pochodaj,Manager,BI,450,technical
+730,Kamil,Pochodaj,Manager,BI,450,sas
+730,Kamil,Pochodaj,Manager,BI,450,html
+730,Kamil,Pochodaj,Manager,BI,450,spark
+730,Kamil,Pochodaj,Manager,BI,450,python
+730,Kamil,Pochodaj,Manager,BI,450,oracle
+730,Kamil,Pochodaj,Manager,BI,450,hive
+730,Kamil,Pochodaj,Manager,BI,450,pig
+730,Kamil,Pochodaj,Manager,BI,450,css
+730,Kamil,Pochodaj,Manager,BI,450,process
+730,Kamil,Pochodaj,Manager,BI,450,data quality
+730,Kamil,Pochodaj,Manager,BI,450,agile
+730,Kamil,Pochodaj,Manager,BI,450,hadoop
+730,Kamil,Pochodaj,Manager,BI,450,impala
+730,Kamil,Pochodaj,Manager,BI,450,ibm
+730,Kamil,Pochodaj,Manager,BI,450,netezza
+730,Kamil,Pochodaj,Manager,BI,450,linux
+730,Kamil,Pochodaj,Manager,BI,450,windows
+730,Kamil,Pochodaj,Manager,BI,450,red
+730,Kamil,Pochodaj,Manager,BI,450,uml
+730,Kamil,Pochodaj,Manager,BI,450,dwh
+730,Kamil,Pochodaj,Manager,BI,450,business data
+730,Kamil,Pochodaj,Manager,BI,450,abc
+730,Kamil,Pochodaj,Manager,BI,450,campaign
+730,Kamil,Pochodaj,Manager,BI,450,dimensional
+730,Kamil,Pochodaj,Manager,BI,450,dataflux
+730,Kamil,Pochodaj,Manager,BI,450,sap
+730,Kamil,Pochodaj,Manager,BI,450,microsoft
+730,Kamil,Pochodaj,Manager,BI,450,mdx
+730,Kamil,Pochodaj,Manager,BI,450,teradata
+730,Kamil,Pochodaj,Manager,BI,450,postgresql
+730,Kamil,Pochodaj,Manager,BI,450,data modelling
+730,Kamil,Pochodaj,Manager,BI,450,etl
+730,Kamil,Pochodaj,Manager,BI,450,toad
+730,Kamil,Pochodaj,Manager,BI,450,mysql
+730,Kamil,Pochodaj,Manager,BI,450,access
+730,Kamil,Pochodaj,Manager,BI,450,cognos
+734,Cédric,Smirnov,Junior,BI,450,cognos
+734,Cédric,Smirnov,Junior,BI,450,sql
+734,Cédric,Smirnov,Junior,BI,450,powerpivot
+734,Cédric,Smirnov,Junior,BI,450,uml
+734,Cédric,Smirnov,Junior,BI,450,qlikview
+734,Cédric,Smirnov,Junior,BI,450,t-sql
+734,Cédric,Smirnov,Junior,BI,450,mathematica
+734,Cédric,Smirnov,Junior,BI,450,r
+734,Cédric,Smirnov,Junior,BI,450,vba
+734,Cédric,Smirnov,Junior,BI,450,excel
+735,Evangelia,Dougali,Junior,BD&A,450,qlik
+735,Evangelia,Dougali,Junior,BD&A,450,sas
+735,Evangelia,Dougali,Junior,BD&A,450,aginity
+735,Evangelia,Dougali,Junior,BD&A,450,matlab
+735,Evangelia,Dougali,Junior,BD&A,450,netezza
+735,Evangelia,Dougali,Junior,BD&A,450,python
+735,Evangelia,Dougali,Junior,BD&A,450,c
+735,Evangelia,Dougali,Junior,BD&A,450,office
+735,Evangelia,Dougali,Junior,BD&A,450,r
+735,Evangelia,Dougali,Junior,BD&A,450,tableau
+735,Evangelia,Dougali,Junior,BD&A,450,machine learning
+735,Evangelia,Dougali,Junior,BD&A,450,impala
+735,Evangelia,Dougali,Junior,BD&A,450,sql
+735,Evangelia,Dougali,Junior,BD&A,450,transcirber
+735,Evangelia,Dougali,Junior,BD&A,450,spark
+735,Evangelia,Dougali,Junior,BD&A,450,data modelling
+735,Evangelia,Dougali,Junior,BD&A,450,spss
+735,Evangelia,Dougali,Junior,BD&A,450,hadoop
+735,Evangelia,Dougali,Junior,BD&A,450,alteryx
+735,Evangelia,Dougali,Junior,BD&A,450,text
+735,Evangelia,Dougali,Junior,BD&A,450,hive
+735,Evangelia,Dougali,Junior,BD&A,450,statistics
+736,Thomas,Gérard,Consultant,BI,450,postgresql
+736,Thomas,Gérard,Consultant,BI,450,sql
+736,Thomas,Gérard,Consultant,BI,450,excel
+736,Thomas,Gérard,Consultant,BI,450,qgis
+736,Thomas,Gérard,Consultant,BI,450,oracle
+736,Thomas,Gérard,Consultant,BI,450,sas
+736,Thomas,Gérard,Consultant,BI,450,ab
+736,Thomas,Gérard,Consultant,BI,450,java
+736,Thomas,Gérard,Consultant,BI,450,vba
+736,Thomas,Gérard,Consultant,BI,450,perl
+736,Thomas,Gérard,Consultant,BI,450,openoffice
+736,Thomas,Gérard,Consultant,BI,450,unix
+736,Thomas,Gérard,Consultant,BI,450,python
+736,Thomas,Gérard,Consultant,BI,450,hadoop
+736,Thomas,Gérard,Consultant,BI,450,sap
+738,Gauthier,Feuillen,Junior,BD&A,450,mapr
+738,Gauthier,Feuillen,Junior,BD&A,450,hbase
+738,Gauthier,Feuillen,Junior,BD&A,450,kafka
+738,Gauthier,Feuillen,Junior,BD&A,450,mappoint
+738,Gauthier,Feuillen,Junior,BD&A,450,linux
+738,Gauthier,Feuillen,Junior,BD&A,450,latex
+738,Gauthier,Feuillen,Junior,BD&A,450,windows
+738,Gauthier,Feuillen,Junior,BD&A,450,java
+738,Gauthier,Feuillen,Junior,BD&A,450,spark
+738,Gauthier,Feuillen,Junior,BD&A,450,scala
+738,Gauthier,Feuillen,Junior,BD&A,450,python
+738,Gauthier,Feuillen,Junior,BD&A,450,matlab
+738,Gauthier,Feuillen,Junior,BD&A,450,neo4j
+738,Gauthier,Feuillen,Junior,BD&A,450,c
+746,Gianfranco,Gentile,Consultant,BD&A,450,oracle
+746,Gianfranco,Gentile,Consultant,BD&A,450,hadoop
+746,Gianfranco,Gentile,Consultant,BD&A,450,sas
+746,Gianfranco,Gentile,Consultant,BD&A,450,statistical
+746,Gianfranco,Gentile,Consultant,BD&A,450,multi-wavelength
+746,Gianfranco,Gentile,Consultant,BD&A,450,data modelling
+746,Gianfranco,Gentile,Consultant,BD&A,450,tableau
+746,Gianfranco,Gentile,Consultant,BD&A,450,"aips,"
+746,Gianfranco,Gentile,Consultant,BD&A,450,siebel
+746,Gianfranco,Gentile,Consultant,BD&A,450,qlik
+746,Gianfranco,Gentile,Consultant,BD&A,450,astronomy
+746,Gianfranco,Gentile,Consultant,BD&A,450,mac
+746,Gianfranco,Gentile,Consultant,BD&A,450,windows
+746,Gianfranco,Gentile,Consultant,BD&A,450,linux
+746,Gianfranco,Gentile,Consultant,BD&A,450,python
+746,Gianfranco,Gentile,Consultant,BD&A,450,r
+746,Gianfranco,Gentile,Consultant,BD&A,450,fortran
+747,Maxime,Coniglio,Junior,BD&A,450,hadoop
+747,Maxime,Coniglio,Junior,BD&A,450,kafka
+747,Maxime,Coniglio,Junior,BD&A,450,netbeans
+747,Maxime,Coniglio,Junior,BD&A,450,qlik
+747,Maxime,Coniglio,Junior,BD&A,450,python
+747,Maxime,Coniglio,Junior,BD&A,450,data mining
+747,Maxime,Coniglio,Junior,BD&A,450,java
+747,Maxime,Coniglio,Junior,BD&A,450,big data
+747,Maxime,Coniglio,Junior,BD&A,450,linux
+747,Maxime,Coniglio,Junior,BD&A,450,machine learning
+747,Maxime,Coniglio,Junior,BD&A,450,spark
+747,Maxime,Coniglio,Junior,BD&A,450,text
+747,Maxime,Coniglio,Junior,BD&A,450,scala
+748,Quentin,Caesens,Junior,CPM,450,sas
+748,Quentin,Caesens,Junior,CPM,450,tagetik
+748,Quentin,Caesens,Junior,CPM,450,alteryx
+748,Quentin,Caesens,Junior,CPM,450,oracle
+748,Quentin,Caesens,Junior,CPM,450,stata
+748,Quentin,Caesens,Junior,CPM,450,r
+748,Quentin,Caesens,Junior,CPM,450,spss
+748,Quentin,Caesens,Junior,CPM,450,sql
+748,Quentin,Caesens,Junior,CPM,450,cxo
+748,Quentin,Caesens,Junior,CPM,450,blackline
+748,Quentin,Caesens,Junior,CPM,450,tableau
+748,Quentin,Caesens,Junior,CPM,450,hyperion
+748,Quentin,Caesens,Junior,CPM,450,sharepoint
+748,Quentin,Caesens,Junior,CPM,450,qlik
+748,Quentin,Caesens,Junior,CPM,450,java
+748,Quentin,Caesens,Junior,CPM,450,vba
+748,Quentin,Caesens,Junior,CPM,450,sap
+748,Quentin,Caesens,Junior,CPM,450,excel
+748,Quentin,Caesens,Junior,CPM,450,office
+749,Thomas,Ramos da Silva,Junior,BD&A,450,visual basic
+749,Thomas,Ramos da Silva,Junior,BD&A,450,tableau
+749,Thomas,Ramos da Silva,Junior,BD&A,450,hadoop
+749,Thomas,Ramos da Silva,Junior,BD&A,450,r
+749,Thomas,Ramos da Silva,Junior,BD&A,450,python
+749,Thomas,Ramos da Silva,Junior,BD&A,450,office
+749,Thomas,Ramos da Silva,Junior,BD&A,450,excel
+749,Thomas,Ramos da Silva,Junior,BD&A,450,latex
+749,Thomas,Ramos da Silva,Junior,BD&A,450,word
+749,Thomas,Ramos da Silva,Junior,BD&A,450,business analysis
+749,Thomas,Ramos da Silva,Junior,BD&A,450,windows
+749,Thomas,Ramos da Silva,Junior,BD&A,450,powerpoint
+750,Xavier,Vanderlynden,Senior,CPM,450,cognos
+750,Xavier,Vanderlynden,Senior,CPM,450,hyperion
+750,Xavier,Vanderlynden,Senior,CPM,450,qlikview
+750,Xavier,Vanderlynden,Senior,CPM,450,vba
+750,Xavier,Vanderlynden,Senior,CPM,450,adp
+751,Igaal,Perez,Senior,BD&A,450,sql
+751,Igaal,Perez,Senior,BD&A,450,sas
+751,Igaal,Perez,Senior,BD&A,450,informatica
+751,Igaal,Perez,Senior,BD&A,450,vb
+751,Igaal,Perez,Senior,BD&A,450,vba
+751,Igaal,Perez,Senior,BD&A,450,office
+751,Igaal,Perez,Senior,BD&A,450,windows
+751,Igaal,Perez,Senior,BD&A,450,python
+751,Igaal,Perez,Senior,BD&A,450,qlik
+751,Igaal,Perez,Senior,BD&A,450,cognos
+751,Igaal,Perez,Senior,BD&A,450,tableau
+751,Igaal,Perez,Senior,BD&A,450,hive
+751,Igaal,Perez,Senior,BD&A,450,impala
+751,Igaal,Perez,Senior,BD&A,450,etl
+751,Igaal,Perez,Senior,BD&A,450,hadoop
+751,Igaal,Perez,Senior,BD&A,450,r
+751,Igaal,Perez,Senior,BD&A,450,project
+751,Igaal,Perez,Senior,BD&A,450,dynamics
+751,Igaal,Perez,Senior,BD&A,450,mercator
+751,Igaal,Perez,Senior,BD&A,450,navision
+751,Igaal,Perez,Senior,BD&A,450,alteryx
+751,Igaal,Perez,Senior,BD&A,450,jira
+754,Dries,Vyvey,Manager,BI,450,visual studio
+754,Dries,Vyvey,Manager,BI,450,sharepoint
+754,Dries,Vyvey,Manager,BI,450,visio
+754,Dries,Vyvey,Manager,BI,450,excel
+754,Dries,Vyvey,Manager,BI,450,vba
+754,Dries,Vyvey,Manager,BI,450,pl
+754,Dries,Vyvey,Manager,BI,450,oracle
+754,Dries,Vyvey,Manager,BI,450,power
+754,Dries,Vyvey,Manager,BI,450,powerpivot
+754,Dries,Vyvey,Manager,BI,450,word
+754,Dries,Vyvey,Manager,BI,450,sybase
+754,Dries,Vyvey,Manager,BI,450,jira
+754,Dries,Vyvey,Manager,BI,450,sas
+754,Dries,Vyvey,Manager,BI,450,sap
+754,Dries,Vyvey,Manager,BI,450,access
+755,Damien,Van Steenberge,Manager,BI,450,cognos
+755,Damien,Van Steenberge,Manager,BI,450,deltek
+755,Damien,Van Steenberge,Manager,BI,450,fx
+755,Damien,Van Steenberge,Manager,BI,450,c++
+755,Damien,Van Steenberge,Manager,BI,450,sql
+755,Damien,Van Steenberge,Manager,BI,450,crystal
+755,Damien,Van Steenberge,Manager,BI,450,data management
+755,Damien,Van Steenberge,Manager,BI,450,san
+755,Damien,Van Steenberge,Manager,BI,450,change
+755,Damien,Van Steenberge,Manager,BI,450,process
+755,Damien,Van Steenberge,Manager,BI,450,business analysis
+755,Damien,Van Steenberge,Manager,BI,450,business data
+755,Damien,Van Steenberge,Manager,BI,450,technology
+755,Damien,Van Steenberge,Manager,BI,450,architecture
+755,Damien,Van Steenberge,Manager,BI,450,data quality
+755,Damien,Van Steenberge,Manager,BI,450,technical
+755,Damien,Van Steenberge,Manager,BI,450,budgeting
+755,Damien,Van Steenberge,Manager,BI,450,project
+755,Damien,Van Steenberge,Manager,BI,450,html
+755,Damien,Van Steenberge,Manager,BI,450,ssis
+755,Damien,Van Steenberge,Manager,BI,450,ssrs
+755,Damien,Van Steenberge,Manager,BI,450,
+755,Damien,Van Steenberge,Manager,BI,450,ibm
+755,Damien,Van Steenberge,Manager,BI,450,t-sql
+755,Damien,Van Steenberge,Manager,BI,450,java
+755,Damien,Van Steenberge,Manager,BI,450,ssas
+757,Vincent,Noury,Consultant,KM,450,project
+757,Vincent,Noury,Consultant,KM,450,php
+757,Vincent,Noury,Consultant,KM,450,sql
+757,Vincent,Noury,Consultant,KM,450,excel
+757,Vincent,Noury,Consultant,KM,450,html
+757,Vincent,Noury,Consultant,KM,450,mathematica
+758,Lorraine,Swiatek,Consultant,KM,450,sap
+758,Lorraine,Swiatek,Consultant,KM,450,essbase
+758,Lorraine,Swiatek,Consultant,KM,450,office
+760,Henrique,Cabral,Senior,BD&A,450,python
+760,Henrique,Cabral,Senior,BD&A,450,r
+760,Henrique,Cabral,Senior,BD&A,450,business analysis
+760,Henrique,Cabral,Senior,BD&A,450,mysql
+760,Henrique,Cabral,Senior,BD&A,450,amazon
+760,Henrique,Cabral,Senior,BD&A,450,sql
+760,Henrique,Cabral,Senior,BD&A,450,spark
+760,Henrique,Cabral,Senior,BD&A,450,statistical
+760,Henrique,Cabral,Senior,BD&A,450,adobe
+760,Henrique,Cabral,Senior,BD&A,450,basic
+760,Henrique,Cabral,Senior,BD&A,450,data modeling
+760,Henrique,Cabral,Senior,BD&A,450,latex
+760,Henrique,Cabral,Senior,BD&A,450,mac
+760,Henrique,Cabral,Senior,BD&A,450,linux
+760,Henrique,Cabral,Senior,BD&A,450,machine learning
+760,Henrique,Cabral,Senior,BD&A,450,pure
+760,Henrique,Cabral,Senior,BD&A,450,matlab
+760,Henrique,Cabral,Senior,BD&A,450,omniata
+763,Faisal,Orakzai,Senior,BD&A,450,c++
+763,Faisal,Orakzai,Senior,BD&A,450,arcview
+763,Faisal,Orakzai,Senior,BD&A,450,apache
+763,Faisal,Orakzai,Senior,BD&A,450,nosql
+763,Faisal,Orakzai,Senior,BD&A,450,mongodb
+763,Faisal,Orakzai,Senior,BD&A,450,mysql
+763,Faisal,Orakzai,Senior,BD&A,450,hibernate
+763,Faisal,Orakzai,Senior,BD&A,450,j2ee
+763,Faisal,Orakzai,Senior,BD&A,450,hadoop
+763,Faisal,Orakzai,Senior,BD&A,450,jdbc
+763,Faisal,Orakzai,Senior,BD&A,450,cassandra
+763,Faisal,Orakzai,Senior,BD&A,450,hbase
+763,Faisal,Orakzai,Senior,BD&A,450,opentsdb
+763,Faisal,Orakzai,Senior,BD&A,450,kafka
+763,Faisal,Orakzai,Senior,BD&A,450,spark
+763,Faisal,Orakzai,Senior,BD&A,450,data modelling
+763,Faisal,Orakzai,Senior,BD&A,450,websphere
+763,Faisal,Orakzai,Senior,BD&A,450,sql
+763,Faisal,Orakzai,Senior,BD&A,450,oracle
+763,Faisal,Orakzai,Senior,BD&A,450,java
+763,Faisal,Orakzai,Senior,BD&A,450,scala
+763,Faisal,Orakzai,Senior,BD&A,450,python
+763,Faisal,Orakzai,Senior,BD&A,450,jsf
+763,Faisal,Orakzai,Senior,BD&A,450,hive
+763,Faisal,Orakzai,Senior,BD&A,450,javascript
+763,Faisal,Orakzai,Senior,BD&A,450,jsp
+763,Faisal,Orakzai,Senior,BD&A,450,html
+763,Faisal,Orakzai,Senior,BD&A,450,data mining
+763,Faisal,Orakzai,Senior,BD&A,450,data warehousing
+763,Faisal,Orakzai,Senior,BD&A,450,json
+763,Faisal,Orakzai,Senior,BD&A,450,soa
+763,Faisal,Orakzai,Senior,BD&A,450,d3
+763,Faisal,Orakzai,Senior,BD&A,450,aws
+763,Faisal,Orakzai,Senior,BD&A,450,devops
+763,Faisal,Orakzai,Senior,BD&A,450,bpmn
+763,Faisal,Orakzai,Senior,BD&A,450,elasticsearch
+763,Faisal,Orakzai,Senior,BD&A,450,vmware
+763,Faisal,Orakzai,Senior,BD&A,450,data management
+763,Faisal,Orakzai,Senior,BD&A,450,distributed
+763,Faisal,Orakzai,Senior,BD&A,450,nlp
+763,Faisal,Orakzai,Senior,BD&A,450,linux
+765,Hakim,Abbes,Junior,BI,450,office
+765,Hakim,Abbes,Junior,BI,450,excel
+765,Hakim,Abbes,Junior,BI,450,data mining
+765,Hakim,Abbes,Junior,BI,450,python
+765,Hakim,Abbes,Junior,BI,450,scala
+765,Hakim,Abbes,Junior,BI,450,r
+765,Hakim,Abbes,Junior,BI,450,big data
+765,Hakim,Abbes,Junior,BI,450,php
+765,Hakim,Abbes,Junior,BI,450,oracle
+765,Hakim,Abbes,Junior,BI,450,spark
+765,Hakim,Abbes,Junior,BI,450,mysql
+765,Hakim,Abbes,Junior,BI,450,sql
+765,Hakim,Abbes,Junior,BI,450,impala
+765,Hakim,Abbes,Junior,BI,450,tableau
+765,Hakim,Abbes,Junior,BI,450,power
+765,Hakim,Abbes,Junior,BI,450,sas
+765,Hakim,Abbes,Junior,BI,450,aginity
+765,Hakim,Abbes,Junior,BI,450,sap
+765,Hakim,Abbes,Junior,BI,450,operations
+765,Hakim,Abbes,Junior,BI,450,business analysis
+765,Hakim,Abbes,Junior,BI,450,netezza
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,postgis
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,linux
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,html
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,java
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,spark
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,python
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,r
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,3g
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,satellite
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,postgresql
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,none
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,udp
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,mechanical
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,nmea
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,machine learning
+772,Olivier,Van Tongerloo,Consultant,BD&A,450,tcp
+774,Sébastien,Carion,Manager,KM,450,riskmanager
+774,Sébastien,Carion,Manager,KM,450,sap
+774,Sébastien,Carion,Manager,KM,450,visio
+774,Sébastien,Carion,Manager,KM,450,office
+774,Sébastien,Carion,Manager,KM,450,project
+774,Sébastien,Carion,Manager,KM,450,change
+775,Simeon,Hayden,Expert,BI,450,informatica
+775,Simeon,Hayden,Expert,BI,450,toad
+775,Simeon,Hayden,Expert,BI,450,etl
+775,Simeon,Hayden,Expert,BI,450,sap
+775,Simeon,Hayden,Expert,BI,450,pl
+775,Simeon,Hayden,Expert,BI,450,oracle
+775,Simeon,Hayden,Expert,BI,450,c
+775,Simeon,Hayden,Expert,BI,450,unix
+775,Simeon,Hayden,Expert,BI,450,crystal
+777,Alexandre,Sartini,Manager,KM,450,access
+777,Alexandre,Sartini,Manager,KM,450,visio
+777,Alexandre,Sartini,Manager,KM,450,powerpoint
+777,Alexandre,Sartini,Manager,KM,450,outlook
+777,Alexandre,Sartini,Manager,KM,450,word
+777,Alexandre,Sartini,Manager,KM,450,scrum
+777,Alexandre,Sartini,Manager,KM,450,agile
+777,Alexandre,Sartini,Manager,KM,450,clarity
+777,Alexandre,Sartini,Manager,KM,450,lean-six
+777,Alexandre,Sartini,Manager,KM,450,testing
+777,Alexandre,Sartini,Manager,KM,450,excel
+777,Alexandre,Sartini,Manager,KM,450,digital
+777,Alexandre,Sartini,Manager,KM,450,prince2
+777,Alexandre,Sartini,Manager,KM,450,sharepoint
+780,Elias,L Mourabiti,Junior,BI,450,mathematica
+780,Elias,L Mourabiti,Junior,BI,450,octave
+780,Elias,L Mourabiti,Junior,BI,450,matlab
+780,Elias,L Mourabiti,Junior,BI,450,sql
+780,Elias,L Mourabiti,Junior,BI,450,r
+780,Elias,L Mourabiti,Junior,BI,450,linux
+780,Elias,L Mourabiti,Junior,BI,450,uml
+780,Elias,L Mourabiti,Junior,BI,450,excel
+780,Elias,L Mourabiti,Junior,BI,450,c
+780,Elias,L Mourabiti,Junior,BI,450,python
+780,Elias,L Mourabiti,Junior,BI,450,powerpivot
+780,Elias,L Mourabiti,Junior,BI,450,sap
+780,Elias,L Mourabiti,Junior,BI,450,power
+780,Elias,L Mourabiti,Junior,BI,450,qlikview
+780,Elias,L Mourabiti,Junior,BI,450,tableau
+780,Elias,L Mourabiti,Junior,BI,450,powerview
+781,Obiyaa,Ansah,Junior,BI,450,visio
+781,Obiyaa,Ansah,Junior,BI,450,html
+781,Obiyaa,Ansah,Junior,BI,450,javascript
+781,Obiyaa,Ansah,Junior,BI,450,css
+781,Obiyaa,Ansah,Junior,BI,450,sql
+781,Obiyaa,Ansah,Junior,BI,450,sap
+781,Obiyaa,Ansah,Junior,BI,450,powerpoint
+781,Obiyaa,Ansah,Junior,BI,450,webex
+781,Obiyaa,Ansah,Junior,BI,450,spotfire
+781,Obiyaa,Ansah,Junior,BI,450,word
+781,Obiyaa,Ansah,Junior,BI,450,qlik
+781,Obiyaa,Ansah,Junior,BI,450,scrum
+781,Obiyaa,Ansah,Junior,BI,450,kanban
+781,Obiyaa,Ansah,Junior,BI,450,agile
+781,Obiyaa,Ansah,Junior,BI,450,uml
+781,Obiyaa,Ansah,Junior,BI,450,raspberry
+781,Obiyaa,Ansah,Junior,BI,450,arduino
+781,Obiyaa,Ansah,Junior,BI,450,bpm
+782,Stef,Verdoodt,Junior,BI,450,javascript
+782,Stef,Verdoodt,Junior,BI,450,css
+782,Stef,Verdoodt,Junior,BI,450,sas
+782,Stef,Verdoodt,Junior,BI,450,power
+782,Stef,Verdoodt,Junior,BI,450,tableau
+782,Stef,Verdoodt,Junior,BI,450,informatica
+782,Stef,Verdoodt,Junior,BI,450,html
+782,Stef,Verdoodt,Junior,BI,450,qlikview
+782,Stef,Verdoodt,Junior,BI,450,sap
+782,Stef,Verdoodt,Junior,BI,450,mysql
+782,Stef,Verdoodt,Junior,BI,450,oracle
+782,Stef,Verdoodt,Junior,BI,450,ssis
+782,Stef,Verdoodt,Junior,BI,450,data warehousing
+782,Stef,Verdoodt,Junior,BI,450,excel
+782,Stef,Verdoodt,Junior,BI,450,tagetik
+782,Stef,Verdoodt,Junior,BI,450,vba
+787,Gunther,Hellebaut,Senior,KM,450,bpmn
+787,Gunther,Hellebaut,Senior,KM,450,uml
+787,Gunther,Hellebaut,Senior,KM,450,lean-six
+787,Gunther,Hellebaut,Senior,KM,450,prince2
+787,Gunther,Hellebaut,Senior,KM,450,scrum
+787,Gunther,Hellebaut,Senior,KM,450,office
+787,Gunther,Hellebaut,Senior,KM,450,visual paradigm
+787,Gunther,Hellebaut,Senior,KM,450,sap
+787,Gunther,Hellebaut,Senior,KM,450,visio
+787,Gunther,Hellebaut,Senior,KM,450,project

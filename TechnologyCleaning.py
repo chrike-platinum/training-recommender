@@ -2,25 +2,28 @@ from Christiaan.csvLoading.CSVLoader import read_csv_tableau
 from Christiaan.dataCleaning.dataCleaner import cleanTechColumn
 import pandas as pd
 
-filename = 'tableau_technology_export.csv'
-df = read_csv_tableau(filename, filename)
+def readTechCSV(filename):
+    df = read_csv_tableau(filename, filename)
+    df = df[['Employee Number', 'Firstname Firstname', 'Lastname Lastname', 'Level Level', 'Practice Practice', 'Suggested Daily Rate', 'Name Name']]
+    df.columns =['Employee Number', 'Firstname', 'Lastname', 'Level', 'Practice', 'Suggested Daily Rate', 'Technology']
+    df.sort_values('Employee Number', inplace=True)
+    return df
 
-#df = df[['Employee Number','Firstname','Lastname','Level1','Practice1','Suggested Daily Rate','Name','Name (dim technologycategories.csv)']]
-df = df[['Employee Number', 'Firstname Firstname', 'Lastname Lastname', 'Level Level', 'Practice Practice', 'Suggested Daily Rate', 'Name Name']]
-df.columns =['Employee Number', 'Firstname', 'Lastname', 'Level', 'Practice', 'Suggested Daily Rate', 'Technology']
-df.sort_values('Employee Number', inplace=True)
+def cleanTech(dataFrame, techColumnName):
+    df = cleanTechColumn(dataFrame, techColumnName)
+    df.drop_duplicates(inplace=True)
+    return df
 
-#df['Technology'] = df['Technology'].str.lower()
+# Read Tableau csv export
+file = 'tableau_technology_export.csv'
+df = readTechCSV(file)
 
 # Filter by Department = BI and BD&A
 departments = ['BI', 'BD&A']
 df_dep = df[df['Practice'].isin(departments)]
 
-#a = [x for x in df_dep['Technology']]
-
 # Clean Technology column values and drop duplicates
-df_dep = cleanTechColumn(df_dep, 'Technology')
-df_dep.drop_duplicates(inplace=True)
+df_dep = cleanTech(df_dep, 'Technology')
 
 # Obtain list of Technologies for each employee
 emp_num = df_dep['Employee Number'].unique()
@@ -33,9 +36,9 @@ df_dep = df_dep.drop('Technology', axis=1).drop_duplicates()
 row_vals = df_dep.values.tolist()
 
 # Zip row values and Technologies
-emp_tech_tuples = list(zip(row_vals, emp_tech_list))
+emp_tech_tuples = [tuple([*row_vals[i], emp_tech_list[i]]) for i in range(len(emp_tech_list))]
 
-print(emp_tech_tuples)
+#print(emp_tech_tuples)
 
 
 
