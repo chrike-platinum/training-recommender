@@ -6,6 +6,7 @@ from collections import Counter
 import operator
 from numpy import random
 
+
 def getFeatureVector(employeeList,practice,N):
     employeesExpertsSkills = [item.getTechList() for item in employeeList if item.hasExpertStatus() and item.getPractice()==practice]
     employeesExpertsSkills = [item for sublist in employeesExpertsSkills for item in sublist]
@@ -14,9 +15,13 @@ def getFeatureVector(employeeList,practice,N):
     sorted_x.reverse()
     return [item[0] for item in sorted_x[:N]]
 
+def removeAndGiveBack(completeList,el):
+    completeList.remove(el)
+    return completeList
+
 def getEmployeeObjects():
     emplList = getTechListEmployees()
-    employeeList = [EmployeeObject(item[0],item[1],item[2],item[3],item[4],item[5],item[6]) for item in emplList]
+    employeeList = [EmployeeObject(item[0],item[1],item[2],item[3],item[4],item[5],item[6]) if '' not in item[6] else EmployeeObject(item[0],item[1],item[2],item[3],item[4],item[5], removeAndGiveBack(item[6],'')) for item in emplList]
     return employeeList
 
 def getAllUpdatedEmployeeData(practices,N):
@@ -33,13 +38,14 @@ def getAllUpdatedEmployeeData(practices,N):
 
 def getTechList(practice,N):
     listOfTech = [employee.getTechList() for employee in getEmployeeObjects() if employee.getPractice()==practice]
-    listOfTech = list(set([item for sublist in listOfTech for item in sublist]))
+
+    listOfTech = [item for sublist in listOfTech for item in sublist]
+    listOfTechCounter = Counter(listOfTech)
+
+    sorted_listOfTech = sorted(listOfTechCounter.items(), key=operator.itemgetter(1))
+    sorted_listOfTech.reverse()
+    sorted_listOfTech = [item for item in sorted_listOfTech if (item[0] != '' and item[0].lower() != 'none')]
+    return [item[0] for item in sorted_listOfTech[:N]]
 
 
-    random.seed(4)
-    random.shuffle(listOfTech)
-
-
-    listOfTech.remove('')
-    return listOfTech
 

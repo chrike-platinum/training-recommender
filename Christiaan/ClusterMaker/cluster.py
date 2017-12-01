@@ -37,3 +37,5 @@ def calculateMostSimilarExperts():
     return BIregulars,BDAregulars
 
 
+for employee in getExpertsList('BD&A'):
+    print(employee)

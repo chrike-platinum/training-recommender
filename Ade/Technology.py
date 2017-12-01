@@ -66,9 +66,13 @@ def get_weight(kwlist, timeframe='today 5-y', geo='BE'):
     df.plot()
     plt.title(weight)
     plt.show()
-    '''
 
+    if weight == None:
+            weight =  0
+    '''
     return weight
+
+
 
 def dict_to_dataframe(dict):
     my_list = [(k, v) for k, v in dict.items()]
@@ -85,6 +89,8 @@ def dict_to_dataframe(dict):
 
 pytrends = TrendReq(hl='en-US', tz=360)
 
+#print(get_weight(['vba']))
+
 '''
 tech_weights_dict = {element: get_weight([element]) for element in technology}
 #dict_to_csv(tech_weights_dict)
@@ -100,11 +106,10 @@ def getTechWeight(tech):
     except:
         cachedWeightsdf=pd.DataFrame(columns=['Technology','Weight'])
     if tech in cachedWeightsdf['Technology'].values:
-        print('in cache')
         return cachedWeightsdf[cachedWeightsdf['Technology']==tech]['Weight'].values[0]
     else:
         weight = get_weight([tech])
         cachedWeightsdf=cachedWeightsdf.append(pd.Series([tech, weight], index=['Technology','Weight']), ignore_index=True)
         cachedWeightsdf.to_csv('Technology_Weights_cache.csv',index=False)
-
+        return weight
 
