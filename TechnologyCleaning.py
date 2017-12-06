@@ -37,39 +37,3 @@ row_vals = df_dep.values.tolist()
 
 # Zip row values and Technologies
 emp_tech_tuples = [tuple([*row_vals[i], emp_tech_list[i]]) for i in range(len(emp_tech_list))]
-
-#print(emp_tech_tuples)
-
-
-
-
-#print(
-#df_dep.loc[df_dep['Employee Number']==6,'Technology'])
-#b = [x for x in df_dep['Technology']]
-
-#ab = zip(a, b)
-#[print(i) for i in ab]
-
-#[print(i, j) for i, j in enumerate(df_dep['Technology'])]
-
-#print(df_dep['Technology'])
-
-#df_dep['Tech_Group'] = df_dep.Technology.str.split(' ', expand = True)[0].str.split('/', expand = True)[0]
-#df_dep['Tech_Group'] = df_dep.Tech_Group.str.split('/', expand = True)[0]
-
-# Split BI and BD&A Datasets
-#df_bi = df_dep[df_dep['Practice'] == 'BI']
-#df_bda = df_dep[df_dep['Practice'] == 'BD&A']
-
-#print(df_bi.head())
-#print(df_bda.head())
-
-#print(df.info())
-#print(df.head())
-#print(df.describe())
-#print(df_dep['Tech_Group'].value_counts(sort=True, dropna=False))
-
-#print(df_bi['Technology'].value_counts(sort=True))
-#print(df_bda['Technology'].value_counts(sort=True))
-
-#print(df_dep['Technology'].str.split()[0])

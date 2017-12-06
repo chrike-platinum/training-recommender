@@ -44,7 +44,7 @@ def ceil(n):
     return res if res == n or n < 0 else res+1
 
 def get_weight(kwlist, timeframe='today 5-y', geo='BE'):
-    print('calling API')
+    print('calling API --- for',kwlist)
     '''
     Calls query_trends function, which returns a DataFrame of Google Trends data for given keyword (list)
     Calculates weight value based on change in interest within time period
@@ -89,7 +89,7 @@ def dict_to_dataframe(dict):
 
 pytrends = TrendReq(hl='en-US', tz=360)
 
-#print(get_weight(['vba']))
+#print(get_weight(['aws']))
 
 '''
 tech_weights_dict = {element: get_weight([element]) for element in technology}
@@ -100,7 +100,7 @@ print(df)
 df.to_csv(path_or_buf='Technology_Weights_cache.csv', sep=',')
 '''
 
-def getTechWeight(tech):
+def getMarketImportanceOfTech(tech):
     try:
         cachedWeightsdf = pd.read_csv('Technology_Weights_cache.csv')
     except:
