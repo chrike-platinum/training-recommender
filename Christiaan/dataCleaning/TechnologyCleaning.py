@@ -26,13 +26,24 @@ def getTechListEmployees():
     df_dep = df_dep.drop('Technology', axis=1).drop_duplicates()
     # Convert df to list of lists (for each row)
     row_vals = df_dep.values.tolist()
+
+    #'Geoffrey', 'Moerenhoudt'
+    #'Vasilij', 'Nevlev'
+    #'Faisal', 'Orakzai' -> senior
+    #'Pieter', 'Vandamme' -> director
+
+    row_vals = [employee if employee[1]!='Faisal' and employee[2]!='Orakzai' else [employee[0],employee[1],employee[2],'Senior',employee[4],employee[5]] for employee in row_vals]
+    row_vals = [employee for employee in row_vals if employee[3]!='unknown' or employee[3]!='unknown']
+
+
+
     # Zip row values and Technologies
     emp_tech_tuples = [tuple((a) + [b]) for a, b in zip(row_vals, emp_tech_list)]
     return  emp_tech_tuples
 
 
 
-
+print(getTechListEmployees())
 
 
 
